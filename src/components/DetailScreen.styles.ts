@@ -60,13 +60,7 @@ export const styles = StyleSheet.create({
     borderRadius: 10,
     backgroundColor: colors.border,
   },
-  discArtImage: {
-    width: '100%',
-    height: 220,
-    borderRadius: 10,
-    backgroundColor: colors.border,
-  },
-  imagePlaceholder: {
+imagePlaceholder: {
     opacity: 0.4,
   },
   games: {

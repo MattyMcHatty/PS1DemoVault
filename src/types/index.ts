@@ -5,7 +5,7 @@ export type Disc = {
   productCode: string;
   region: string | null;
   title: string;
-  imageUrl: string | null;
+  imageUrls: string[];
   games: Game[];
 };
 

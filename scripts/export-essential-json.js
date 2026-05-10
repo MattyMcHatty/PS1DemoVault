@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
- * Reads assets/opm-specials.db and writes src/data/opm-specials.json
- * Run: node scripts/export-opm-specials-json.js
+ * Reads assets/essential.db and writes src/data/essential.json
+ * Run: node scripts/export-essential-json.js
  */
 
 const https = require('https');
@@ -10,8 +10,8 @@ const fs = require('fs');
 const path = require('path');
 const Database = require('better-sqlite3');
 
-const DB_PATH  = path.join(__dirname, '..', 'assets', 'opm-specials.db');
-const OUT_PATH = path.join(__dirname, '..', 'src', 'data', 'opm-specials.json');
+const DB_PATH  = path.join(__dirname, '..', 'assets', 'essential.db');
+const OUT_PATH = path.join(__dirname, '..', 'src', 'data', 'essential.json');
 
 function headRequest(url) {
   return new Promise(resolve => {

@@ -1,9 +1,11 @@
 import React, { useRef, useMemo, useState, useEffect } from 'react';
 import { FlatList, ListRenderItemInfo, StatusBar, Text, TouchableOpacity, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
-import { ALL_REGIONS, COLLECTION_OPTIONS, DISC_COLLECTIONS, REGION_FLAGS } from '../constants';
+import { ALL_REGIONS, COLLECTION_OPTIONS, DISC_COLLECTIONS, NULL_REGION, REGION_FLAGS } from '../constants';
 import demos from '../data/demos.json';
 import opmSpecials from '../data/opm-specials.json';
+import essential from '../data/essential.json';
+import demo1 from '../data/demo1.json';
 import { useCollected } from '../hooks/useCollected';
 import { CollectionFilter, Disc, DiscCollection } from '../types';
 import { DiscItem } from './DiscItem';
@@ -12,9 +14,16 @@ import { MenuDrawer } from './MenuDrawer';
 import { styles } from './DiscList.styles';
 import { colors } from '../styles/colors';
 
+const EUROPEAN_REGIONS = new Set([
+  'Benelux', 'Denmark', 'Finland', 'France', 'Germany',
+  'Ireland', 'Italy', 'Poland', 'Spain', 'UK',
+]);
+
 const COLLECTION_DATA: Record<string, Disc[]> = {
   'opm':          demos as Disc[],
   'opm-specials': opmSpecials as Disc[],
+  'essential':    essential as Disc[],
+  'demo1':        demo1 as Disc[],
 };
 
 type Props = {
@@ -40,16 +49,25 @@ export function DiscList({ onSelect, onReady }: Props) {
   const activeData = COLLECTION_DATA[activeCollection.id] ?? (demos as Disc[]);
 
   const regionOptions = useMemo(() => {
+    const hasNullRegion = activeData.some(d => d.region === null);
     const regions = [ALL_REGIONS, ...Array.from(
       new Set(activeData.map(d => d.region).filter((r): r is string => r !== null))
     ).sort()];
-    return regions.map(r => ({ value: r, label: r, icon: REGION_FLAGS[r] ?? '🏳️' }));
+    const options = regions.map(r => ({ value: r, label: r, icon: REGION_FLAGS[r] ?? '🏳️' }));
+    if (hasNullRegion) options.push({ value: NULL_REGION, label: 'No Region', icon: '🌐' });
+    return options;
   }, [activeData]);
 
   const filtered = useMemo(() => {
     let result = activeData;
-    if (selectedRegion !== ALL_REGIONS) {
-      result = result.filter(d => d.region === selectedRegion || d.region === null);
+    if (selectedRegion === NULL_REGION) {
+      result = result.filter(d => d.region === null);
+    } else if (selectedRegion !== ALL_REGIONS) {
+      if (EUROPEAN_REGIONS.has(selectedRegion)) {
+        result = result.filter(d => d.region === selectedRegion || d.region === 'Europe');
+      } else {
+        result = result.filter(d => d.region === selectedRegion);
+      }
     }
     if (collectionFilter === 'collected') {
       result = result.filter(d => collected.has(d.id));

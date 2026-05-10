@@ -38,7 +38,7 @@ export default function App() {
     <SafeAreaProvider>
       <Root onReady={handleReady} />
       {!splashDone && (
-        <Animated.View style={[StyleSheet.absoluteFill, { opacity: splashOpacity }]}>
+        <Animated.View style={[StyleSheet.absoluteFill, { opacity: splashOpacity }]} pointerEvents="none">
           <SplashScreen />
         </Animated.View>
       )}

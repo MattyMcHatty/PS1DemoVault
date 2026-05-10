@@ -78,6 +78,8 @@ yarn-error.log
 assets/disc-images/
 assets/demos.db
 assets/opm-specials.db
+assets/essential.db
+assets/demo1.db
 
 # Metro bundle (Android build output)
 android/app/src/main/assets/

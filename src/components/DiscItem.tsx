@@ -1,5 +1,6 @@
 import React from 'react';
 import { Image, Text, TouchableOpacity, View } from 'react-native';
+import { REGION_FLAGS } from '../constants';
 import { Disc } from '../types';
 import { Checkbox } from './Checkbox';
 import { styles } from './DiscItem.styles';
@@ -19,10 +20,13 @@ export function DiscItem({ item, collected, onToggle, onImagePress }: Props) {
         {item.title}
       </Text>
       <TouchableOpacity onPress={onImagePress} activeOpacity={0.8}>
-        {item.imageUrl ? (
-          <Image source={{ uri: item.imageUrl }} style={styles.image} resizeMode="contain" />
+        {item.imageUrls.length > 0 ? (
+          <Image source={{ uri: item.imageUrls[0] }} style={styles.image} resizeMode="contain" />
         ) : (
           <View style={[styles.image, styles.imagePlaceholder]} />
+        )}
+        {item.region && REGION_FLAGS[item.region] && (
+          <Text style={styles.flagOverlay}>{REGION_FLAGS[item.region]}</Text>
         )}
       </TouchableOpacity>
     </View>

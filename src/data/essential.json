@@ -1,0 +1,1382 @@
+[
+  {
+    "id": 1,
+    "productCode": "SCED-00502",
+    "region": "Germany",
+    "title": "Essential Playstation CD One",
+    "games": [
+      {
+        "title": "Adidas Power Soccer",
+        "category": "playable"
+      },
+      {
+        "title": "Assault Rigs",
+        "category": "playable"
+      },
+      {
+        "title": "Destruction Derby",
+        "category": "playable"
+      },
+      {
+        "title": "Discworld",
+        "category": "playable"
+      },
+      {
+        "title": "Jumping Flash",
+        "category": "playable"
+      },
+      {
+        "title": "Lemmings 3D",
+        "category": "playable"
+      },
+      {
+        "title": "Pro Pinball",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Revolution",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeout",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/ger01-1.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "productCode": "SCED-00502",
+    "region": "UK",
+    "title": "Essential Playstation CD One",
+    "games": [
+      {
+        "title": "Adidas Power Soccer",
+        "category": "playable"
+      },
+      {
+        "title": "Assault Rigs",
+        "category": "playable"
+      },
+      {
+        "title": "Destruction Derby",
+        "category": "playable"
+      },
+      {
+        "title": "Discworld",
+        "category": "playable"
+      },
+      {
+        "title": "Jumping Flash",
+        "category": "playable"
+      },
+      {
+        "title": "Lemmings 3D",
+        "category": "playable"
+      },
+      {
+        "title": "Pro Pinball",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Revolution",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeout",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/uk01-1.jpg",
+      "https://crimson-ceremony.net/demopals/essential/uk01-2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "productCode": "SCED-00572",
+    "region": "UK",
+    "title": "Essential Playstation CD Two",
+    "games": [
+      {
+        "title": "Actua Soccer",
+        "category": "playable"
+      },
+      {
+        "title": "Descent",
+        "category": "playable"
+      },
+      {
+        "title": "Krazy Ivan",
+        "category": "playable"
+      },
+      {
+        "title": "Loaded",
+        "category": "playable"
+      },
+      {
+        "title": "Mortal Kombat 3",
+        "category": "playable"
+      },
+      {
+        "title": "Striker '98",
+        "category": "playable"
+      },
+      {
+        "title": "Supersonic Racers",
+        "category": "playable"
+      },
+      {
+        "title": "X-Com: Enemy Unknown",
+        "category": "trailer"
+      },
+      {
+        "title": "Olympic Soccer",
+        "category": "trailer"
+      },
+      {
+        "title": "Resident Evil",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/uk02-1.jpg",
+      "https://crimson-ceremony.net/demopals/essential/uk02-2.jpg",
+      "https://crimson-ceremony.net/demopals/essential/uk02-3.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "productCode": "SCED-00636",
+    "region": "UK",
+    "title": "Essential Playstation CD Three",
+    "games": [
+      {
+        "title": "Die Hard Trilogy",
+        "category": "playable"
+      },
+      {
+        "title": "Doom",
+        "category": "playable"
+      },
+      {
+        "title": "Formula 1",
+        "category": "playable"
+      },
+      {
+        "title": "Mickey's Wild Adventure",
+        "category": "playable"
+      },
+      {
+        "title": "Shellshock",
+        "category": "playable"
+      },
+      {
+        "title": "Tunnel B1",
+        "category": "playable"
+      },
+      {
+        "title": "Twisted Metal",
+        "category": "playable"
+      },
+      {
+        "title": "Warhawk",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeout 2097",
+        "category": "playable"
+      },
+      {
+        "title": "Broken Sword",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/uk03-1.jpg",
+      "https://crimson-ceremony.net/demopals/essential/uk03-2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "productCode": "SCED-00938",
+    "region": "Germany",
+    "title": "Euro Essential Demo 04 GER",
+    "games": [
+      {
+        "title": "Adidas Power Soccer '97",
+        "category": "playable"
+      },
+      {
+        "title": "Battle Arena Toshinden 2",
+        "category": "playable"
+      },
+      {
+        "title": "Command & Conquer",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot",
+        "category": "playable"
+      },
+      {
+        "title": "Disruptor",
+        "category": "playable"
+      },
+      {
+        "title": "Porsche Challenge",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Time Commando",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider",
+        "category": "playable"
+      },
+      {
+        "title": "Victory Boxing",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/ger04-1.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "productCode": "SCED-00938",
+    "region": "UK",
+    "title": "Essential Playstation CD Four",
+    "games": [
+      {
+        "title": "Adidas Power Soccer '97",
+        "category": "playable"
+      },
+      {
+        "title": "Battle Arena Toshinden 2",
+        "category": "playable"
+      },
+      {
+        "title": "Command & Conquer",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot",
+        "category": "playable"
+      },
+      {
+        "title": "Disruptor",
+        "category": "playable"
+      },
+      {
+        "title": "Porsche Challenge",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Time Commando",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider",
+        "category": "playable"
+      },
+      {
+        "title": "Victory Boxing",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/uk04-1.jpg",
+      "https://crimson-ceremony.net/demopals/essential/uk04-2.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "productCode": "SCED-01004",
+    "region": "UK",
+    "title": "Essential Playstation V",
+    "games": [
+      {
+        "title": "Destruction Derby 2",
+        "category": "playable"
+      },
+      {
+        "title": "Excalibur 2555AD",
+        "category": "playable"
+      },
+      {
+        "title": "Exhumed",
+        "category": "playable"
+      },
+      {
+        "title": "Little Big Adventure",
+        "category": "playable"
+      },
+      {
+        "title": "Monster Trucks",
+        "category": "playable"
+      },
+      {
+        "title": "Pandemonium",
+        "category": "playable"
+      },
+      {
+        "title": "Rage Racer",
+        "category": "playable"
+      },
+      {
+        "title": "Reloaded",
+        "category": "playable"
+      },
+      {
+        "title": "Street Racer",
+        "category": "playable"
+      },
+      {
+        "title": "Warhammer: Shadow of the Horned Rat",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/uk05-1.jpg",
+      "https://crimson-ceremony.net/demopals/essential/uk05-2.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "productCode": "SCED-00751",
+    "region": "UK",
+    "title": "Essential Playstation VI",
+    "games": [
+      {
+        "title": "Agent Armstrong",
+        "category": "playable"
+      },
+      {
+        "title": "Croc",
+        "category": "playable"
+      },
+      {
+        "title": "Fade to Black",
+        "category": "playable"
+      },
+      {
+        "title": "Overboard",
+        "category": "playable"
+      },
+      {
+        "title": "PaRappa the Rapper",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Revolution",
+        "category": "playable"
+      },
+      {
+        "title": "Speedster",
+        "category": "playable"
+      },
+      {
+        "title": "Tenka",
+        "category": "playable"
+      },
+      {
+        "title": "Test Drive 4",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeout 2097",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/uk06-1.jpg",
+      "https://crimson-ceremony.net/demopals/essential/uk06-2.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "productCode": "SCED-01110",
+    "region": "UK",
+    "title": "Essential Playstation VII",
+    "games": [
+      {
+        "title": "Colony Wars",
+        "category": "playable"
+      },
+      {
+        "title": "Felony 11-79",
+        "category": "playable"
+      },
+      {
+        "title": "G-Police",
+        "category": "playable"
+      },
+      {
+        "title": "Jonah Lomu Rugby",
+        "category": "playable"
+      },
+      {
+        "title": "Nightmare Creatures",
+        "category": "playable"
+      },
+      {
+        "title": "Oddworld: Abe's Oddysee",
+        "category": "playable"
+      },
+      {
+        "title": "Rally Cross",
+        "category": "playable"
+      },
+      {
+        "title": "Robotron X",
+        "category": "playable"
+      },
+      {
+        "title": "Spider",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 2",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/uk07-1.jpg",
+      "https://crimson-ceremony.net/demopals/essential/uk07-2.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "productCode": "SCED-01139",
+    "region": "UK",
+    "title": "Essential Playstation VIII",
+    "games": [
+      {
+        "title": "Ace Combat 2",
+        "category": "playable"
+      },
+      {
+        "title": "Actua Soccer 2",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 2",
+        "category": "playable"
+      },
+      {
+        "title": "Die Hard Trilogy",
+        "category": "playable"
+      },
+      {
+        "title": "Formula Karts",
+        "category": "playable"
+      },
+      {
+        "title": "Judge Dredd",
+        "category": "playable"
+      },
+      {
+        "title": "Machine Hunter",
+        "category": "playable"
+      },
+      {
+        "title": "Pandemonium 2",
+        "category": "playable"
+      },
+      {
+        "title": "Shadow Master",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA Touring Car",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/uk08-1.jpg",
+      "https://crimson-ceremony.net/demopals/essential/uk08-2.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "productCode": "SCED-01140",
+    "region": "Italy",
+    "title": "PlayStation Plus 1",
+    "games": [
+      {
+        "title": "Bomberman World",
+        "category": "playable"
+      },
+      {
+        "title": "Circuit Breakers",
+        "category": "playable"
+      },
+      {
+        "title": "Colin McRae Rally",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 2",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 2",
+        "category": "playable"
+      },
+      {
+        "title": "Rocks 'n' Gems",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/it09-1.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "productCode": "SCED-01140",
+    "region": "UK",
+    "title": "Essential PlayStation CD Nine",
+    "games": [
+      {
+        "title": "Bomberman World",
+        "category": "playable"
+      },
+      {
+        "title": "Circuit Breakers",
+        "category": "playable"
+      },
+      {
+        "title": "Colin McRae Rally",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 2",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 2",
+        "category": "playable"
+      },
+      {
+        "title": "Rocks 'n' Gems",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/uk09-1.jpg",
+      "https://crimson-ceremony.net/demopals/essential/uk09-2.jpg",
+      "https://crimson-ceremony.net/demopals/essential/uk09-3.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "productCode": "SCED-01140",
+    "region": "Australia",
+    "title": "Demo CD 01 (1999 Yearbook)",
+    "games": [
+      {
+        "title": "Bomberman World",
+        "category": "playable"
+      },
+      {
+        "title": "Circuit Breakers",
+        "category": "playable"
+      },
+      {
+        "title": "Colin McRae Rally",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 2",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 2",
+        "category": "playable"
+      },
+      {
+        "title": "Rocks 'n' Gems",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/aus09-1.jpg",
+      "https://crimson-ceremony.net/demopals/essential/aus09-2.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "productCode": "SCED-01141",
+    "region": "Italy",
+    "title": "PlayStation Plus 2",
+    "games": [
+      {
+        "title": "Abe's Exoddus",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3 Warped",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 2",
+        "category": "playable"
+      },
+      {
+        "title": "Dead Or Alive",
+        "category": "playable"
+      },
+      {
+        "title": "F1 '98",
+        "category": "playable"
+      },
+      {
+        "title": "Fluid",
+        "category": "playable"
+      },
+      {
+        "title": "ISS '98",
+        "category": "playable"
+      },
+      {
+        "title": "Parappa The Rapper",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/it10-1.jpg",
+      "https://crimson-ceremony.net/demopals/essential/it10-2.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "productCode": "SCED-01141",
+    "region": "UK",
+    "title": "Essential PlayStation CD Ten",
+    "games": [
+      {
+        "title": "Abe's Exoddus",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3 Warped",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 2",
+        "category": "playable"
+      },
+      {
+        "title": "Dead Or Alive",
+        "category": "playable"
+      },
+      {
+        "title": "F1 '98",
+        "category": "playable"
+      },
+      {
+        "title": "Fluid",
+        "category": "playable"
+      },
+      {
+        "title": "ISS '98",
+        "category": "playable"
+      },
+      {
+        "title": "Parappa The Rapper",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/uk10-1.jpg",
+      "https://crimson-ceremony.net/demopals/essential/uk10-2.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "productCode": "SCED-01142",
+    "region": "Italy",
+    "title": "PlayStation Plus 3",
+    "games": [
+      {
+        "title": "Akuji The Heartless",
+        "category": "playable"
+      },
+      {
+        "title": "B-Movie",
+        "category": "playable"
+      },
+      {
+        "title": "Colony Wars Vengeance",
+        "category": "playable"
+      },
+      {
+        "title": "Future Cop: LAPD",
+        "category": "playable"
+      },
+      {
+        "title": "G-Police",
+        "category": "playable"
+      },
+      {
+        "title": "Michael Owen's World League Soccer 99",
+        "category": "playable"
+      },
+      {
+        "title": "Music",
+        "category": "playable"
+      },
+      {
+        "title": "Psybadek",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA 2",
+        "category": "playable"
+      },
+      {
+        "title": "Victory Boxing 2",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/it11-1.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "productCode": "SCED-01142",
+    "region": "Spain",
+    "title": "Básico Disco 1",
+    "games": [
+      {
+        "title": "Akuji The Heartless",
+        "category": "playable"
+      },
+      {
+        "title": "B-Movie",
+        "category": "playable"
+      },
+      {
+        "title": "Colony Wars Vengeance",
+        "category": "playable"
+      },
+      {
+        "title": "Future Cop: LAPD",
+        "category": "playable"
+      },
+      {
+        "title": "G-Police",
+        "category": "playable"
+      },
+      {
+        "title": "Michael Owen's World League Soccer 99",
+        "category": "playable"
+      },
+      {
+        "title": "Music",
+        "category": "playable"
+      },
+      {
+        "title": "Psybadek",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA 2",
+        "category": "playable"
+      },
+      {
+        "title": "Victory Boxing 2",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/spa11-1.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "productCode": "SCED-01142",
+    "region": "UK",
+    "title": "Essential PlayStation CD Eleven",
+    "games": [
+      {
+        "title": "Akuji The Heartless",
+        "category": "playable"
+      },
+      {
+        "title": "B-Movie",
+        "category": "playable"
+      },
+      {
+        "title": "Colony Wars Vengeance",
+        "category": "playable"
+      },
+      {
+        "title": "Future Cop: LAPD",
+        "category": "playable"
+      },
+      {
+        "title": "G-Police",
+        "category": "playable"
+      },
+      {
+        "title": "Michael Owen's World League Soccer 99",
+        "category": "playable"
+      },
+      {
+        "title": "Music",
+        "category": "playable"
+      },
+      {
+        "title": "Psybadek",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA 2",
+        "category": "playable"
+      },
+      {
+        "title": "Victory Boxing 2",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/uk11-1.jpg",
+      "https://crimson-ceremony.net/demopals/essential/uk11-2.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "productCode": "SCED-01143",
+    "region": "Italy",
+    "title": "PlayStation Plus 4",
+    "games": [
+      {
+        "title": "A Bug's Life",
+        "category": "playable"
+      },
+      {
+        "title": "Actua Pool (Pool Shark)",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 3",
+        "category": "playable"
+      },
+      {
+        "title": "Devil Dice",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Legacy of Kain: Soul Reaver",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "playable"
+      },
+      {
+        "title": "Rollcage",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeout 2097",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "trailer"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "trailer"
+      },
+      {
+        "title": "Between the Eyes",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Bouncer 2",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Clone",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Gravitation",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Haunted Maze",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Hover Car Racing",
+        "category": "net yaroze"
+      },
+      {
+        "title": "The Incredible Coneman",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Mah Jongg",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Psychon",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Pushy II",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Rocks 'n' Gems",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Terra Incognita",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Total Soccer Yaroze",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/it12-1.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "productCode": "SCED-01143",
+    "region": "Spain",
+    "title": "Básico Disco 2",
+    "games": [
+      {
+        "title": "A Bug's Life",
+        "category": "playable"
+      },
+      {
+        "title": "Actua Pool (Pool Shark)",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 3",
+        "category": "playable"
+      },
+      {
+        "title": "Devil Dice",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Legacy of Kain: Soul Reaver",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "playable"
+      },
+      {
+        "title": "Rollcage",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeout 2097",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "trailer"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "trailer"
+      },
+      {
+        "title": "Between the Eyes",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Bouncer 2",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Clone",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Gravitation",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Haunted Maze",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Hover Car Racing",
+        "category": "net yaroze"
+      },
+      {
+        "title": "The Incredible Coneman",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Mah Jongg",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Psychon",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Pushy II",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Rocks 'n' Gems",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Terra Incognita",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Total Soccer Yaroze",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/spa12-1.jpg",
+      "https://crimson-ceremony.net/demopals/essential/spa12-2.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "productCode": "SCED-01143",
+    "region": "UK",
+    "title": "Essential PlayStation CD Twelve",
+    "games": [
+      {
+        "title": "A Bug's Life",
+        "category": "playable"
+      },
+      {
+        "title": "Actua Pool (Pool Shark)",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 3",
+        "category": "playable"
+      },
+      {
+        "title": "Devil Dice",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Legacy of Kain: Soul Reaver",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "playable"
+      },
+      {
+        "title": "Rollcage",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeout 2097",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "trailer"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "trailer"
+      },
+      {
+        "title": "Between the Eyes",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Bouncer 2",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Clone",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Gravitation",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Haunted Maze",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Hover Car Racing",
+        "category": "net yaroze"
+      },
+      {
+        "title": "The Incredible Coneman",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Mah Jongg",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Psychon",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Pushy II",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Rocks 'n' Gems",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Terra Incognita",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Total Soccer Yaroze",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/uk12-1.jpg",
+      "https://crimson-ceremony.net/demopals/essential/uk12-2.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "productCode": "SCED-01143",
+    "region": "Australia",
+    "title": "Official Australian PlayStation Collection Q1",
+    "games": [
+      {
+        "title": "A Bug's Life",
+        "category": "playable"
+      },
+      {
+        "title": "Actua Pool (Pool Shark)",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 3",
+        "category": "playable"
+      },
+      {
+        "title": "Devil Dice",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Legacy of Kain: Soul Reaver",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "playable"
+      },
+      {
+        "title": "Rollcage",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeout 2097",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "trailer"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "trailer"
+      },
+      {
+        "title": "Between the Eyes",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Bouncer 2",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Clone",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Gravitation",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Haunted Maze",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Hover Car Racing",
+        "category": "net yaroze"
+      },
+      {
+        "title": "The Incredible Coneman",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Mah Jongg",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Psychon",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Pushy II",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Rocks 'n' Gems",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Terra Incognita",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Total Soccer Yaroze",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/essential/aus12-1.jpg",
+      "https://crimson-ceremony.net/demopals/essential/aus12-2.jpg"
+    ]
+  }
+]

@@ -4,7 +4,6 @@
     "productCode": "SCED-01229",
     "region": "France",
     "title": "PlayStation Kids",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/pskids-fra-1.jpg",
     "games": [
       {
         "title": "Crash Bandicoot",
@@ -46,6 +45,10 @@
         "title": "Tekken 2",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/pskids-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/pskids-fra-2.jpg"
     ]
   },
   {
@@ -53,7 +56,6 @@
     "productCode": "SCED-01229",
     "region": "Germany",
     "title": "PlayStation Kids",
-    "imageUrl": "https://crimson-ceremony.net/demopals/sonderheft/pskids-1.jpg",
     "games": [
       {
         "title": "Crash Bandicoot",
@@ -95,6 +97,10 @@
         "title": "Tekken 2",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/sonderheft/pskids-1.jpg",
+      "https://crimson-ceremony.net/demopals/sonderheft/pskids-2.jpg"
     ]
   },
   {
@@ -102,7 +108,6 @@
     "productCode": "SCED-01387",
     "region": "Italy",
     "title": "Ufficiale PlayStation Speciale Calcio",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/footballspecial-it-1.jpg",
     "games": [
       {
         "title": "Actua Soccer",
@@ -140,6 +145,10 @@
         "title": "World League Soccer '98",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/footballspecial-it-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/footballspecial-it-2.jpg"
     ]
   },
   {
@@ -147,7 +156,6 @@
     "productCode": "SCED-01387",
     "region": "Spain",
     "title": "Edición Oficial Española PlayStation Magazine Disco 1",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/footballspecial-spa-1.jpg",
     "games": [
       {
         "title": "Actua Soccer",
@@ -185,6 +193,9 @@
         "title": "World League Soccer '98",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/footballspecial-spa-1.jpg"
     ]
   },
   {
@@ -192,7 +203,6 @@
     "productCode": "SCED-01387",
     "region": "UK",
     "title": "Official UK PlayStation Football Special",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/footballspecial-uk-1.jpg",
     "games": [
       {
         "title": "Actua Soccer",
@@ -230,6 +240,9 @@
         "title": "World League Soccer '98",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/footballspecial-uk-1.jpg"
     ]
   },
   {
@@ -237,7 +250,6 @@
     "productCode": "SCED-01640",
     "region": "Italy",
     "title": "Ufficiale PlayStation Speciale Corse",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/racingspecial-it-1.jpg",
     "games": [
       {
         "title": "Circuit Breakers",
@@ -275,6 +287,9 @@
         "title": "Wipeout 2097",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/racingspecial-it-1.jpg"
     ]
   },
   {
@@ -282,7 +297,6 @@
     "productCode": "SCED-01640",
     "region": "Spain",
     "title": "Edición Oficial Española PlayStation Magazine Disco 2",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/racingspecial-spa-1.jpg",
     "games": [
       {
         "title": "Circuit Breakers",
@@ -320,6 +334,10 @@
         "title": "Wipeout 2097",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/racingspecial-spa-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/racingspecial-spa-2.jpg"
     ]
   },
   {
@@ -327,7 +345,6 @@
     "productCode": "SCED-01640",
     "region": "UK",
     "title": "Official UK PlayStation Racing Special",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/racingspecial-uk-1.jpg",
     "games": [
       {
         "title": "Circuit Breakers",
@@ -365,6 +382,11 @@
         "title": "Wipeout 2097",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/racingspecial-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/racingspecial-uk-2.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/racingspecial-uk-3.jpg"
     ]
   },
   {
@@ -372,7 +394,6 @@
     "productCode": "SCED-01991",
     "region": "Italy",
     "title": "Ufficiale PlayStation Speciale Picchiaduro",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/beatemupspecial-it-1.jpg",
     "games": [
       {
         "title": "Battle Arena Toshinden 2",
@@ -410,6 +431,10 @@
         "title": "Victory Boxing 2",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/beatemupspecial-it-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/beatemupspecial-it-2.jpg"
     ]
   },
   {
@@ -417,7 +442,6 @@
     "productCode": "SCED-01991",
     "region": "Spain",
     "title": "Beat-Em-Up Special (Disco 3)",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/beatemupspecial-spa-1.jpg",
     "games": [
       {
         "title": "Battle Arena Toshinden 2",
@@ -455,6 +479,9 @@
         "title": "Victory Boxing 2",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/beatemupspecial-spa-1.jpg"
     ]
   },
   {
@@ -462,7 +489,6 @@
     "productCode": "SCED-01991",
     "region": "UK",
     "title": "Official UK PlayStation Beat 'Em Up Special",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/beatemupspecial-uk-1.jpg",
     "games": [
       {
         "title": "Battle Arena Toshinden 2",
@@ -500,6 +526,11 @@
         "title": "Victory Boxing 2",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/beatemupspecial-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/beatemupspecial-uk-2.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/beatemupspecial-uk-3.jpg"
     ]
   },
   {
@@ -507,7 +538,6 @@
     "productCode": "SCED-02122",
     "region": "France",
     "title": "PlayStation Magazine Platinum",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/platinumspecial-fra-1.jpg",
     "games": [
       {
         "title": "Crash Bandicoot 2",
@@ -557,6 +587,11 @@
         "title": "Wipeot 2097",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/platinumspecial-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/platinumspecial-fra-2.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/platinumspecial-fra-3.jpg"
     ]
   },
   {
@@ -564,7 +599,6 @@
     "productCode": "SCED-02122",
     "region": "Poland",
     "title": "Oficjalny Polski PlayStation Platinum Special",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/platinumspecial-pl-1.jpg",
     "games": [
       {
         "title": "Crash Bandicoot 2",
@@ -614,6 +648,9 @@
         "title": "Wipeot 2097",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/platinumspecial-pl-1.jpg"
     ]
   },
   {
@@ -621,7 +658,6 @@
     "productCode": "SCED-02122",
     "region": "Spain",
     "title": "PlayStation Básico 3 Especial Platinum",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/platinumspecial-spa-1.jpg",
     "games": [
       {
         "title": "Crash Bandicoot 2",
@@ -671,6 +707,10 @@
         "title": "Wipeot 2097",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/platinumspecial-spa-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/platinumspecial-spa-2.jpg"
     ]
   },
   {
@@ -678,7 +718,6 @@
     "productCode": "SCED-02122",
     "region": "UK",
     "title": "Official UK PlayStation Platinum Special",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/platinumspecial-uk-1.jpg",
     "games": [
       {
         "title": "Crash Bandicoot 2",
@@ -728,6 +767,9 @@
         "title": "Wipeot 2097",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/platinumspecial-uk-1.jpg"
     ]
   },
   {
@@ -735,7 +777,6 @@
     "productCode": "SCED-02327",
     "region": "Italy",
     "title": "PlayStation Plus 5",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestgamesever-it-1.jpg",
     "games": [
       {
         "title": "Ape Escape",
@@ -777,6 +818,10 @@
         "title": "Tomb Raider 3",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestgamesever-it-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestgamesever-it-2.jpg"
     ]
   },
   {
@@ -784,7 +829,6 @@
     "productCode": "SCED-02327",
     "region": "UK",
     "title": "The Best PlayStation Games Ever",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestgamesever-uk-1.jpg",
     "games": [
       {
         "title": "Ape Escape",
@@ -826,6 +870,10 @@
         "title": "Tomb Raider 3",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestgamesever-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestgamesever-uk-2.jpg"
     ]
   },
   {
@@ -833,7 +881,6 @@
     "productCode": "SCED-02327",
     "region": "Australia",
     "title": "Official Australian PlayStation Xmas Special",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestgamesever-aus-1.jpg",
     "games": [
       {
         "title": "Ape Escape",
@@ -875,6 +922,10 @@
         "title": "Tomb Raider 3",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestgamesever-aus-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestgamesever-aus-2.jpg"
     ]
   },
   {
@@ -882,7 +933,6 @@
     "productCode": "SCED-02420",
     "region": "Italy",
     "title": "PlayStation Plus 07",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besthorror-it-1.jpg",
     "games": [
       {
         "title": "Deathrap Dungeon",
@@ -924,6 +974,9 @@
         "title": "Resident Evil",
         "category": "trailer"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/besthorror-it-1.jpg"
     ]
   },
   {
@@ -931,7 +984,6 @@
     "productCode": "SCED-02420",
     "region": "Poland",
     "title": "Oficjalny Polski PlayStation Numer 5 Total Horror",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besthorror-pl-1.jpg",
     "games": [
       {
         "title": "Deathrap Dungeon",
@@ -973,6 +1025,9 @@
         "title": "Resident Evil",
         "category": "trailer"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/besthorror-pl-1.jpg"
     ]
   },
   {
@@ -980,7 +1035,6 @@
     "productCode": "SCED-02420",
     "region": "Spain",
     "title": "PlayStation Básico 4 Especial Terror",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besthorror-spa-1.jpg",
     "games": [
       {
         "title": "Deathrap Dungeon",
@@ -1022,6 +1076,11 @@
         "title": "Resident Evil",
         "category": "trailer"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/besthorror-spa-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/besthorror-spa-2.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/besthorror-spa-3.jpg"
     ]
   },
   {
@@ -1029,7 +1088,6 @@
     "productCode": "SCED-02420",
     "region": "UK",
     "title": "The Best Horror Games Ever",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besthorror-uk-1.jpg",
     "games": [
       {
         "title": "Deathrap Dungeon",
@@ -1071,6 +1129,11 @@
         "title": "Resident Evil",
         "category": "trailer"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/besthorror-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/besthorror-uk-2.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/besthorror-uk-3.jpg"
     ]
   },
   {
@@ -1078,7 +1141,6 @@
     "productCode": "SCED-02420",
     "region": "Australia",
     "title": "Official Australian PlayStation Collection Q2",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besthorror-aus-1.jpg",
     "games": [
       {
         "title": "Deathrap Dungeon",
@@ -1120,6 +1182,11 @@
         "title": "Resident Evil",
         "category": "trailer"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/besthorror-aus-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/besthorror-aus-2.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/besthorror-aus-3.jpg"
     ]
   },
   {
@@ -1127,7 +1194,6 @@
     "productCode": "SCED-02421",
     "region": "Spain",
     "title": "PlayStation Especial Deportes 4",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestsports-spa-1.jpg",
     "games": [
       {
         "title": "Actua Ice Hockey 2",
@@ -1165,6 +1231,11 @@
         "title": "Victory Boxing 2",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestsports-spa-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestsports-spa-2.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestsports-spa-3.jpg"
     ]
   },
   {
@@ -1172,7 +1243,6 @@
     "productCode": "SCED-02421",
     "region": "UK",
     "title": "The Best Sports Games Ever",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestsports-uk-1.jpg",
     "games": [
       {
         "title": "Actua Ice Hockey 2",
@@ -1210,6 +1280,10 @@
         "title": "Victory Boxing 2",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestsports-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestsports-uk-2.jpg"
     ]
   },
   {
@@ -1217,7 +1291,6 @@
     "productCode": "SCED-02421",
     "region": "Australia",
     "title": "Official Australian PlayStation Sports Special SS",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestsports-aus-1.jpg",
     "games": [
       {
         "title": "Actua Ice Hockey 2",
@@ -1255,6 +1328,10 @@
         "title": "Victory Boxing 2",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestsports-aus-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestsports-aus-2.jpg"
     ]
   },
   {
@@ -1262,7 +1339,6 @@
     "productCode": "SCED-02492",
     "region": "Italy",
     "title": "PlayStation Plus 08",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestracing-it-1.jpg",
     "games": [
       {
         "title": "Circuit Breakers",
@@ -1304,6 +1380,9 @@
         "title": "Wip3out",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestracing-it-1.jpg"
     ]
   },
   {
@@ -1311,7 +1390,6 @@
     "productCode": "SCED-02492",
     "region": "Poland",
     "title": "PlayStation Numer 6 Total Racing",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestracing-pl-1.jpg",
     "games": [
       {
         "title": "Circuit Breakers",
@@ -1353,6 +1431,9 @@
         "title": "Wip3out",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestracing-pl-1.jpg"
     ]
   },
   {
@@ -1360,7 +1441,6 @@
     "productCode": "SCED-02492",
     "region": "Spain",
     "title": "PlayStation Edición Coleccionistas Número 2",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestracing-spa-1.jpg",
     "games": [
       {
         "title": "Circuit Breakers",
@@ -1402,6 +1482,11 @@
         "title": "Wip3out",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestracing-spa-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestracing-spa-2.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestracing-spa-3.jpg"
     ]
   },
   {
@@ -1409,7 +1494,6 @@
     "productCode": "SCED-02492",
     "region": "UK",
     "title": "The Best Racing Games Ever",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestracing-uk-1.jpg",
     "games": [
       {
         "title": "Circuit Breakers",
@@ -1451,6 +1535,10 @@
         "title": "Wip3out",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestracing-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestracing-uk-2.jpg"
     ]
   },
   {
@@ -1458,7 +1546,6 @@
     "productCode": "SCED-02542",
     "region": "Europe",
     "title": "Kids Demo 01",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/kidsdemo01-eur-1.jpg",
     "games": [
       {
         "title": "Kingsley's Adventure",
@@ -1496,6 +1583,10 @@
         "title": "Web-site",
         "category": "other"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/kidsdemo01-eur-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/kidsdemo01-eur-2.jpg"
     ]
   },
   {
@@ -1503,7 +1594,6 @@
     "productCode": "SCED-02542",
     "region": "Australia",
     "title": "PlayStation Big Hits!",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/kidsdemo01-aus-1.jpg",
     "games": [
       {
         "title": "Kingsley's Adventure",
@@ -1541,6 +1631,11 @@
         "title": "Web-site",
         "category": "other"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/kidsdemo01-aus-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/kidsdemo01-aus-2.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/kidsdemo01-aus-3.jpg"
     ]
   },
   {
@@ -1548,7 +1643,6 @@
     "productCode": "SCED-02851",
     "region": "Italy",
     "title": "Playstation Plus 09",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besteverever-it-1.jpg",
     "games": [
       {
         "title": "Driver",
@@ -1582,6 +1676,10 @@
         "title": "Wip3out",
         "category": "trailer"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/besteverever-it-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/besteverever-it-2.jpg"
     ]
   },
   {
@@ -1589,7 +1687,6 @@
     "productCode": "SCED-02851",
     "region": "Spain",
     "title": "Edición Oficial Española PlayStation Especial Número 5",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besteverever-spa-1.jpg",
     "games": [
       {
         "title": "Driver",
@@ -1623,6 +1720,10 @@
         "title": "Wip3out",
         "category": "trailer"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/besteverever-spa-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/besteverever-spa-2.jpg"
     ]
   },
   {
@@ -1630,7 +1731,6 @@
     "productCode": "SCED-02851",
     "region": "UK",
     "title": "Official UK PlayStation Best Games Ever!",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besteverever-uk-1.jpg",
     "games": [
       {
         "title": "Driver",
@@ -1664,6 +1764,10 @@
         "title": "Wip3out",
         "category": "trailer"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/besteverever-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/besteverever-uk-2.jpg"
     ]
   },
   {
@@ -1671,7 +1775,6 @@
     "productCode": "SCED-02851",
     "region": "Australia",
     "title": "Official Australian Playstation Collector's Edition CE",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besteverever-aus-1.jpg",
     "games": [
       {
         "title": "Driver",
@@ -1705,6 +1808,11 @@
         "title": "Wip3out",
         "category": "trailer"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/besteverever-aus-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/besteverever-aus-2.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/besteverever-aus-3.jpg"
     ]
   },
   {
@@ -1712,7 +1820,6 @@
     "productCode": "SCED-03167",
     "region": "Italy",
     "title": "Playstation Plus 10",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestsports2000-it-1.jpg",
     "games": [
       {
         "title": "Colin McRae Rally 2",
@@ -1746,6 +1853,10 @@
         "title": "TOCA World Touring Cars",
         "category": "trailer"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestsports2000-it-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestsports2000-it-2.jpg"
     ]
   },
   {
@@ -1753,7 +1864,6 @@
     "productCode": "SCED-03167",
     "region": "Spain",
     "title": "PlayStation Especial Deportes Número 5",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestsports2000-spa1-1.jpg",
     "games": [
       {
         "title": "Colin McRae Rally 2",
@@ -1787,6 +1897,10 @@
         "title": "TOCA World Touring Cars",
         "category": "trailer"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestsports2000-spa1-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestsports2000-spa1-2.jpg"
     ]
   },
   {
@@ -1794,7 +1908,6 @@
     "productCode": "SCED-03167",
     "region": "UK",
     "title": "Official UK PlayStation Best Games Ever!",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestsports2000-uk-1.jpg",
     "games": [
       {
         "title": "Colin McRae Rally 2",
@@ -1828,6 +1941,10 @@
         "title": "TOCA World Touring Cars",
         "category": "trailer"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestsports2000-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestsports2000-uk-2.jpg"
     ]
   },
   {
@@ -1835,7 +1952,6 @@
     "productCode": "SCED-03238",
     "region": "Italy",
     "title": "PS One Kids Autumn 2000",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/kidsautumn2000-it-1.jpg",
     "games": [
       {
         "title": "Crash Bash",
@@ -1869,6 +1985,10 @@
         "title": "The Little Mermaid II",
         "category": "trailer"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/kidsautumn2000-it-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/kidsautumn2000-it-2.jpg"
     ]
   },
   {
@@ -1876,7 +1996,6 @@
     "productCode": "SCED-03238",
     "region": "Spain",
     "title": "PS One Kids Autumn 2000",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/kidsautumn2000-spa-1.jpg",
     "games": [
       {
         "title": "Crash Bash",
@@ -1910,6 +2029,11 @@
         "title": "The Little Mermaid II",
         "category": "trailer"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/kidsautumn2000-spa-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/kidsautumn2000-spa-2.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/kidsautumn2000-spa-3.jpg"
     ]
   },
   {
@@ -1917,7 +2041,6 @@
     "productCode": "SCED-03239",
     "region": "Italy",
     "title": "Playstation Plus 11",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-it-1.jpg",
     "games": [
       {
         "title": "Metal Gear Solid Special Missions",
@@ -1955,6 +2078,10 @@
         "title": "Y.V.J. 0.5",
         "category": "other"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-it-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-it-2.jpg"
     ]
   },
   {
@@ -1962,7 +2089,6 @@
     "productCode": "SCED-03239",
     "region": "Poland",
     "title": "Oficjalny Polski PlayStation Magazyn 05/01",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-pl-1.jpg",
     "games": [
       {
         "title": "Metal Gear Solid Special Missions",
@@ -2000,6 +2126,9 @@
         "title": "Y.V.J. 0.5",
         "category": "other"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-pl-1.jpg"
     ]
   },
   {
@@ -2007,7 +2136,6 @@
     "productCode": "SCED-03239",
     "region": "Spain",
     "title": "Edición Oficial Española PlayStation Edición Coleccionistas Número 3",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-spa-1.jpg",
     "games": [
       {
         "title": "Metal Gear Solid Special Missions",
@@ -2045,6 +2173,10 @@
         "title": "Y.V.J. 0.5",
         "category": "other"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-spa-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-spa-2.jpg"
     ]
   },
   {
@@ -2052,7 +2184,6 @@
     "productCode": "SCED-03239",
     "region": "UK",
     "title": "Official UK PlayStation Best Games Ever!",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-uk-1.jpg",
     "games": [
       {
         "title": "Metal Gear Solid Special Missions",
@@ -2090,6 +2221,11 @@
         "title": "Y.V.J. 0.5",
         "category": "other"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-uk-2.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-uk-3.jpg"
     ]
   },
   {
@@ -2097,7 +2233,6 @@
     "productCode": "SCED-03239",
     "region": "Australia",
     "title": "Official Australian PlayStation Magazine 44",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-aus-1.jpg",
     "games": [
       {
         "title": "Metal Gear Solid Special Missions",
@@ -2135,14 +2270,18 @@
         "title": "Y.V.J. 0.5",
         "category": "other"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-aus-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-aus-2.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-aus-3.jpg"
     ]
   },
   {
     "id": 48,
     "productCode": "SCED-03340",
-    "region": null,
+    "region": "France",
     "title": "PS One Kids Autumn 2000",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/kidsautumn2000-fra-1.jpg",
     "games": [
       {
         "title": "Crash Bash",
@@ -2172,6 +2311,11 @@
         "title": "The Little Mermaid II",
         "category": "trailer"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/kidsautumn2000-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/kidsautumn2000-fra-2.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/kidsautumn2000-fra-3.jpg"
     ]
   },
   {
@@ -2179,7 +2323,6 @@
     "productCode": "SCED-03375",
     "region": "UK",
     "title": "Official UK PlayStation Best Games Ever!",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestspecial-uk-1.jpg",
     "games": [
       {
         "title": "Driver 2",
@@ -2213,14 +2356,18 @@
         "title": "WWF Smackdown 2",
         "category": "trailer"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestspecial-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestspecial-uk-2.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestspecial-uk-3.jpg"
     ]
   },
   {
     "id": 50,
     "productCode": "SCED-03408",
-    "region": null,
+    "region": "UK",
     "title": "Official UK PlayStation Best Games Ever!",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestextreme-uk-1.jpg",
     "games": [
       {
         "title": "Dave Mirra Freestyle BMX",
@@ -2254,14 +2401,18 @@
         "title": "Moto Racer World Tour",
         "category": "trailer"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/bestextreme-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestextreme-uk-2.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/bestextreme-uk-3.jpg"
     ]
   },
   {
     "id": 51,
     "productCode": "SCED-04019",
-    "region": null,
+    "region": "France",
     "title": "PSone Xmas Special",
-    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/ps1xmas-fra-1.jpg",
     "games": [
       {
         "title": "Dancing Stage Party Edition",
@@ -2303,6 +2454,10 @@
         "title": "WRC Arcade",
         "category": "playable"
       }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/opmspecials/ps1xmas-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/opmspecials/ps1xmas-fra-2.jpg"
     ]
   }
 ]

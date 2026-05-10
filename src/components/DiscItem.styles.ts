@@ -27,4 +27,15 @@ export const styles = StyleSheet.create({
   imagePlaceholder: {
     opacity: 0.4,
   },
+  flagOverlay: {
+    position: 'absolute',
+    bottom: 6,
+    left: 6,
+    fontSize: 16,
+    backgroundColor: 'rgba(0,0,0,0.45)',
+    borderRadius: 4,
+    paddingHorizontal: 3,
+    paddingVertical: 1,
+    overflow: 'hidden',
+  },
 });

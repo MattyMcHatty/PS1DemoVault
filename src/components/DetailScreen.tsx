@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { useEffect, useMemo } from 'react';
 import {
   BackHandler,
   Image,
@@ -21,16 +21,6 @@ type Props = {
 
 export function DetailScreen({ disc, onBack }: Props) {
   const insets = useSafeAreaInsets();
-  const [discArtFailed, setDiscArtFailed] = useState(false);
-
-  const discArtUrl = disc.imageUrl
-    ? disc.imageUrl.replace(/-1\.jpg$/, '-2.jpg')
-    : null;
-
-  useEffect(() => {
-    setDiscArtFailed(false);
-  }, [disc.id]);
-
   useEffect(() => {
     const sub = BackHandler.addEventListener('hardwareBackPress', () => {
       onBack();
@@ -64,19 +54,12 @@ export function DetailScreen({ disc, onBack }: Props) {
         <Text style={styles.productCode}>{disc.productCode}</Text>
 
         <View style={styles.imageContainer}>
-          {disc.imageUrl ? (
-            <Image source={{ uri: disc.imageUrl }} style={styles.image} resizeMode="contain" />
+          {disc.imageUrls.length > 0 ? (
+            disc.imageUrls.map((url, i) => (
+              <Image key={i} source={{ uri: url }} style={styles.image} resizeMode="contain" />
+            ))
           ) : (
             <View style={[styles.image, styles.imagePlaceholder]} />
-          )}
-
-          {discArtUrl && !discArtFailed && (
-            <Image
-              source={{ uri: discArtUrl }}
-              style={styles.discArtImage}
-              resizeMode="contain"
-              onError={() => setDiscArtFailed(true)}
-            />
           )}
         </View>
 

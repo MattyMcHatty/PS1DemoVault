@@ -73,3 +73,10 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Generated assets (rebuild with scripts/)
+assets/disc-images/
+assets/demos.db
+
+# Metro bundle (Android build output)
+android/app/src/main/assets/

@@ -1,45 +1,22 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- */
+import React, { useState } from 'react';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
+import { DetailScreen } from './src/components/DetailScreen';
+import { DiscList } from './src/components/DiscList';
+import { Disc } from './src/types';
 
-import { NewAppScreen } from '@react-native/new-app-screen';
-import { StatusBar, StyleSheet, useColorScheme, View } from 'react-native';
-import {
-  SafeAreaProvider,
-  useSafeAreaInsets,
-} from 'react-native-safe-area-context';
+function Root() {
+  const [selectedDisc, setSelectedDisc] = useState<Disc | null>(null);
 
-function App() {
-  const isDarkMode = useColorScheme() === 'dark';
+  if (selectedDisc) {
+    return <DetailScreen disc={selectedDisc} onBack={() => setSelectedDisc(null)} />;
+  }
+  return <DiscList onSelect={setSelectedDisc} />;
+}
 
+export default function App() {
   return (
     <SafeAreaProvider>
-      <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
-      <AppContent />
+      <Root />
     </SafeAreaProvider>
   );
 }
-
-function AppContent() {
-  const safeAreaInsets = useSafeAreaInsets();
-
-  return (
-    <View style={styles.container}>
-      <NewAppScreen
-        templateFileName="App.tsx"
-        safeAreaInsets={safeAreaInsets}
-      />
-    </View>
-  );
-}
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-  },
-});
-
-export default App;

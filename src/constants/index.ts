@@ -1,0 +1,49 @@
+import demos from '../data/demos.json';
+import { Disc, DropdownOption } from '../types';
+
+export const ALL_REGIONS = 'All';
+export const STORAGE_KEY = 'collected_discs';
+
+export const REGION_FLAGS: Record<string, string> = {
+  All:       '🌍',
+  Australia: '🇦🇺',
+  Benelux:   '🇧🇪',
+  Denmark:   '🇩🇰',
+  Europe:    '🇪🇺',
+  Finland:   '🇫🇮',
+  France:    '🇫🇷',
+  Germany:   '🇩🇪',
+  Ireland:   '🇮🇪',
+  Italy:     '🇮🇹',
+  Poland:    '🇵🇱',
+  Spain:     '🇪🇸',
+  UK:        '🇬🇧',
+};
+
+export const REGIONS: string[] = [
+  ALL_REGIONS,
+  ...Array.from(
+    new Set((demos as Disc[]).map(d => d.region).filter((r): r is string => r !== null))
+  ).sort(),
+];
+
+export const COLLECTION_OPTIONS: DropdownOption[] = [
+  { value: 'all',           label: 'All Discs',    icon: '📋' },
+  { value: 'collected',     label: 'Collected',     icon: '✅' },
+  { value: 'not-collected', label: 'Not Collected', icon: '⬜' },
+];
+
+export const REGION_OPTIONS: DropdownOption[] = REGIONS.map(r => ({
+  value: r,
+  label: r,
+  icon: REGION_FLAGS[r] ?? '🏳️',
+}));
+
+export const CATEGORY_LABELS: Record<string, string> = {
+  playable:     '🎮  Playable',
+  trailer:      '🎬  Trailer',
+  'net yaroze': '💻  Net Yaroze',
+  other:        '📀  Other',
+  saves:        '💾  Saves',
+  music:        '🎵  Music',
+};

@@ -1,5 +1,5 @@
-import React, { useMemo, useState } from 'react';
-import { FlatList, ListRenderItemInfo, StatusBar, Text, View } from 'react-native';
+import React, { useRef, useMemo, useState } from 'react';
+import { FlatList, ListRenderItemInfo, StatusBar, Text, TouchableOpacity, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { ALL_REGIONS, COLLECTION_OPTIONS, REGION_OPTIONS } from '../constants';
 import demos from '../data/demos.json';
@@ -19,6 +19,9 @@ export function DiscList({ onSelect }: Props) {
   const [selectedRegion, setSelectedRegion] = useState('UK');
   const [collectionFilter, setCollectionFilter] = useState<CollectionFilter>('all');
   const { collected, toggle } = useCollected();
+  const listRef = useRef<FlatList<Disc>>(null);
+
+  const scrollToTop = () => listRef.current?.scrollToOffset({ offset: 0, animated: true });
 
   const filtered = useMemo(() => {
     let result = demos as Disc[];
@@ -36,10 +39,10 @@ export function DiscList({ onSelect }: Props) {
   return (
     <View style={[styles.container, { paddingTop: insets.top }]}>
       <StatusBar barStyle="light-content" backgroundColor={colors.background} />
-      <View style={styles.header}>
+      <TouchableOpacity style={styles.header} onPress={scrollToTop} activeOpacity={0.7}>
         <Text style={styles.logo}>PS1</Text>
         <Text style={styles.logoSub}>DEMO VAULT</Text>
-      </View>
+      </TouchableOpacity>
       <View style={styles.filterBar}>
         <Dropdown
           options={REGION_OPTIONS}
@@ -55,6 +58,7 @@ export function DiscList({ onSelect }: Props) {
         />
       </View>
       <FlatList
+        ref={listRef}
         data={filtered}
         keyExtractor={(item: Disc) => String(item.id)}
         renderItem={({ item }: ListRenderItemInfo<Disc>) => (

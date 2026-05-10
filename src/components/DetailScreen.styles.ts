@@ -41,6 +41,15 @@ export const styles = StyleSheet.create({
     marginBottom: 16,
     lineHeight: 30,
   },
+  productCode: {
+    fontSize: 13,
+    fontWeight: '600',
+    color: colors.textMuted,
+    letterSpacing: 2,
+    textTransform: 'uppercase',
+    marginBottom: 16,
+    marginTop: -10,
+  },
   imageContainer: {
     gap: 8,
     marginBottom: 24,
@@ -55,6 +64,7 @@ export const styles = StyleSheet.create({
     width: '100%',
     height: 220,
     borderRadius: 10,
+    backgroundColor: colors.border,
   },
   imagePlaceholder: {
     opacity: 0.4,

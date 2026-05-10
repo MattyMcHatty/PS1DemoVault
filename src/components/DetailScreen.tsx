@@ -61,6 +61,7 @@ export function DetailScreen({ disc, onBack }: Props) {
 
       <ScrollView contentContainerStyle={[styles.scroll, { paddingBottom: insets.bottom + 24 }]}>
         <Text style={styles.title}>{disc.title}</Text>
+        <Text style={styles.productCode}>{disc.productCode}</Text>
 
         <View style={styles.imageContainer}>
           {disc.imageUrl ? (

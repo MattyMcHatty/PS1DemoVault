@@ -4,11 +4,14 @@ import { STORAGE_KEY } from '../constants';
 
 export function useCollected() {
   const [collected, setCollected] = useState<Set<number>>(new Set());
+  const [ready, setReady] = useState(false);
 
   useEffect(() => {
-    AsyncStorage.getItem(STORAGE_KEY).then(raw => {
-      if (raw) setCollected(new Set(JSON.parse(raw) as number[]));
-    });
+    AsyncStorage.getItem(STORAGE_KEY)
+      .then(raw => {
+        if (raw) setCollected(new Set(JSON.parse(raw) as number[]));
+      })
+      .finally(() => setReady(true));
   }, []);
 
   const toggle = useCallback((id: number) => {
@@ -20,5 +23,5 @@ export function useCollected() {
     });
   }, []);
 
-  return { collected, toggle };
+  return { collected, toggle, ready };
 }

@@ -1,5 +1,5 @@
 import demos from '../data/demos.json';
-import { Disc, DropdownOption } from '../types';
+import { Disc, DiscCollection, DropdownOption } from '../types';
 
 export const ALL_REGIONS = 'All';
 export const STORAGE_KEY = 'collected_discs';
@@ -38,6 +38,11 @@ export const REGION_OPTIONS: DropdownOption[] = REGIONS.map(r => ({
   label: r,
   icon: REGION_FLAGS[r] ?? '🏳️',
 }));
+
+export const DISC_COLLECTIONS: DiscCollection[] = [
+  { id: 'opm',          label: 'Official PlayStation Magazine' },
+  { id: 'opm-specials', label: 'OPM Specials' },
+];
 
 export const CATEGORY_LABELS: Record<string, string> = {
   playable:     '🎮  Playable',

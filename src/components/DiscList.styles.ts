@@ -7,10 +7,27 @@ export const styles = StyleSheet.create({
     backgroundColor: colors.background,
   },
   header: {
+    flexDirection: 'row',
     alignItems: 'center',
     paddingVertical: 16,
     borderBottomWidth: 1,
     borderBottomColor: colors.border,
+    paddingHorizontal: 16,
+  },
+  menuButton: {
+    width: 40,
+    height: 40,
+    justifyContent: 'center',
+    gap: 5,
+  },
+  hamburgerLine: {
+    height: 2,
+    backgroundColor: colors.textMuted,
+    borderRadius: 2,
+  },
+  logoWrap: {
+    flex: 1,
+    alignItems: 'center',
   },
   logo: {
     fontSize: 36,

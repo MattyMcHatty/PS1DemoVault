@@ -1,0 +1,2308 @@
+[
+  {
+    "id": 1,
+    "productCode": "SCED-01229",
+    "region": "France",
+    "title": "PlayStation Kids",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/pskids-fra-1.jpg",
+    "games": [
+      {
+        "title": "Crash Bandicoot",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 2",
+        "category": "playable"
+      },
+      {
+        "title": "Croc",
+        "category": "playable"
+      },
+      {
+        "title": "Formula Karts",
+        "category": "playable"
+      },
+      {
+        "title": "Hercules",
+        "category": "playable"
+      },
+      {
+        "title": "Overboard",
+        "category": "playable"
+      },
+      {
+        "title": "Pandemonium 2",
+        "category": "playable"
+      },
+      {
+        "title": "Parappa The Rapper",
+        "category": "playable"
+      },
+      {
+        "title": "Rayman",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "productCode": "SCED-01229",
+    "region": "Germany",
+    "title": "PlayStation Kids",
+    "imageUrl": "https://crimson-ceremony.net/demopals/sonderheft/pskids-1.jpg",
+    "games": [
+      {
+        "title": "Crash Bandicoot",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 2",
+        "category": "playable"
+      },
+      {
+        "title": "Croc",
+        "category": "playable"
+      },
+      {
+        "title": "Formula Karts",
+        "category": "playable"
+      },
+      {
+        "title": "Hercules",
+        "category": "playable"
+      },
+      {
+        "title": "Overboard",
+        "category": "playable"
+      },
+      {
+        "title": "Pandemonium 2",
+        "category": "playable"
+      },
+      {
+        "title": "Parappa The Rapper",
+        "category": "playable"
+      },
+      {
+        "title": "Rayman",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "productCode": "SCED-01387",
+    "region": "Italy",
+    "title": "Ufficiale PlayStation Speciale Calcio",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/footballspecial-it-1.jpg",
+    "games": [
+      {
+        "title": "Actua Soccer",
+        "category": "playable"
+      },
+      {
+        "title": "Actua Soccer 2",
+        "category": "playable"
+      },
+      {
+        "title": "Adidas Power Soccer International '97",
+        "category": "playable"
+      },
+      {
+        "title": "Adidas Power Soccer International 98",
+        "category": "playable"
+      },
+      {
+        "title": "Kick-Off World",
+        "category": "playable"
+      },
+      {
+        "title": "Power Soccer 2",
+        "category": "playable"
+      },
+      {
+        "title": "Striker '96",
+        "category": "playable"
+      },
+      {
+        "title": "Three Lions",
+        "category": "playable"
+      },
+      {
+        "title": "World League Soccer '98",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "productCode": "SCED-01387",
+    "region": "Spain",
+    "title": "Edición Oficial Española PlayStation Magazine Disco 1",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/footballspecial-spa-1.jpg",
+    "games": [
+      {
+        "title": "Actua Soccer",
+        "category": "playable"
+      },
+      {
+        "title": "Actua Soccer 2",
+        "category": "playable"
+      },
+      {
+        "title": "Adidas Power Soccer International '97",
+        "category": "playable"
+      },
+      {
+        "title": "Adidas Power Soccer International 98",
+        "category": "playable"
+      },
+      {
+        "title": "Kick-Off World",
+        "category": "playable"
+      },
+      {
+        "title": "Power Soccer 2",
+        "category": "playable"
+      },
+      {
+        "title": "Striker '96",
+        "category": "playable"
+      },
+      {
+        "title": "Three Lions",
+        "category": "playable"
+      },
+      {
+        "title": "World League Soccer '98",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "productCode": "SCED-01387",
+    "region": "UK",
+    "title": "Official UK PlayStation Football Special",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/footballspecial-uk-1.jpg",
+    "games": [
+      {
+        "title": "Actua Soccer",
+        "category": "playable"
+      },
+      {
+        "title": "Actua Soccer 2",
+        "category": "playable"
+      },
+      {
+        "title": "Adidas Power Soccer International '97",
+        "category": "playable"
+      },
+      {
+        "title": "Adidas Power Soccer International 98",
+        "category": "playable"
+      },
+      {
+        "title": "Kick-Off World",
+        "category": "playable"
+      },
+      {
+        "title": "Power Soccer 2",
+        "category": "playable"
+      },
+      {
+        "title": "Striker '96",
+        "category": "playable"
+      },
+      {
+        "title": "Three Lions",
+        "category": "playable"
+      },
+      {
+        "title": "World League Soccer '98",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "productCode": "SCED-01640",
+    "region": "Italy",
+    "title": "Ufficiale PlayStation Speciale Corse",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/racingspecial-it-1.jpg",
+    "games": [
+      {
+        "title": "Circuit Breakers",
+        "category": "playable"
+      },
+      {
+        "title": "Colin McRae Rally",
+        "category": "playable"
+      },
+      {
+        "title": "Destruction Derby 2",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Motorhead",
+        "category": "playable"
+      },
+      {
+        "title": "S.C.A.R.S",
+        "category": "playable"
+      },
+      {
+        "title": "Test Drive 5",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeout 2097",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "productCode": "SCED-01640",
+    "region": "Spain",
+    "title": "Edición Oficial Española PlayStation Magazine Disco 2",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/racingspecial-spa-1.jpg",
+    "games": [
+      {
+        "title": "Circuit Breakers",
+        "category": "playable"
+      },
+      {
+        "title": "Colin McRae Rally",
+        "category": "playable"
+      },
+      {
+        "title": "Destruction Derby 2",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Motorhead",
+        "category": "playable"
+      },
+      {
+        "title": "S.C.A.R.S",
+        "category": "playable"
+      },
+      {
+        "title": "Test Drive 5",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeout 2097",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "productCode": "SCED-01640",
+    "region": "UK",
+    "title": "Official UK PlayStation Racing Special",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/racingspecial-uk-1.jpg",
+    "games": [
+      {
+        "title": "Circuit Breakers",
+        "category": "playable"
+      },
+      {
+        "title": "Colin McRae Rally",
+        "category": "playable"
+      },
+      {
+        "title": "Destruction Derby 2",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Motorhead",
+        "category": "playable"
+      },
+      {
+        "title": "S.C.A.R.S",
+        "category": "playable"
+      },
+      {
+        "title": "Test Drive 5",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeout 2097",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "productCode": "SCED-01991",
+    "region": "Italy",
+    "title": "Ufficiale PlayStation Speciale Picchiaduro",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/beatemupspecial-it-1.jpg",
+    "games": [
+      {
+        "title": "Battle Arena Toshinden 2",
+        "category": "playable"
+      },
+      {
+        "title": "Bloody Roar",
+        "category": "playable"
+      },
+      {
+        "title": "Cardinal Syn",
+        "category": "playable"
+      },
+      {
+        "title": "Dead Or Alive",
+        "category": "playable"
+      },
+      {
+        "title": "Dynasty Warriors",
+        "category": "playable"
+      },
+      {
+        "title": "Mortal Kombat 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Victory Boxing 2",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "productCode": "SCED-01991",
+    "region": "Spain",
+    "title": "Beat-Em-Up Special (Disco 3)",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/beatemupspecial-spa-1.jpg",
+    "games": [
+      {
+        "title": "Battle Arena Toshinden 2",
+        "category": "playable"
+      },
+      {
+        "title": "Bloody Roar",
+        "category": "playable"
+      },
+      {
+        "title": "Cardinal Syn",
+        "category": "playable"
+      },
+      {
+        "title": "Dead Or Alive",
+        "category": "playable"
+      },
+      {
+        "title": "Dynasty Warriors",
+        "category": "playable"
+      },
+      {
+        "title": "Mortal Kombat 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Victory Boxing 2",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "productCode": "SCED-01991",
+    "region": "UK",
+    "title": "Official UK PlayStation Beat 'Em Up Special",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/beatemupspecial-uk-1.jpg",
+    "games": [
+      {
+        "title": "Battle Arena Toshinden 2",
+        "category": "playable"
+      },
+      {
+        "title": "Bloody Roar",
+        "category": "playable"
+      },
+      {
+        "title": "Cardinal Syn",
+        "category": "playable"
+      },
+      {
+        "title": "Dead Or Alive",
+        "category": "playable"
+      },
+      {
+        "title": "Dynasty Warriors",
+        "category": "playable"
+      },
+      {
+        "title": "Mortal Kombat 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Victory Boxing 2",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "productCode": "SCED-02122",
+    "region": "France",
+    "title": "PlayStation Magazine Platinum",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/platinumspecial-fra-1.jpg",
+    "games": [
+      {
+        "title": "Crash Bandicoot 2",
+        "category": "playable"
+      },
+      {
+        "title": "Doom",
+        "category": "playable"
+      },
+      {
+        "title": "Formula 1 '97",
+        "category": "playable"
+      },
+      {
+        "title": "G-Police",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Oddworld: Abe's Oddysee",
+        "category": "playable"
+      },
+      {
+        "title": "Porsche Challenge",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Revolution",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeot 2097",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "productCode": "SCED-02122",
+    "region": "Poland",
+    "title": "Oficjalny Polski PlayStation Platinum Special",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/platinumspecial-pl-1.jpg",
+    "games": [
+      {
+        "title": "Crash Bandicoot 2",
+        "category": "playable"
+      },
+      {
+        "title": "Doom",
+        "category": "playable"
+      },
+      {
+        "title": "Formula 1 '97",
+        "category": "playable"
+      },
+      {
+        "title": "G-Police",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Oddworld: Abe's Oddysee",
+        "category": "playable"
+      },
+      {
+        "title": "Porsche Challenge",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Revolution",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeot 2097",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "productCode": "SCED-02122",
+    "region": "Spain",
+    "title": "PlayStation Básico 3 Especial Platinum",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/platinumspecial-spa-1.jpg",
+    "games": [
+      {
+        "title": "Crash Bandicoot 2",
+        "category": "playable"
+      },
+      {
+        "title": "Doom",
+        "category": "playable"
+      },
+      {
+        "title": "Formula 1 '97",
+        "category": "playable"
+      },
+      {
+        "title": "G-Police",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Oddworld: Abe's Oddysee",
+        "category": "playable"
+      },
+      {
+        "title": "Porsche Challenge",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Revolution",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeot 2097",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "productCode": "SCED-02122",
+    "region": "UK",
+    "title": "Official UK PlayStation Platinum Special",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/platinumspecial-uk-1.jpg",
+    "games": [
+      {
+        "title": "Crash Bandicoot 2",
+        "category": "playable"
+      },
+      {
+        "title": "Doom",
+        "category": "playable"
+      },
+      {
+        "title": "Formula 1 '97",
+        "category": "playable"
+      },
+      {
+        "title": "G-Police",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Oddworld: Abe's Oddysee",
+        "category": "playable"
+      },
+      {
+        "title": "Porsche Challenge",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Revolution",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeot 2097",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "productCode": "SCED-02327",
+    "region": "Italy",
+    "title": "PlayStation Plus 5",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestgamesever-it-1.jpg",
+    "games": [
+      {
+        "title": "Ape Escape",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 3",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3: Warped",
+        "category": "playable"
+      },
+      {
+        "title": "Driver",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "ISS Pro 98",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "productCode": "SCED-02327",
+    "region": "UK",
+    "title": "The Best PlayStation Games Ever",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestgamesever-uk-1.jpg",
+    "games": [
+      {
+        "title": "Ape Escape",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 3",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3: Warped",
+        "category": "playable"
+      },
+      {
+        "title": "Driver",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "ISS Pro 98",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "productCode": "SCED-02327",
+    "region": "Australia",
+    "title": "Official Australian PlayStation Xmas Special",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestgamesever-aus-1.jpg",
+    "games": [
+      {
+        "title": "Ape Escape",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 3",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3: Warped",
+        "category": "playable"
+      },
+      {
+        "title": "Driver",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "ISS Pro 98",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "productCode": "SCED-02420",
+    "region": "Italy",
+    "title": "PlayStation Plus 07",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besthorror-it-1.jpg",
+    "games": [
+      {
+        "title": "Deathrap Dungeon",
+        "category": "playable"
+      },
+      {
+        "title": "Dino Crisis",
+        "category": "playable"
+      },
+      {
+        "title": "Doom",
+        "category": "playable"
+      },
+      {
+        "title": "Exhumed",
+        "category": "playable"
+      },
+      {
+        "title": "Legacy of Kain: Soul Reaver",
+        "category": "playable"
+      },
+      {
+        "title": "Nightmare creatures",
+        "category": "playable"
+      },
+      {
+        "title": "Quake II",
+        "category": "playable"
+      },
+      {
+        "title": "Silent Hill",
+        "category": "playable"
+      },
+      {
+        "title": "Carmageddon",
+        "category": "trailer"
+      },
+      {
+        "title": "Resident Evil",
+        "category": "trailer"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "productCode": "SCED-02420",
+    "region": "Poland",
+    "title": "Oficjalny Polski PlayStation Numer 5 Total Horror",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besthorror-pl-1.jpg",
+    "games": [
+      {
+        "title": "Deathrap Dungeon",
+        "category": "playable"
+      },
+      {
+        "title": "Dino Crisis",
+        "category": "playable"
+      },
+      {
+        "title": "Doom",
+        "category": "playable"
+      },
+      {
+        "title": "Exhumed",
+        "category": "playable"
+      },
+      {
+        "title": "Legacy of Kain: Soul Reaver",
+        "category": "playable"
+      },
+      {
+        "title": "Nightmare creatures",
+        "category": "playable"
+      },
+      {
+        "title": "Quake II",
+        "category": "playable"
+      },
+      {
+        "title": "Silent Hill",
+        "category": "playable"
+      },
+      {
+        "title": "Carmageddon",
+        "category": "trailer"
+      },
+      {
+        "title": "Resident Evil",
+        "category": "trailer"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "productCode": "SCED-02420",
+    "region": "Spain",
+    "title": "PlayStation Básico 4 Especial Terror",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besthorror-spa-1.jpg",
+    "games": [
+      {
+        "title": "Deathrap Dungeon",
+        "category": "playable"
+      },
+      {
+        "title": "Dino Crisis",
+        "category": "playable"
+      },
+      {
+        "title": "Doom",
+        "category": "playable"
+      },
+      {
+        "title": "Exhumed",
+        "category": "playable"
+      },
+      {
+        "title": "Legacy of Kain: Soul Reaver",
+        "category": "playable"
+      },
+      {
+        "title": "Nightmare creatures",
+        "category": "playable"
+      },
+      {
+        "title": "Quake II",
+        "category": "playable"
+      },
+      {
+        "title": "Silent Hill",
+        "category": "playable"
+      },
+      {
+        "title": "Carmageddon",
+        "category": "trailer"
+      },
+      {
+        "title": "Resident Evil",
+        "category": "trailer"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "productCode": "SCED-02420",
+    "region": "UK",
+    "title": "The Best Horror Games Ever",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besthorror-uk-1.jpg",
+    "games": [
+      {
+        "title": "Deathrap Dungeon",
+        "category": "playable"
+      },
+      {
+        "title": "Dino Crisis",
+        "category": "playable"
+      },
+      {
+        "title": "Doom",
+        "category": "playable"
+      },
+      {
+        "title": "Exhumed",
+        "category": "playable"
+      },
+      {
+        "title": "Legacy of Kain: Soul Reaver",
+        "category": "playable"
+      },
+      {
+        "title": "Nightmare creatures",
+        "category": "playable"
+      },
+      {
+        "title": "Quake II",
+        "category": "playable"
+      },
+      {
+        "title": "Silent Hill",
+        "category": "playable"
+      },
+      {
+        "title": "Carmageddon",
+        "category": "trailer"
+      },
+      {
+        "title": "Resident Evil",
+        "category": "trailer"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "productCode": "SCED-02420",
+    "region": "Australia",
+    "title": "Official Australian PlayStation Collection Q2",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besthorror-aus-1.jpg",
+    "games": [
+      {
+        "title": "Deathrap Dungeon",
+        "category": "playable"
+      },
+      {
+        "title": "Dino Crisis",
+        "category": "playable"
+      },
+      {
+        "title": "Doom",
+        "category": "playable"
+      },
+      {
+        "title": "Exhumed",
+        "category": "playable"
+      },
+      {
+        "title": "Legacy of Kain: Soul Reaver",
+        "category": "playable"
+      },
+      {
+        "title": "Nightmare creatures",
+        "category": "playable"
+      },
+      {
+        "title": "Quake II",
+        "category": "playable"
+      },
+      {
+        "title": "Silent Hill",
+        "category": "playable"
+      },
+      {
+        "title": "Carmageddon",
+        "category": "trailer"
+      },
+      {
+        "title": "Resident Evil",
+        "category": "trailer"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "productCode": "SCED-02421",
+    "region": "Spain",
+    "title": "PlayStation Especial Deportes 4",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestsports-spa-1.jpg",
+    "games": [
+      {
+        "title": "Actua Ice Hockey 2",
+        "category": "playable"
+      },
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 3",
+        "category": "playable"
+      },
+      {
+        "title": "FIFA 2000",
+        "category": "playable"
+      },
+      {
+        "title": "ISS Pro '98",
+        "category": "playable"
+      },
+      {
+        "title": "Jonah Lomu Rugby",
+        "category": "playable"
+      },
+      {
+        "title": "This Is Football",
+        "category": "playable"
+      },
+      {
+        "title": "Tony Hawk Skateboarding",
+        "category": "playable"
+      },
+      {
+        "title": "Victory Boxing 2",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "productCode": "SCED-02421",
+    "region": "UK",
+    "title": "The Best Sports Games Ever",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestsports-uk-1.jpg",
+    "games": [
+      {
+        "title": "Actua Ice Hockey 2",
+        "category": "playable"
+      },
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 3",
+        "category": "playable"
+      },
+      {
+        "title": "FIFA 2000",
+        "category": "playable"
+      },
+      {
+        "title": "ISS Pro '98",
+        "category": "playable"
+      },
+      {
+        "title": "Jonah Lomu Rugby",
+        "category": "playable"
+      },
+      {
+        "title": "This Is Football",
+        "category": "playable"
+      },
+      {
+        "title": "Tony Hawk Skateboarding",
+        "category": "playable"
+      },
+      {
+        "title": "Victory Boxing 2",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "productCode": "SCED-02421",
+    "region": "Australia",
+    "title": "Official Australian PlayStation Sports Special SS",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestsports-aus-1.jpg",
+    "games": [
+      {
+        "title": "Actua Ice Hockey 2",
+        "category": "playable"
+      },
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 3",
+        "category": "playable"
+      },
+      {
+        "title": "FIFA 2000",
+        "category": "playable"
+      },
+      {
+        "title": "ISS Pro '98",
+        "category": "playable"
+      },
+      {
+        "title": "Jonah Lomu Rugby",
+        "category": "playable"
+      },
+      {
+        "title": "This Is Football",
+        "category": "playable"
+      },
+      {
+        "title": "Tony Hawk Skateboarding",
+        "category": "playable"
+      },
+      {
+        "title": "Victory Boxing 2",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "productCode": "SCED-02492",
+    "region": "Italy",
+    "title": "PlayStation Plus 08",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestracing-it-1.jpg",
+    "games": [
+      {
+        "title": "Circuit Breakers",
+        "category": "playable"
+      },
+      {
+        "title": "Colin McRae Rally",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Driver",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Speed Freaks",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA 2",
+        "category": "playable"
+      },
+      {
+        "title": "V-Rally 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "productCode": "SCED-02492",
+    "region": "Poland",
+    "title": "PlayStation Numer 6 Total Racing",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestracing-pl-1.jpg",
+    "games": [
+      {
+        "title": "Circuit Breakers",
+        "category": "playable"
+      },
+      {
+        "title": "Colin McRae Rally",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Driver",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Speed Freaks",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA 2",
+        "category": "playable"
+      },
+      {
+        "title": "V-Rally 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "productCode": "SCED-02492",
+    "region": "Spain",
+    "title": "PlayStation Edición Coleccionistas Número 2",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestracing-spa-1.jpg",
+    "games": [
+      {
+        "title": "Circuit Breakers",
+        "category": "playable"
+      },
+      {
+        "title": "Colin McRae Rally",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Driver",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Speed Freaks",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA 2",
+        "category": "playable"
+      },
+      {
+        "title": "V-Rally 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "productCode": "SCED-02492",
+    "region": "UK",
+    "title": "The Best Racing Games Ever",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestracing-uk-1.jpg",
+    "games": [
+      {
+        "title": "Circuit Breakers",
+        "category": "playable"
+      },
+      {
+        "title": "Colin McRae Rally",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Driver",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Speed Freaks",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA 2",
+        "category": "playable"
+      },
+      {
+        "title": "V-Rally 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "productCode": "SCED-02542",
+    "region": "Europe",
+    "title": "Kids Demo 01",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/kidsdemo01-eur-1.jpg",
+    "games": [
+      {
+        "title": "Kingsley's Adventure",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tarzan",
+        "category": "playable"
+      },
+      {
+        "title": "A Bug's Life",
+        "category": "trailer"
+      },
+      {
+        "title": "Barbie Race And Ride",
+        "category": "trailer"
+      },
+      {
+        "title": "Buster And The Beanstalk",
+        "category": "trailer"
+      },
+      {
+        "title": "Disney's Story Studio: Mulan",
+        "category": "trailer"
+      },
+      {
+        "title": "Muppet Race Mania",
+        "category": "trailer"
+      },
+      {
+        "title": "Web-site",
+        "category": "other"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "productCode": "SCED-02542",
+    "region": "Australia",
+    "title": "PlayStation Big Hits!",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/kidsdemo01-aus-1.jpg",
+    "games": [
+      {
+        "title": "Kingsley's Adventure",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tarzan",
+        "category": "playable"
+      },
+      {
+        "title": "A Bug's Life",
+        "category": "trailer"
+      },
+      {
+        "title": "Barbie Race And Ride",
+        "category": "trailer"
+      },
+      {
+        "title": "Buster And The Beanstalk",
+        "category": "trailer"
+      },
+      {
+        "title": "Disney's Story Studio: Mulan",
+        "category": "trailer"
+      },
+      {
+        "title": "Muppet Race Mania",
+        "category": "trailer"
+      },
+      {
+        "title": "Web-site",
+        "category": "other"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "productCode": "SCED-02851",
+    "region": "Italy",
+    "title": "Playstation Plus 09",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besteverever-it-1.jpg",
+    "games": [
+      {
+        "title": "Driver",
+        "category": "playable"
+      },
+      {
+        "title": "FIFA 2000",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider The Last Revelation",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Final Fantasy VIII",
+        "category": "trailer"
+      },
+      {
+        "title": "Wip3out",
+        "category": "trailer"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "productCode": "SCED-02851",
+    "region": "Spain",
+    "title": "Edición Oficial Española PlayStation Especial Número 5",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besteverever-spa-1.jpg",
+    "games": [
+      {
+        "title": "Driver",
+        "category": "playable"
+      },
+      {
+        "title": "FIFA 2000",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider The Last Revelation",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Final Fantasy VIII",
+        "category": "trailer"
+      },
+      {
+        "title": "Wip3out",
+        "category": "trailer"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "productCode": "SCED-02851",
+    "region": "UK",
+    "title": "Official UK PlayStation Best Games Ever!",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besteverever-uk-1.jpg",
+    "games": [
+      {
+        "title": "Driver",
+        "category": "playable"
+      },
+      {
+        "title": "FIFA 2000",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider The Last Revelation",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Final Fantasy VIII",
+        "category": "trailer"
+      },
+      {
+        "title": "Wip3out",
+        "category": "trailer"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "productCode": "SCED-02851",
+    "region": "Australia",
+    "title": "Official Australian Playstation Collector's Edition CE",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/besteverever-aus-1.jpg",
+    "games": [
+      {
+        "title": "Driver",
+        "category": "playable"
+      },
+      {
+        "title": "FIFA 2000",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider The Last Revelation",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Final Fantasy VIII",
+        "category": "trailer"
+      },
+      {
+        "title": "Wip3out",
+        "category": "trailer"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "productCode": "SCED-03167",
+    "region": "Italy",
+    "title": "Playstation Plus 10",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestsports2000-it-1.jpg",
+    "games": [
+      {
+        "title": "Colin McRae Rally 2",
+        "category": "playable"
+      },
+      {
+        "title": "Euro 2000",
+        "category": "playable"
+      },
+      {
+        "title": "Sydney 2000",
+        "category": "playable"
+      },
+      {
+        "title": "WWF Smackdown",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 4",
+        "category": "trailer"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Ronaldo V-Football",
+        "category": "trailer"
+      },
+      {
+        "title": "TOCA World Touring Cars",
+        "category": "trailer"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "productCode": "SCED-03167",
+    "region": "Spain",
+    "title": "PlayStation Especial Deportes Número 5",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestsports2000-spa1-1.jpg",
+    "games": [
+      {
+        "title": "Colin McRae Rally 2",
+        "category": "playable"
+      },
+      {
+        "title": "Euro 2000",
+        "category": "playable"
+      },
+      {
+        "title": "Sydney 2000",
+        "category": "playable"
+      },
+      {
+        "title": "WWF Smackdown",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 4",
+        "category": "trailer"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Ronaldo V-Football",
+        "category": "trailer"
+      },
+      {
+        "title": "TOCA World Touring Cars",
+        "category": "trailer"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "productCode": "SCED-03167",
+    "region": "UK",
+    "title": "Official UK PlayStation Best Games Ever!",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestsports2000-uk-1.jpg",
+    "games": [
+      {
+        "title": "Colin McRae Rally 2",
+        "category": "playable"
+      },
+      {
+        "title": "Euro 2000",
+        "category": "playable"
+      },
+      {
+        "title": "Sydney 2000",
+        "category": "playable"
+      },
+      {
+        "title": "WWF Smackdown",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 4",
+        "category": "trailer"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Ronaldo V-Football",
+        "category": "trailer"
+      },
+      {
+        "title": "TOCA World Touring Cars",
+        "category": "trailer"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "productCode": "SCED-03238",
+    "region": "Italy",
+    "title": "PS One Kids Autumn 2000",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/kidsautumn2000-it-1.jpg",
+    "games": [
+      {
+        "title": "Crash Bash",
+        "category": "playable"
+      },
+      {
+        "title": "Ms. Pac-man Maze Madness",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro 3 The Year Of The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "This Is Football 2",
+        "category": "playable"
+      },
+      {
+        "title": "Aladdin in Nasira's Revenge",
+        "category": "trailer"
+      },
+      {
+        "title": "Muppet Monster Adventure",
+        "category": "trailer"
+      },
+      {
+        "title": "The Jungle Book Groove Party",
+        "category": "trailer"
+      },
+      {
+        "title": "The Little Mermaid II",
+        "category": "trailer"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "productCode": "SCED-03238",
+    "region": "Spain",
+    "title": "PS One Kids Autumn 2000",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/kidsautumn2000-spa-1.jpg",
+    "games": [
+      {
+        "title": "Crash Bash",
+        "category": "playable"
+      },
+      {
+        "title": "Ms. Pac-man Maze Madness",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro 3 The Year Of The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "This Is Football 2",
+        "category": "playable"
+      },
+      {
+        "title": "Aladdin in Nasira's Revenge",
+        "category": "trailer"
+      },
+      {
+        "title": "Muppet Monster Adventure",
+        "category": "trailer"
+      },
+      {
+        "title": "The Jungle Book Groove Party",
+        "category": "trailer"
+      },
+      {
+        "title": "The Little Mermaid II",
+        "category": "trailer"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "productCode": "SCED-03239",
+    "region": "Italy",
+    "title": "Playstation Plus 11",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-it-1.jpg",
+    "games": [
+      {
+        "title": "Metal Gear Solid Special Missions",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider The Last Revelation",
+        "category": "playable"
+      },
+      {
+        "title": "Tony Hawk's Pro Skater 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      },
+      {
+        "title": "Alien Resurrection",
+        "category": "trailer"
+      },
+      {
+        "title": "Driver 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Mat Hoffman's Pro BMX",
+        "category": "trailer"
+      },
+      {
+        "title": "Y.V.J. 0.5",
+        "category": "other"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "productCode": "SCED-03239",
+    "region": "Poland",
+    "title": "Oficjalny Polski PlayStation Magazyn 05/01",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-pl-1.jpg",
+    "games": [
+      {
+        "title": "Metal Gear Solid Special Missions",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider The Last Revelation",
+        "category": "playable"
+      },
+      {
+        "title": "Tony Hawk's Pro Skater 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      },
+      {
+        "title": "Alien Resurrection",
+        "category": "trailer"
+      },
+      {
+        "title": "Driver 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Mat Hoffman's Pro BMX",
+        "category": "trailer"
+      },
+      {
+        "title": "Y.V.J. 0.5",
+        "category": "other"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "productCode": "SCED-03239",
+    "region": "Spain",
+    "title": "Edición Oficial Española PlayStation Edición Coleccionistas Número 3",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-spa-1.jpg",
+    "games": [
+      {
+        "title": "Metal Gear Solid Special Missions",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider The Last Revelation",
+        "category": "playable"
+      },
+      {
+        "title": "Tony Hawk's Pro Skater 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      },
+      {
+        "title": "Alien Resurrection",
+        "category": "trailer"
+      },
+      {
+        "title": "Driver 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Mat Hoffman's Pro BMX",
+        "category": "trailer"
+      },
+      {
+        "title": "Y.V.J. 0.5",
+        "category": "other"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "productCode": "SCED-03239",
+    "region": "UK",
+    "title": "Official UK PlayStation Best Games Ever!",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-uk-1.jpg",
+    "games": [
+      {
+        "title": "Metal Gear Solid Special Missions",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider The Last Revelation",
+        "category": "playable"
+      },
+      {
+        "title": "Tony Hawk's Pro Skater 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      },
+      {
+        "title": "Alien Resurrection",
+        "category": "trailer"
+      },
+      {
+        "title": "Driver 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Mat Hoffman's Pro BMX",
+        "category": "trailer"
+      },
+      {
+        "title": "Y.V.J. 0.5",
+        "category": "other"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "productCode": "SCED-03239",
+    "region": "Australia",
+    "title": "Official Australian PlayStation Magazine 44",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestpsone-aus-1.jpg",
+    "games": [
+      {
+        "title": "Metal Gear Solid Special Missions",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider The Last Revelation",
+        "category": "playable"
+      },
+      {
+        "title": "Tony Hawk's Pro Skater 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      },
+      {
+        "title": "Alien Resurrection",
+        "category": "trailer"
+      },
+      {
+        "title": "Driver 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Mat Hoffman's Pro BMX",
+        "category": "trailer"
+      },
+      {
+        "title": "Y.V.J. 0.5",
+        "category": "other"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "productCode": "SCED-03340",
+    "region": null,
+    "title": "PS One Kids Autumn 2000",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/kidsautumn2000-fra-1.jpg",
+    "games": [
+      {
+        "title": "Crash Bash",
+        "category": "playable"
+      },
+      {
+        "title": "Ms. Pac-man Maze Madness",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro 3 The Year Of The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Aladdin in Nasira's Revenge",
+        "category": "trailer"
+      },
+      {
+        "title": "Muppet Monster Adventure",
+        "category": "trailer"
+      },
+      {
+        "title": "The Jungle Book Groove Party",
+        "category": "trailer"
+      },
+      {
+        "title": "The Little Mermaid II",
+        "category": "trailer"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "productCode": "SCED-03375",
+    "region": "UK",
+    "title": "Official UK PlayStation Best Games Ever!",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestspecial-uk-1.jpg",
+    "games": [
+      {
+        "title": "Driver 2",
+        "category": "playable"
+      },
+      {
+        "title": "Spiderman",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro 3 The Year Of The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA World Touring Cars",
+        "category": "playable"
+      },
+      {
+        "title": "Alien Resurrection",
+        "category": "trailer"
+      },
+      {
+        "title": "Tenchu 2",
+        "category": "trailer"
+      },
+      {
+        "title": "The World Is Not Enough",
+        "category": "trailer"
+      },
+      {
+        "title": "WWF Smackdown 2",
+        "category": "trailer"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "productCode": "SCED-03408",
+    "region": null,
+    "title": "Official UK PlayStation Best Games Ever!",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/bestextreme-uk-1.jpg",
+    "games": [
+      {
+        "title": "Dave Mirra Freestyle BMX",
+        "category": "playable"
+      },
+      {
+        "title": "Sled Storm",
+        "category": "playable"
+      },
+      {
+        "title": "Sno Cross Championship Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Tony Hawk's Pro Skater 2",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 4",
+        "category": "trailer"
+      },
+      {
+        "title": "Grind Session",
+        "category": "trailer"
+      },
+      {
+        "title": "Mat Hoffman's Pro BMX",
+        "category": "trailer"
+      },
+      {
+        "title": "Moto Racer World Tour",
+        "category": "trailer"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "productCode": "SCED-04019",
+    "region": null,
+    "title": "PSone Xmas Special",
+    "imageUrl": "https://crimson-ceremony.net/demopals/opmspecials/ps1xmas-fra-1.jpg",
+    "games": [
+      {
+        "title": "Dancing Stage Party Edition",
+        "category": "playable"
+      },
+      {
+        "title": "Firebugs",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "playable"
+      },
+      {
+        "title": "ISS Pro Evolution Soccer 2",
+        "category": "playable"
+      },
+      {
+        "title": "Jinx",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "playable"
+      },
+      {
+        "title": "Peter Pan 2",
+        "category": "playable"
+      },
+      {
+        "title": "Stuart Little 2",
+        "category": "playable"
+      },
+      {
+        "title": "Treasure Planet",
+        "category": "playable"
+      },
+      {
+        "title": "WRC Arcade",
+        "category": "playable"
+      }
+    ]
+  }
+]

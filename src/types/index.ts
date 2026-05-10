@@ -12,3 +12,5 @@ export type Disc = {
 export type CollectionFilter = 'all' | 'collected' | 'not-collected';
 
 export type DropdownOption = { value: string; label: string; icon: string };
+
+export type DiscCollection = { id: string; label: string };

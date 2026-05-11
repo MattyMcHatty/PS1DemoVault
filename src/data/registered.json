@@ -1,0 +1,401 @@
+[
+  {
+    "id": 1,
+    "productCode": "SCED-00637",
+    "region": "Europe",
+    "title": "Registration Demo 01 europe",
+    "games": [
+      {
+        "title": "2 Xtreme",
+        "category": "playable"
+      },
+      {
+        "title": "Adidas Power Soccer International '97",
+        "category": "playable"
+      },
+      {
+        "title": "Broken Sword",
+        "category": "playable"
+      },
+      {
+        "title": "Destruction Derby 2",
+        "category": "playable"
+      },
+      {
+        "title": "Lifeforce Tenka",
+        "category": "playable"
+      },
+      {
+        "title": "Monster Trucks",
+        "category": "playable"
+      },
+      {
+        "title": "Porsche Challenge",
+        "category": "playable"
+      },
+      {
+        "title": "Sentient",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/registered/sleeve2-1.jpg",
+      "https://crimson-ceremony.net/demopals/registered/sleeve2-2.jpg",
+      "https://crimson-ceremony.net/demopals/registered/01-1.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "productCode": "SCED-00936",
+    "region": "Europe",
+    "title": "Registered User Demo 02",
+    "games": [
+      {
+        "title": "Crash Bandicoot 2",
+        "category": "playable"
+      },
+      {
+        "title": "Kula Quest",
+        "category": "playable"
+      },
+      {
+        "title": "Nightmare Creatures",
+        "category": "playable"
+      },
+      {
+        "title": "Overboard (2 Player)",
+        "category": "playable"
+      },
+      {
+        "title": "Parappa The Rapper",
+        "category": "playable"
+      },
+      {
+        "title": "Test Drive 4",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot Intro",
+        "category": "trailer"
+      },
+      {
+        "title": "Final Fantasy VII",
+        "category": "trailer"
+      },
+      {
+        "title": "Medievil",
+        "category": "trailer"
+      },
+      {
+        "title": "Game Hotlines",
+        "category": "other"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/registered/sleeve1-1.jpg",
+      "https://crimson-ceremony.net/demopals/registered/sleeve1-2.jpg",
+      "https://crimson-ceremony.net/demopals/registered/02-1.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "productCode": "SCED-01230",
+    "region": "Europe",
+    "title": "Registered Users Demo 03",
+    "games": [
+      {
+        "title": "Armored Core",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 2",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 2",
+        "category": "playable"
+      },
+      {
+        "title": "Formula 1 '97",
+        "category": "playable"
+      },
+      {
+        "title": "Kurushi",
+        "category": "playable"
+      },
+      {
+        "title": "Parappa the Rapper",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 2",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "trailer"
+      },
+      {
+        "title": "Kula World",
+        "category": "trailer"
+      },
+      {
+        "title": "Powerline",
+        "category": "other"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/registered/sleeve1-1.jpg",
+      "https://crimson-ceremony.net/demopals/registered/sleeve1-2.jpg",
+      "https://crimson-ceremony.net/demopals/registered/03-1.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "productCode": "SCED-01385",
+    "region": "Europe",
+    "title": "Registered Users Demo",
+    "games": [
+      {
+        "title": "Armored Core",
+        "category": "playable"
+      },
+      {
+        "title": "Bomberman World",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 2",
+        "category": "playable"
+      },
+      {
+        "title": "Dead Or Alive",
+        "category": "playable"
+      },
+      {
+        "title": "Forsaken",
+        "category": "playable"
+      },
+      {
+        "title": "Ghost In The Shell",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Klonoa",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Tombi",
+        "category": "playable"
+      },
+      {
+        "title": "Treasures Of The Deep",
+        "category": "playable"
+      },
+      {
+        "title": "Hotlines",
+        "category": "other"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/registered/sleeve1-1.jpg",
+      "https://crimson-ceremony.net/demopals/registered/sleeve1-2.jpg",
+      "https://crimson-ceremony.net/demopals/registered/04-1.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "productCode": "SCED-01636",
+    "region": "Europe",
+    "title": "Registered Users Demo",
+    "games": [
+      {
+        "title": "Cool Boarders 2",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "playable"
+      },
+      {
+        "title": "Fluid",
+        "category": "playable"
+      },
+      {
+        "title": "Hercules",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Moto Racer 2",
+        "category": "playable"
+      },
+      {
+        "title": "Porsche Challenge",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Test Drive 5",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeout 2097",
+        "category": "playable"
+      },
+      {
+        "title": "Libero Grande",
+        "category": "trailer"
+      },
+      {
+        "title": "Rocks 'n' Gems",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/registered/sleeve1-1.jpg",
+      "https://crimson-ceremony.net/demopals/registered/sleeve1-2.jpg",
+      "https://crimson-ceremony.net/demopals/registered/05-1.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "productCode": "SCED-01988",
+    "region": "Europe",
+    "title": "Registered Users Demo 06",
+    "games": [
+      {
+        "title": "A Bug's Life",
+        "category": "playable"
+      },
+      {
+        "title": "All Stars Tennis",
+        "category": "playable"
+      },
+      {
+        "title": "Blood Lines",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 2",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 2",
+        "category": "playable"
+      },
+      {
+        "title": "Devil Dice",
+        "category": "playable"
+      },
+      {
+        "title": "Monkey Hero",
+        "category": "playable"
+      },
+      {
+        "title": "Oddworld: Abe's Exoddus",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "A Bug's Life",
+        "category": "trailer"
+      },
+      {
+        "title": "Hotlines Chooser",
+        "category": "other"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/registered/sleeve1-1.jpg",
+      "https://crimson-ceremony.net/demopals/registered/sleeve1-2.jpg",
+      "https://crimson-ceremony.net/demopals/registered/06-1.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "productCode": "SCED-02676",
+    "region": "Europe",
+    "title": "Registered Users Demo 08",
+    "games": [
+      {
+        "title": "Colony Wars: Red Sun",
+        "category": "playable"
+      },
+      {
+        "title": "Destruction Derby Raw",
+        "category": "playable"
+      },
+      {
+        "title": "Everybody's Golf 2",
+        "category": "playable"
+      },
+      {
+        "title": "Hogs Of War",
+        "category": "playable"
+      },
+      {
+        "title": "Muppet Race Mania",
+        "category": "playable"
+      },
+      {
+        "title": "Star Ixiom",
+        "category": "playable"
+      },
+      {
+        "title": "Street Fighter EX Plus 2",
+        "category": "playable"
+      },
+      {
+        "title": "Team Buddies",
+        "category": "playable"
+      },
+      {
+        "title": "Vib Ribbon",
+        "category": "playable"
+      },
+      {
+        "title": "Ghoul Panic",
+        "category": "trailer"
+      },
+      {
+        "title": "Star Ocean 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Tombi 2",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/psone01-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone01-2.jpg",
+      "https://crimson-ceremony.net/demopals/registered/08-1.jpg"
+    ]
+  }
+]

@@ -1,0 +1,5083 @@
+[
+  {
+    "id": 1,
+    "productCode": "SLES-00221",
+    "region": "UK",
+    "title": "Loaded/ Actua Soccer/ Actua Golf",
+    "games": [
+      {
+        "title": "Actua Golf",
+        "category": "playable"
+      },
+      {
+        "title": "Actua Soccer",
+        "category": "playable"
+      },
+      {
+        "title": "Loaded",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/gremlin95-1.jpg"
+    ],
+    "notes": "The demo probably came in a slimline case."
+  },
+  {
+    "id": 2,
+    "productCode": "SCES-00236",
+    "region": "UK",
+    "title": "VIP",
+    "games": [
+      {
+        "title": "ESPN Extreme Games",
+        "category": "playable"
+      },
+      {
+        "title": "Mickey's Wild Adventure",
+        "category": "playable"
+      },
+      {
+        "title": "Mortal Kombat III",
+        "category": "playable"
+      },
+      {
+        "title": "Total NBA '96",
+        "category": "playable"
+      },
+      {
+        "title": "Twisted Metal",
+        "category": "playable"
+      },
+      {
+        "title": "Warhawk",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/vip-1.jpg"
+    ],
+    "notes": "May have been sent to people who registered their consoles with Sony."
+  },
+  {
+    "id": 3,
+    "productCode": "SCES-00237",
+    "region": "Germany",
+    "title": "VIP GER",
+    "games": [
+      {
+        "title": "ESPN Extreme Games",
+        "category": "playable"
+      },
+      {
+        "title": "Mickey's Wild Adventure",
+        "category": "playable"
+      },
+      {
+        "title": "Total NBA '96",
+        "category": "playable"
+      },
+      {
+        "title": "Twisted Metal",
+        "category": "playable"
+      },
+      {
+        "title": "Warhawk",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/vip-ger-1.jpg"
+    ],
+    "notes": "May have been sent to people who registered their consoles with Sony."
+  },
+  {
+    "id": 4,
+    "productCode": "SCES-00344",
+    "region": "Europe",
+    "title": "Autumn/Christmas Releases",
+    "games": [
+      {
+        "title": "Crash Bandicoot",
+        "category": "playable"
+      },
+      {
+        "title": "F1",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeout 2097",
+        "category": "playable"
+      },
+      {
+        "title": "Destruction Derby 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Monster Trucks",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-crash-eur1-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-crash-eur1-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-crash-eur1-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-crash-eur1-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-1.jpg"
+    ],
+    "notes": "The disc title is repeated in German, French, and Spanish; Herbst/Weinachts-Neuveröffentlichungen, Sorties Prévues Pour La Fin De Lanneé, and Lanzamientos De Otoño Y Navidad. It was included with Crash Bandicoot and Tekken 2. Crash Bandicoot was released in two different case variants, and the manuals included with each are slightly different.",
+    "coupledGame": "Crash Bandicoot"
+  },
+  {
+    "id": 5,
+    "productCode": "SCES-00344",
+    "region": "Scandinavia",
+    "title": "Autumn/Christmas Releases",
+    "games": [
+      {
+        "title": "Crash Bandicoot",
+        "category": "playable"
+      },
+      {
+        "title": "F1",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeout 2097",
+        "category": "playable"
+      },
+      {
+        "title": "Destruction Derby 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Monster Trucks",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-crash-sca1-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-crash-sca1-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-crash-sca1-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-crash-sca1-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-crash-sca1-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-1.jpg"
+    ],
+    "notes": "The disc title is repeated in German, French, and Spanish; Herbst/Weinachts-Neuveröffentlichungen, Sorties Prévues Pour La Fin De Lanneé, and Lanzamientos De Otoño Y Navidad. It was included with Crash Bandicoot and Tekken 2. Crash Bandicoot was released in two different case variants, and the manuals included with each are slightly different.",
+    "coupledGame": "Crash Bandicoot"
+  },
+  {
+    "id": 6,
+    "productCode": "SCES-00344",
+    "region": "Scandinavia",
+    "title": "Autumn/Christmas Releases",
+    "games": [
+      {
+        "title": "Crash Bandicoot",
+        "category": "playable"
+      },
+      {
+        "title": "F1",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeout 2097",
+        "category": "playable"
+      },
+      {
+        "title": "Destruction Derby 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Monster Trucks",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-crash-sca2-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-crash-sca2-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-crash-sca2-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-crash-sca2-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-crash-sca2-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-1.jpg"
+    ],
+    "notes": "The disc title is repeated in German, French, and Spanish; Herbst/Weinachts-Neuveröffentlichungen, Sorties Prévues Pour La Fin De Lanneé, and Lanzamientos De Otoño Y Navidad. It was included with Crash Bandicoot and Tekken 2. Crash Bandicoot was released in two different case variants, and the manuals included with each are slightly different.",
+    "coupledGame": "Crash Bandicoot"
+  },
+  {
+    "id": 7,
+    "productCode": "SCES-00255",
+    "region": "Europe",
+    "title": "Autumn/Christmas Releases",
+    "games": [
+      {
+        "title": "Crash Bandicoot",
+        "category": "playable"
+      },
+      {
+        "title": "F1",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wipeout 2097",
+        "category": "playable"
+      },
+      {
+        "title": "Destruction Derby 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Monster Trucks",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-tekken2-eur-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-tekken2-eur-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-tekken2-eur-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-tekken2-eur-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/autumnchristmas96-1.jpg"
+    ],
+    "notes": "The disc title is repeated in German, French, and Spanish; Herbst/Weinachts-Neuveröffentlichungen, Sorties Prévues Pour La Fin De Lanneé, and Lanzamientos De Otoño Y Navidad. It was included with Crash Bandicoot and Tekken 2. Crash Bandicoot was released in two different case variants, and the manuals included with each are slightly different.",
+    "coupledGame": "Tekken 2"
+  },
+  {
+    "id": 8,
+    "productCode": "SCED-00609",
+    "region": "France",
+    "title": "Serial Players Only",
+    "games": [
+      {
+        "title": "2Xtreme",
+        "category": "playable"
+      },
+      {
+        "title": "Monster Truck",
+        "category": "playable"
+      },
+      {
+        "title": "Porsche Challenge",
+        "category": "playable"
+      },
+      {
+        "title": "Street Racer",
+        "category": "playable"
+      },
+      {
+        "title": "Time Commando",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/serialplayersonly-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/serialplayersonly-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/serialplayersonly-3.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "productCode": "SCES-00667",
+    "region": "UK",
+    "title": "Power Source",
+    "games": [
+      {
+        "title": "Destruction Derby 2",
+        "category": "playable"
+      },
+      {
+        "title": "Excalibur 2555",
+        "category": "playable"
+      },
+      {
+        "title": "Exhumed",
+        "category": "playable"
+      },
+      {
+        "title": "Monster Trucks",
+        "category": "playable"
+      },
+      {
+        "title": "Porsche Challenge",
+        "category": "playable"
+      },
+      {
+        "title": "Riot",
+        "category": "playable"
+      },
+      {
+        "title": "Robotron X",
+        "category": "playable"
+      },
+      {
+        "title": "Spider",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider",
+        "category": "playable"
+      },
+      {
+        "title": "Ace Combat",
+        "category": "multivideo"
+      },
+      {
+        "title": "Cool Boarders 2",
+        "category": "multivideo"
+      },
+      {
+        "title": "Die Hard Trilogy",
+        "category": "multivideo"
+      },
+      {
+        "title": "MDK",
+        "category": "multivideo"
+      },
+      {
+        "title": "Resident Evil",
+        "category": "multivideo"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "multivideo"
+      },
+      {
+        "title": "Tomb Raider",
+        "category": "multivideo"
+      },
+      {
+        "title": "Wipeout 2097",
+        "category": "multivideo"
+      },
+      {
+        "title": "... and more",
+        "category": "multivideo"
+      },
+      {
+        "title": "Snave",
+        "category": "net yaroze"
+      },
+      {
+        "title": "Net Yaroze? (how to use)",
+        "category": "other"
+      },
+      {
+        "title": "PlayStation Challenge (submit your game idea)",
+        "category": "other"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/powersource-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/powersource-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/powersource-3.jpg"
+    ],
+    "notes": "The demo retailed for GBP 9.99, all proceeds went to The Prince' Trust. The title of the multivideo is \"Blown Away\"."
+  },
+  {
+    "id": 10,
+    "productCode": "SCES",
+    "region": "Europe",
+    "title": "Namco Demo",
+    "games": [
+      {
+        "title": "Namco Museum Vol. 4 & 5",
+        "category": "trailer"
+      },
+      {
+        "title": "Namco Tennis Smash Court",
+        "category": "trailer"
+      },
+      {
+        "title": "Soul Blade",
+        "category": "trailer"
+      },
+      {
+        "title": "Time Crisis",
+        "category": "trailer"
+      },
+      {
+        "title": "Xevious 3D/G",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/namcodemo-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/namcodemo-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/namcodemo-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/namcodemo-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/namcodemo-1.jpg"
+    ],
+    "notes": "Included with Rage Racer (1997.06.01).",
+    "coupledGame": "Rage Racer"
+  },
+  {
+    "id": 11,
+    "productCode": "SLES",
+    "region": "Europe",
+    "title": "Radicalgames@Psygnosis",
+    "games": [
+      {
+        "title": "Colony Wars",
+        "category": "playable"
+      },
+      {
+        "title": "G-Police",
+        "category": "playable"
+      },
+      {
+        "title": "Overboard",
+        "category": "playable"
+      },
+      {
+        "title": "Shadow Master",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/radicalv1-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/radicalv1-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/radicalv1-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/radicalv1-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/radicalv1-6.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/radicalv1-1.jpg"
+    ],
+    "notes": "Included with Formula 1 97. A blue sticker on the front advertised the demo. Some copies in Germany were also used for rental with official rental stickers.",
+    "coupledGame": "Formula 1 97"
+  },
+  {
+    "id": 12,
+    "productCode": "SLES",
+    "region": "Germany",
+    "title": "Radicalgames@Psygnosis",
+    "games": [
+      {
+        "title": "Colony Wars",
+        "category": "playable"
+      },
+      {
+        "title": "G-Police",
+        "category": "playable"
+      },
+      {
+        "title": "Overboard",
+        "category": "playable"
+      },
+      {
+        "title": "Shadow Master",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/radicalv1-ger-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/radicalv1-ger-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/radicalv1-ger-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/radicalv1-ger-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/radicalv1-ger-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/radicalv1-6.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/radicalv1-1.jpg"
+    ],
+    "notes": "Included with Formula 1 97. A blue sticker on the front advertised the demo. Some copies in Germany were also used for rental with official rental stickers.",
+    "coupledGame": "Formel 1 97"
+  },
+  {
+    "id": 13,
+    "productCode": "SCED-00986",
+    "region": "Europe",
+    "title": "Winter Releases - '97 demo 01",
+    "games": [
+      {
+        "title": "Crash Bandicoot 2",
+        "category": "playable"
+      },
+      {
+        "title": "Kurushi",
+        "category": "playable"
+      },
+      {
+        "title": "Nightmare Creatures",
+        "category": "playable"
+      },
+      {
+        "title": "Parappa The Rapper",
+        "category": "playable"
+      },
+      {
+        "title": "Rapid Racer",
+        "category": "playable"
+      },
+      {
+        "title": "Broken Sword 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Bushido Blade",
+        "category": "trailer"
+      },
+      {
+        "title": "Final Fantasy VII",
+        "category": "trailer"
+      },
+      {
+        "title": "Medievil",
+        "category": "trailer"
+      },
+      {
+        "title": "Rosco McQueen",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter97demo01-1.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "productCode": "SCED-00988",
+    "region": "Europe",
+    "title": "Video IDU Test V1.1",
+    "games": [
+      {
+        "title": "Sony games reel",
+        "category": "multivideo"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/videotest11-1.jpg"
+    ],
+    "notes": "The disc was used to test the Internal Display Units in in-store kiosks. It only loops a video featuring various games. It makes an invisible save to your Memory Card if one is inserted, but will boot without one."
+  },
+  {
+    "id": 15,
+    "productCode": "SLED-00990",
+    "region": "Europe",
+    "title": "Radicalgames@Psygnosis v.2.",
+    "games": [
+      {
+        "title": "Colony Wars",
+        "category": "playable"
+      },
+      {
+        "title": "Formula 1 '97",
+        "category": "playable"
+      },
+      {
+        "title": "G-Police",
+        "category": "playable"
+      },
+      {
+        "title": "Overboard",
+        "category": "playable"
+      },
+      {
+        "title": "Shadow Master",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/radicalv2-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/radicalv2-2.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "productCode": "SCED-01049",
+    "region": "Europe",
+    "title": "PlayStation Sampler/ Nightmare Creatures/ Kurushi/ Rapid Racer/ Parappa The Rapper/ Final Fantasy VII",
+    "games": [
+      {
+        "title": "Kurushi",
+        "category": "playable"
+      },
+      {
+        "title": "Nightmare Creatures",
+        "category": "playable"
+      },
+      {
+        "title": "Parappa The Rapper",
+        "category": "playable"
+      },
+      {
+        "title": "Final Fantasy VII",
+        "category": "trailer"
+      },
+      {
+        "title": "Rapid Racer",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/pssampler-1.jpg"
+    ],
+    "notes": "Included with Crash Bandicoot 2 Cortex Strikes Back."
+  },
+  {
+    "id": 17,
+    "productCode": "SLED-01054",
+    "region": "France",
+    "title": "BMG Demos",
+    "games": [
+      {
+        "title": "Courier Crisis",
+        "category": "playable"
+      },
+      {
+        "title": "Exhumed",
+        "category": "playable"
+      },
+      {
+        "title": "Spider",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/bmgdemos-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/bmgdemos-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/bmgdemos-3.jpg"
+    ],
+    "notes": "The demo came with CD Consoles issue 35 (01/98)."
+  },
+  {
+    "id": 18,
+    "productCode": "SLED-01069",
+    "region": "France",
+    "title": "MDK PlayMag Demo",
+    "games": [
+      {
+        "title": "MDK",
+        "category": "playable"
+      },
+      {
+        "title": "Crime Killer",
+        "category": "trailer"
+      },
+      {
+        "title": "Rock & Roll Racing 2: Red Asphalt",
+        "category": "trailer"
+      },
+      {
+        "title": "VR Sports Powerboat Racing",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/mdkplaymag-1.jpg"
+    ],
+    "notes": "The demo came with PlayMag issue 21 (01/1998), in a clear plastic sleeve."
+  },
+  {
+    "id": 19,
+    "productCode": "SCED-01138",
+    "region": "France",
+    "title": "Joypad Demo 01 français",
+    "games": [
+      {
+        "title": "Destruction Derby 2",
+        "category": "playable"
+      },
+      {
+        "title": "Nightmare Creatures",
+        "category": "playable"
+      },
+      {
+        "title": "Overboard",
+        "category": "playable"
+      },
+      {
+        "title": "Porsche Challenge",
+        "category": "playable"
+      },
+      {
+        "title": "Rage Racer",
+        "category": "playable"
+      },
+      {
+        "title": "Reloaded",
+        "category": "playable"
+      },
+      {
+        "title": "Speedster",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 2",
+        "category": "playable"
+      },
+      {
+        "title": "Test Drive 4",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA Touring Car",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/joypad01-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/joypad01-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/joypad01-3.jpg"
+    ],
+    "notes": "Included with issue 76 (06/1998) of Joypad."
+  },
+  {
+    "id": 20,
+    "productCode": "SCED-01189",
+    "region": "Germany",
+    "title": "MIP Club Demo 01",
+    "games": [
+      {
+        "title": "Armored Core",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 2",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 2",
+        "category": "playable"
+      },
+      {
+        "title": "Final Fantasy VII",
+        "category": "trailer"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/mipclub01-1.jpg"
+    ],
+    "notes": "The demo was sent to registered users of the PlayStation club in Germany."
+  },
+  {
+    "id": 21,
+    "productCode": "SCED-01190",
+    "region": "Germany",
+    "title": "MIP Club Demo 02",
+    "games": [
+      {
+        "title": "Bomberman World",
+        "category": "playable"
+      },
+      {
+        "title": "Ghost in the Shell",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tombi",
+        "category": "playable"
+      },
+      {
+        "title": "Treasures of the Deep",
+        "category": "playable"
+      },
+      {
+        "title": "Alundra",
+        "category": "trailer"
+      },
+      {
+        "title": "The Fifth Element",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/mipclub02-1.jpg"
+    ],
+    "notes": "The demo was sent to registered users of the PlayStation club in Germany."
+  },
+  {
+    "id": 22,
+    "productCode": "SLED-01295",
+    "region": "France",
+    "title": "Pro Foot GTA Crisis",
+    "games": [
+      {
+        "title": "Courier Crisis",
+        "category": "playable"
+      },
+      {
+        "title": "Grand Theft Auto",
+        "category": "playable"
+      },
+      {
+        "title": "Pro Foot Contest '98",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/profootgtacrisis-1.jpg"
+    ],
+    "notes": "The demo came with PlayMag issue 25 (05/1998), in a white paper sleeve."
+  },
+  {
+    "id": 23,
+    "productCode": "SLED-01340",
+    "region": "Europe",
+    "title": "Net Yaroze",
+    "games": [
+      {
+        "title": "52 games",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/netyaroze-1.jpg"
+    ],
+    "notes": "Given out in a competition, supposedly limited to 1000 copies. Three sheets of paper were included."
+  },
+  {
+    "id": 24,
+    "productCode": "SCED-01372",
+    "region": "UK",
+    "title": "Dead Or Alive",
+    "games": [
+      {
+        "title": "Dead or Alive",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo (TV ad)",
+        "category": "trailer"
+      },
+      {
+        "title": "Enlightenment",
+        "category": "other"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/doagt-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/doagt-2.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "productCode": "SCED-01386",
+    "region": "Australia",
+    "title": "Dual Shock Demo",
+    "games": [
+      {
+        "title": "Bomberman World",
+        "category": "playable"
+      },
+      {
+        "title": "Dead or Alive",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo (TV ad)",
+        "category": "trailer"
+      },
+      {
+        "title": "Medievil",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/dualshockdemo-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/dualshockdemo-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/dualshockdemo-3.jpg"
+    ],
+    "notes": "The demo came in a fold-out digipak with a booklet and a competition form."
+  },
+  {
+    "id": 26,
+    "productCode": "SLED-01413",
+    "region": "UK",
+    "title": "Ninja: Shadow Of Darkness",
+    "games": [
+      {
+        "title": "Deathtrap Dungeon",
+        "category": "playable"
+      },
+      {
+        "title": "Ninja: Shadow Of Darkness",
+        "category": "playable"
+      },
+      {
+        "title": "World League Soccer '98",
+        "category": "playable"
+      },
+      {
+        "title": "Ninja: Shadow Of Darkness",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/ninja-tps-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/ninja-tps-2.jpg"
+    ],
+    "notes": "The demo was included with an issue of Total PlayStation. The menu music is from Tomb Raider 3."
+  },
+  {
+    "id": 27,
+    "productCode": "SLED-01414",
+    "region": "Europe",
+    "title": "Ninja: Shadow Of Darkness",
+    "games": [
+      {
+        "title": "Deathtrap Dungeon",
+        "category": "playable"
+      },
+      {
+        "title": "Ninja: Shadow Of Darkness",
+        "category": "playable"
+      },
+      {
+        "title": "World League Soccer '98",
+        "category": "playable"
+      },
+      {
+        "title": "Ninja: Shadow Of Darkness",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/ninja-ver2-1.jpg"
+    ],
+    "notes": "The menu music is from Tomb Raider 3."
+  },
+  {
+    "id": 28,
+    "productCode": "SCES",
+    "region": "France",
+    "title": "Winter Releases '98",
+    "games": [
+      {
+        "title": "Ghost in the Shell",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tombi",
+        "category": "playable"
+      },
+      {
+        "title": "Treasures of the Deep",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Spice World",
+        "category": "trailer"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-medievil-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-medievil-fra-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-medievil-fra-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-ger-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-uk-3.jpg"
+    ],
+    "notes": "Included with some variants of Medievil and Spyro The Dragon, both originally released in October 1998. There are Austrian and Australian demo disc pressing variants, and some game variants came with any one of either demo variant. SCED-01441# listed below is almost identical, but contains one more game.",
+    "coupledGame": "Medievil"
+  },
+  {
+    "id": 29,
+    "productCode": "SCES",
+    "region": "UK",
+    "title": "Winter Releases '98",
+    "games": [
+      {
+        "title": "Ghost in the Shell",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tombi",
+        "category": "playable"
+      },
+      {
+        "title": "Treasures of the Deep",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Spice World",
+        "category": "trailer"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-medievil-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-medievil-uk-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-medievil-uk-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-medievil-uk-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-medievil-uk-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-ger-4.jpg"
+    ],
+    "notes": "Included with some variants of Medievil and Spyro The Dragon, both originally released in October 1998. There are Austrian and Australian demo disc pressing variants, and some game variants came with any one of either demo variant. SCED-01441# listed below is almost identical, but contains one more game.",
+    "coupledGame": "Medievil"
+  },
+  {
+    "id": 30,
+    "productCode": "SCES",
+    "region": "Europe",
+    "title": "Winter Releases '98",
+    "games": [
+      {
+        "title": "Ghost in the Shell",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tombi",
+        "category": "playable"
+      },
+      {
+        "title": "Treasures of the Deep",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Spice World",
+        "category": "trailer"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-eur1-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-eur1-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-ger-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-ger-4.jpg"
+    ],
+    "notes": "Included with some variants of Medievil and Spyro The Dragon, both originally released in October 1998. There are Austrian and Australian demo disc pressing variants, and some game variants came with any one of either demo variant. SCED-01441# listed below is almost identical, but contains one more game.",
+    "coupledGame": "Spyro The Dragon"
+  },
+  {
+    "id": 31,
+    "productCode": "SCES",
+    "region": "France",
+    "title": "Winter Releases '98",
+    "games": [
+      {
+        "title": "Ghost in the Shell",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tombi",
+        "category": "playable"
+      },
+      {
+        "title": "Treasures of the Deep",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Spice World",
+        "category": "trailer"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-fra-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-fra-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-fra-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-ger-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-ger-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-uk-3.jpg"
+    ],
+    "notes": "Included with some variants of Medievil and Spyro The Dragon, both originally released in October 1998. There are Austrian and Australian demo disc pressing variants, and some game variants came with any one of either demo variant. SCED-01441# listed below is almost identical, but contains one more game.",
+    "coupledGame": "Spyro The Dragon"
+  },
+  {
+    "id": 32,
+    "productCode": "SCES",
+    "region": "Germany",
+    "title": "Winter Releases '98",
+    "games": [
+      {
+        "title": "Ghost in the Shell",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tombi",
+        "category": "playable"
+      },
+      {
+        "title": "Treasures of the Deep",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Spice World",
+        "category": "trailer"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-ger-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-ger-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-ger-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-ger-4.jpg"
+    ],
+    "notes": "Included with some variants of Medievil and Spyro The Dragon, both originally released in October 1998. There are Austrian and Australian demo disc pressing variants, and some game variants came with any one of either demo variant. SCED-01441# listed below is almost identical, but contains one more game.",
+    "coupledGame": "Spyro The Dragon"
+  },
+  {
+    "id": 33,
+    "productCode": "SCES",
+    "region": "Scandinavia",
+    "title": "Winter Releases '98",
+    "games": [
+      {
+        "title": "Ghost in the Shell",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tombi",
+        "category": "playable"
+      },
+      {
+        "title": "Treasures of the Deep",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Spice World",
+        "category": "trailer"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-sca1-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-sca1-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-sca1-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-ger-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-sca1-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-sca1-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-sca1-6.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-sca1-7.jpg"
+    ],
+    "notes": "Included with some variants of Medievil and Spyro The Dragon, both originally released in October 1998. There are Austrian and Australian demo disc pressing variants, and some game variants came with any one of either demo variant. SCED-01441# listed below is almost identical, but contains one more game.",
+    "coupledGame": "Spyro The Dragon"
+  },
+  {
+    "id": 34,
+    "productCode": "SCES",
+    "region": "Scandinavia",
+    "title": "Winter Releases '98",
+    "games": [
+      {
+        "title": "Ghost in the Shell",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tombi",
+        "category": "playable"
+      },
+      {
+        "title": "Treasures of the Deep",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Spice World",
+        "category": "trailer"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-sca2-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-sca2-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-sca2-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-ger-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-sca2-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-sca2-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-sca2-6.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-sca2-7.jpg"
+    ],
+    "notes": "Included with some variants of Medievil and Spyro The Dragon, both originally released in October 1998. There are Austrian and Australian demo disc pressing variants, and some game variants came with any one of either demo variant. SCED-01441# listed below is almost identical, but contains one more game.",
+    "coupledGame": "Spyro The Dragon"
+  },
+  {
+    "id": 35,
+    "productCode": "SCES",
+    "region": "UK",
+    "title": "Winter Releases '98",
+    "games": [
+      {
+        "title": "Ghost in the Shell",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tombi",
+        "category": "playable"
+      },
+      {
+        "title": "Treasures of the Deep",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Spice World",
+        "category": "trailer"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-uk-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-ger-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-ger-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver1-spyro1-uk-3.jpg"
+    ],
+    "notes": "Included with some variants of Medievil and Spyro The Dragon, both originally released in October 1998. There are Austrian and Australian demo disc pressing variants, and some game variants came with any one of either demo variant. SCED-01441# listed below is almost identical, but contains one more game.",
+    "coupledGame": "Spyro The Dragon"
+  },
+  {
+    "id": 36,
+    "productCode": "SCED-01441n",
+    "region": "Europe",
+    "title": "Winter Releases '98",
+    "games": [
+      {
+        "title": "Bust-A-Groove",
+        "category": "playable"
+      },
+      {
+        "title": "Ghost in the Shell",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tombi",
+        "category": "playable"
+      },
+      {
+        "title": "Treasures of the Deep",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Spice World",
+        "category": "trailer"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-sleeve-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-sleeve-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-sleeve-3.jpg"
+    ],
+    "notes": "The demo was distributed in a black cardsleeve, and also included with some variants of Cool Boarders 3 and Crash Bandicoot 3: Warped, originally released in November and December of 1998, respectively. There are Austrian, Australian, and Japanese demo disc pressing variants, and some game variants came with any one of either demo variant. SCED-01441 listed above is almost identical, but contains one fewer game."
+  },
+  {
+    "id": 37,
+    "productCode": "SCES",
+    "region": "Germany",
+    "title": "Winter Releases '98",
+    "games": [
+      {
+        "title": "Bust-A-Groove",
+        "category": "playable"
+      },
+      {
+        "title": "Ghost in the Shell",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tombi",
+        "category": "playable"
+      },
+      {
+        "title": "Treasures of the Deep",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Spice World",
+        "category": "trailer"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-cool3-ger-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-cool3-ger-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-cool3-ger-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-sleeve-3.jpg"
+    ],
+    "notes": "The demo was distributed in a black cardsleeve, and also included with some variants of Cool Boarders 3 and Crash Bandicoot 3: Warped, originally released in November and December of 1998, respectively. There are Austrian, Australian, and Japanese demo disc pressing variants, and some game variants came with any one of either demo variant. SCED-01441 listed above is almost identical, but contains one fewer game.",
+    "coupledGame": "Cool Boarders 3"
+  },
+  {
+    "id": 38,
+    "productCode": "SCES",
+    "region": "Italy",
+    "title": "Winter Releases '98",
+    "games": [
+      {
+        "title": "Bust-A-Groove",
+        "category": "playable"
+      },
+      {
+        "title": "Ghost in the Shell",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tombi",
+        "category": "playable"
+      },
+      {
+        "title": "Treasures of the Deep",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Spice World",
+        "category": "trailer"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-cool3-it-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-cool3-it-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-cool3-it-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-cool3-it-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-cool3-it-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-cool3-it-6.jpg"
+    ],
+    "notes": "The demo was distributed in a black cardsleeve, and also included with some variants of Cool Boarders 3 and Crash Bandicoot 3: Warped, originally released in November and December of 1998, respectively. There are Austrian, Australian, and Japanese demo disc pressing variants, and some game variants came with any one of either demo variant. SCED-01441 listed above is almost identical, but contains one fewer game.",
+    "coupledGame": "Cool Boarders 3"
+  },
+  {
+    "id": 39,
+    "productCode": "SCES",
+    "region": "UK",
+    "title": "Winter Releases '98",
+    "games": [
+      {
+        "title": "Bust-A-Groove",
+        "category": "playable"
+      },
+      {
+        "title": "Ghost in the Shell",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tombi",
+        "category": "playable"
+      },
+      {
+        "title": "Treasures of the Deep",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Spice World",
+        "category": "trailer"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-cool3-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-cool3-uk-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-cool3-ger-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-sleeve-3.jpg"
+    ],
+    "notes": "The demo was distributed in a black cardsleeve, and also included with some variants of Cool Boarders 3 and Crash Bandicoot 3: Warped, originally released in November and December of 1998, respectively. There are Austrian, Australian, and Japanese demo disc pressing variants, and some game variants came with any one of either demo variant. SCED-01441 listed above is almost identical, but contains one fewer game.",
+    "coupledGame": "Cool Boarders 3"
+  },
+  {
+    "id": 40,
+    "productCode": "SCES",
+    "region": "Europe",
+    "title": "Winter Releases '98",
+    "games": [
+      {
+        "title": "Bust-A-Groove",
+        "category": "playable"
+      },
+      {
+        "title": "Ghost in the Shell",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tombi",
+        "category": "playable"
+      },
+      {
+        "title": "Treasures of the Deep",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Spice World",
+        "category": "trailer"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-crash3-eur1-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-crash3-eur1-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-crash3-eur1-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-sleeve-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-cool3-it-6.jpg"
+    ],
+    "notes": "The demo was distributed in a black cardsleeve, and also included with some variants of Cool Boarders 3 and Crash Bandicoot 3: Warped, originally released in November and December of 1998, respectively. There are Austrian, Australian, and Japanese demo disc pressing variants, and some game variants came with any one of either demo variant. SCED-01441 listed above is almost identical, but contains one fewer game.",
+    "coupledGame": "Crash Bandicoot 3 Warped"
+  },
+  {
+    "id": 41,
+    "productCode": "SCES",
+    "region": "Scandinavia",
+    "title": "Winter Releases '98",
+    "games": [
+      {
+        "title": "Bust-A-Groove",
+        "category": "playable"
+      },
+      {
+        "title": "Ghost in the Shell",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tombi",
+        "category": "playable"
+      },
+      {
+        "title": "Treasures of the Deep",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Spice World",
+        "category": "trailer"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-crash3-sca1-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-crash3-sca1-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-crash3-sca1-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-cool3-it-6.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-sleeve-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-crash3-sca1-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-crash3-sca1-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-crash3-sca1-6.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-crash3-sca1-7.jpg"
+    ],
+    "notes": "The demo was distributed in a black cardsleeve, and also included with some variants of Cool Boarders 3 and Crash Bandicoot 3: Warped, originally released in November and December of 1998, respectively. There are Austrian, Australian, and Japanese demo disc pressing variants, and some game variants came with any one of either demo variant. SCED-01441 listed above is almost identical, but contains one fewer game.",
+    "coupledGame": "Crash Bandicoot 3 Warped"
+  },
+  {
+    "id": 42,
+    "productCode": "SCES",
+    "region": "Scandinavia",
+    "title": "Winter Releases '98",
+    "games": [
+      {
+        "title": "Bust-A-Groove",
+        "category": "playable"
+      },
+      {
+        "title": "Ghost in the Shell",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tombi",
+        "category": "playable"
+      },
+      {
+        "title": "Treasures of the Deep",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Spice World",
+        "category": "trailer"
+      },
+      {
+        "title": "Blitter Boy",
+        "category": "net yaroze"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-crash3-sca2-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-crash3-sca2-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-crash3-sca2-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-cool3-it-6.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-crash3-sca2-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-crash3-sca2-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-crash3-sca2-6.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter98-ver2-crash3-sca2-7.jpg"
+    ],
+    "notes": "The demo was distributed in a black cardsleeve, and also included with some variants of Cool Boarders 3 and Crash Bandicoot 3: Warped, originally released in November and December of 1998, respectively. There are Austrian, Australian, and Japanese demo disc pressing variants, and some game variants came with any one of either demo variant. SCED-01441 listed above is almost identical, but contains one fewer game.",
+    "coupledGame": "Crash Bandicoot 3 Warped"
+  },
+  {
+    "id": 43,
+    "productCode": "SLED-01511",
+    "region": "Europe",
+    "title": "Radicalgames@Psygnosis v.3",
+    "games": [
+      {
+        "title": "Colony Wars Vengeance",
+        "category": "playable"
+      },
+      {
+        "title": "Eliminator",
+        "category": "playable"
+      },
+      {
+        "title": "Formula 1 '98",
+        "category": "playable"
+      },
+      {
+        "title": "Lemmings",
+        "category": "playable"
+      },
+      {
+        "title": "ODT",
+        "category": "playable"
+      },
+      {
+        "title": "Psybadek",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/radicalv3-1.jpg"
+    ]
+  },
+  {
+    "id": 44,
+    "productCode": "SLES",
+    "region": "Germany",
+    "title": "Next Wave Herbst '98",
+    "games": [
+      {
+        "title": "Colony Wars Vengeance",
+        "category": "playable"
+      },
+      {
+        "title": "Eliminator",
+        "category": "playable"
+      },
+      {
+        "title": "Lemmings",
+        "category": "playable"
+      },
+      {
+        "title": "ODT",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/nextwaveherbst98-ger-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/nextwaveherbst98-aus-7.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/nextwaveherbst98-1.jpg"
+    ],
+    "notes": "The demo came with Formel 1 98 in Germany (first edition with misprinted \"Geeignet ab 16 Jahren\" age rating) and Formula 1 98 in Australia. The game was released in October 1998.",
+    "coupledGame": "Formel 1 98"
+  },
+  {
+    "id": 45,
+    "productCode": "SLES",
+    "region": "Australia",
+    "title": "Next Wave Herbst '98",
+    "games": [
+      {
+        "title": "Colony Wars Vengeance",
+        "category": "playable"
+      },
+      {
+        "title": "Eliminator",
+        "category": "playable"
+      },
+      {
+        "title": "Lemmings",
+        "category": "playable"
+      },
+      {
+        "title": "ODT",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/nextwaveherbst98-aus-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/nextwaveherbst98-aus-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/nextwaveherbst98-aus-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/nextwaveherbst98-aus-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/nextwaveherbst98-aus-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/nextwaveherbst98-aus-6.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/nextwaveherbst98-aus-7.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/nextwaveherbst98-1.jpg"
+    ],
+    "notes": "The demo came with Formel 1 98 in Germany (first edition with misprinted \"Geeignet ab 16 Jahren\" age rating) and Formula 1 98 in Australia. The game was released in October 1998.",
+    "coupledGame": "Formula 1 98"
+  },
+  {
+    "id": 46,
+    "productCode": "SCED-01570",
+    "region": "Australia",
+    "title": "Australian Summer Special",
+    "games": [
+      {
+        "title": "Colony Wars Vengeance",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3: Warped",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Psybadek",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Making of Medievil",
+        "category": "other"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/aussummer-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/aussummer-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/aussummer-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/aussummer-3.jpg"
+    ],
+    "notes": "The disc came in a three panel cardboard cover together with an insert."
+  },
+  {
+    "id": 47,
+    "productCode": "2107000",
+    "region": "Holland",
+    "title": "Oddworld: Abe's Exoddus/ Duke Nukem: Time To Kill/ B-Movie",
+    "games": [
+      {
+        "title": "B-Movie",
+        "category": "playable"
+      },
+      {
+        "title": "Duke Nukem: Time To Kill",
+        "category": "playable"
+      },
+      {
+        "title": "Oddworld: Abe's Exoddus",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/gti2-hol-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/gti2-hol-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/gti2-hol-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/gti2-hol-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/gti2-hol-5.jpg"
+    ],
+    "coupledGame": "Duke Nukem Time To Kill Powertracks"
+  },
+  {
+    "id": 48,
+    "productCode": "SLED-01655",
+    "region": "France",
+    "title": "Oddworld: Abe's Exoddus/ Duke Nukem: Time To Kill/ Duke Nukem: 3D",
+    "games": [
+      {
+        "title": "Dead Ball Zone",
+        "category": "playable"
+      },
+      {
+        "title": "Duke Nukem",
+        "category": "playable"
+      },
+      {
+        "title": "Duke Nukem: Time To Kill",
+        "category": "playable"
+      },
+      {
+        "title": "Oddworld: Abe's Oddysee",
+        "category": "playable"
+      },
+      {
+        "title": "B-Movie",
+        "category": "trailer"
+      },
+      {
+        "title": "Oddworld: Abe's Exoddus",
+        "category": "trailer"
+      },
+      {
+        "title": "Rogue Trip",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/abeduke-1.jpg"
+    ]
+  },
+  {
+    "id": 49,
+    "productCode": "SLED-01689",
+    "region": "France",
+    "title": "Wild 9 / MDK / Crime Killer",
+    "games": [
+      {
+        "title": "Crime Killer",
+        "category": "playable"
+      },
+      {
+        "title": "MDK",
+        "category": "playable"
+      },
+      {
+        "title": "Wild 9",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/wild9mdkcrimekiller-1.jpg"
+    ]
+  },
+  {
+    "id": 50,
+    "productCode": "SCED-01713",
+    "region": "France",
+    "title": "M-6 PlayStation Demo fre",
+    "games": [
+      {
+        "title": "Colin McRae Rally",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "ISS Pro 98",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil",
+        "category": "playable"
+      },
+      {
+        "title": "Oddworld: Abe's Exoddus",
+        "category": "playable"
+      },
+      {
+        "title": "Resident Evil 2",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "The Fifth Element",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/m6bestof98-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/m6bestof98-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/m6bestof98-3.jpg"
+    ],
+    "notes": "The packaging title is M6 PlayStation Best of 98."
+  },
+  {
+    "id": 51,
+    "productCode": "SLED-01725",
+    "region": "France",
+    "title": "Démo Codemasters",
+    "games": [
+      {
+        "title": "Colin MacRae Rally",
+        "category": "playable"
+      },
+      {
+        "title": "Micro Machines V3",
+        "category": "playable"
+      },
+      {
+        "title": "Music",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA 2 Touring Cars",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/democodemasters2-1.jpg"
+    ],
+    "notes": "Included with an issue of Total Play."
+  },
+  {
+    "id": 52,
+    "productCode": "SLED-01756",
+    "region": "France",
+    "title": "Rival Schools/Resident Evil 2/Bloody Roar/Street Fighter EX Plus Alpha/Mr Domino/Victory Boxing 2",
+    "games": [
+      {
+        "title": "Bloody Roar",
+        "category": "playable"
+      },
+      {
+        "title": "Mr Domino",
+        "category": "playable"
+      },
+      {
+        "title": "Resident Evil 2",
+        "category": "playable"
+      },
+      {
+        "title": "Rival Schools",
+        "category": "playable"
+      },
+      {
+        "title": "Street Fighter EX Plus Alpha",
+        "category": "playable"
+      },
+      {
+        "title": "Victory Boxing 2",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/rivalschoolsre2-1.jpg"
+    ],
+    "notes": "Included with Total Play issue 13 (1/99)."
+  },
+  {
+    "id": 53,
+    "productCode": "SCES",
+    "region": "Europe",
+    "title": "Ridge Racer Hi-Spec Demo",
+    "games": [
+      {
+        "title": "Libero Grande",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer (Original Mode)",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer (Turbo Mode)",
+        "category": "playable"
+      },
+      {
+        "title": "Ace Combat 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Ridge Racer series history",
+        "category": "other"
+      },
+      {
+        "title": "Turbo Mode information",
+        "category": "other"
+      },
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "sreenshots"
+      },
+      {
+        "title": "Dragon Valor",
+        "category": "sreenshots"
+      },
+      {
+        "title": "Point Blank 2",
+        "category": "sreenshots"
+      },
+      {
+        "title": "Star Ixiom",
+        "category": "sreenshots"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-eur-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-eur-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-eur-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-uk-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-eur-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-eur-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-1.jpg"
+    ],
+    "notes": "The demo was included with Ridge Racer Type 4, either in a second disc tray or in a cardsleeve placed inside the game case. There was also a release which bundled the game with a Namco Jogcon, and a French-only numbered limited edition box set.",
+    "coupledGame": "Ridge Racer Type 4"
+  },
+  {
+    "id": 54,
+    "productCode": "SCES",
+    "region": "Europe",
+    "title": "Ridge Racer Hi-Spec Demo",
+    "games": [
+      {
+        "title": "Libero Grande",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer (Original Mode)",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer (Turbo Mode)",
+        "category": "playable"
+      },
+      {
+        "title": "Ace Combat 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Ridge Racer series history",
+        "category": "other"
+      },
+      {
+        "title": "Turbo Mode information",
+        "category": "other"
+      },
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "sreenshots"
+      },
+      {
+        "title": "Dragon Valor",
+        "category": "sreenshots"
+      },
+      {
+        "title": "Point Blank 2",
+        "category": "sreenshots"
+      },
+      {
+        "title": "Star Ixiom",
+        "category": "sreenshots"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-eur2-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-eur2-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-eur2-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-eur2-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-eur2-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-uk-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-1.jpg"
+    ],
+    "notes": "The demo was included with Ridge Racer Type 4, either in a second disc tray or in a cardsleeve placed inside the game case. There was also a release which bundled the game with a Namco Jogcon, and a French-only numbered limited edition box set.",
+    "coupledGame": "Ridge Racer Type 4 + Jogcon"
+  },
+  {
+    "id": 55,
+    "productCode": "SCES",
+    "region": "Germany",
+    "title": "Ridge Racer Hi-Spec Demo",
+    "games": [
+      {
+        "title": "Libero Grande",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer (Original Mode)",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer (Turbo Mode)",
+        "category": "playable"
+      },
+      {
+        "title": "Ace Combat 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Ridge Racer series history",
+        "category": "other"
+      },
+      {
+        "title": "Turbo Mode information",
+        "category": "other"
+      },
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "sreenshots"
+      },
+      {
+        "title": "Dragon Valor",
+        "category": "sreenshots"
+      },
+      {
+        "title": "Point Blank 2",
+        "category": "sreenshots"
+      },
+      {
+        "title": "Star Ixiom",
+        "category": "sreenshots"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-ger-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-ger-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-ger-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-ger-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-uk-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-1.jpg"
+    ],
+    "notes": "The demo was included with Ridge Racer Type 4, either in a second disc tray or in a cardsleeve placed inside the game case. There was also a release which bundled the game with a Namco Jogcon, and a French-only numbered limited edition box set.",
+    "coupledGame": "Ridge Racer Type 4"
+  },
+  {
+    "id": 56,
+    "productCode": "SCES",
+    "region": "Sweden",
+    "title": "Ridge Racer Hi-Spec Demo",
+    "games": [
+      {
+        "title": "Libero Grande",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer (Original Mode)",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer (Turbo Mode)",
+        "category": "playable"
+      },
+      {
+        "title": "Ace Combat 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Ridge Racer series history",
+        "category": "other"
+      },
+      {
+        "title": "Turbo Mode information",
+        "category": "other"
+      },
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "sreenshots"
+      },
+      {
+        "title": "Dragon Valor",
+        "category": "sreenshots"
+      },
+      {
+        "title": "Point Blank 2",
+        "category": "sreenshots"
+      },
+      {
+        "title": "Star Ixiom",
+        "category": "sreenshots"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-sca1-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-sca1-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-sca1-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-sca1-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-sca1-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-sca1-6.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-eur-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-eur-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-1.jpg"
+    ],
+    "notes": "The demo was included with Ridge Racer Type 4, either in a second disc tray or in a cardsleeve placed inside the game case. There was also a release which bundled the game with a Namco Jogcon, and a French-only numbered limited edition box set.",
+    "coupledGame": "Ridge Racer Type 4"
+  },
+  {
+    "id": 57,
+    "productCode": "SCES",
+    "region": "UK",
+    "title": "Ridge Racer Hi-Spec Demo",
+    "games": [
+      {
+        "title": "Libero Grande",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer (Original Mode)",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer (Turbo Mode)",
+        "category": "playable"
+      },
+      {
+        "title": "Ace Combat 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Ridge Racer series history",
+        "category": "other"
+      },
+      {
+        "title": "Turbo Mode information",
+        "category": "other"
+      },
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "sreenshots"
+      },
+      {
+        "title": "Dragon Valor",
+        "category": "sreenshots"
+      },
+      {
+        "title": "Point Blank 2",
+        "category": "sreenshots"
+      },
+      {
+        "title": "Star Ixiom",
+        "category": "sreenshots"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-uk-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-uk-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-uk-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/rrhispec-1.jpg"
+    ],
+    "notes": "The demo was included with Ridge Racer Type 4, either in a second disc tray or in a cardsleeve placed inside the game case. There was also a release which bundled the game with a Namco Jogcon, and a French-only numbered limited edition box set.",
+    "coupledGame": "Ridge Racer Type 4"
+  },
+  {
+    "id": 58,
+    "productCode": "SLED-01872",
+    "region": "France",
+    "title": "Total Play",
+    "games": [
+      {
+        "title": "Akuji The Heartless",
+        "category": "playable"
+      },
+      {
+        "title": "Ninja",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider II",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider III",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/totalplay-ver1-1.jpg"
+    ],
+    "notes": "Included with an issue of Total Play."
+  },
+  {
+    "id": 59,
+    "productCode": "SLED-01989",
+    "region": "Spain",
+    "title": "PlayStation Power",
+    "games": [
+      {
+        "title": "Bloody Roar",
+        "category": "playable"
+      },
+      {
+        "title": "Mr. Domino",
+        "category": "playable"
+      },
+      {
+        "title": "Resident Evil 2",
+        "category": "playable"
+      },
+      {
+        "title": "Rival Schools",
+        "category": "playable"
+      },
+      {
+        "title": "Victory Boxing 2",
+        "category": "playable"
+      },
+      {
+        "title": "Viva Football",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/playstationpower-virgin-1.jpg"
+    ],
+    "notes": "Included with an issue of the Spanish version of PlayStation Power."
+  },
+  {
+    "id": 60,
+    "productCode": "SCED-01992",
+    "region": "Holland",
+    "title": "Cha Cha Special 04/99 Demo",
+    "games": [
+      {
+        "title": "A Bug's Life",
+        "category": "playable"
+      },
+      {
+        "title": "Blood Lines",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 3",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3: Warped",
+        "category": "playable"
+      },
+      {
+        "title": "Fluid",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "trailer"
+      },
+      {
+        "title": "Cha-Cha CM",
+        "category": "other"
+      },
+      {
+        "title": "OPSM",
+        "category": "other"
+      },
+      {
+        "title": "Website",
+        "category": "other"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/chacha-hol-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/chacha-hol-2.jpg"
+    ],
+    "notes": "The demo came with a pack of Cha-Cha chocolate biscuits. The Cha-Cha CM plays on start-up and is not available from the menu. It is repeated in French and Dutch."
+  },
+  {
+    "id": 61,
+    "productCode": "SLED-02023",
+    "region": "France",
+    "title": "Total Activision Demo",
+    "games": [
+      {
+        "title": "Apocalypse",
+        "category": "playable"
+      },
+      {
+        "title": "T'ai Fu: Wrath of the Tiger",
+        "category": "playable"
+      },
+      {
+        "title": "Tenchu",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/totalactivision-1.jpg"
+    ],
+    "notes": "Included with Total Play issue 16, April 1999."
+  },
+  {
+    "id": 62,
+    "productCode": "SLED-02040",
+    "region": "Spain",
+    "title": "PlayStation Power",
+    "games": [
+      {
+        "title": "Apocalypse",
+        "category": "playable"
+      },
+      {
+        "title": "T'ai Fu: Wrath of the Tiger",
+        "category": "playable"
+      },
+      {
+        "title": "Tenchu",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/playstationpower-1.jpg"
+    ],
+    "notes": "Included with an issue of the Spanish version of PlayStation Power."
+  },
+  {
+    "id": 63,
+    "productCode": "SCED-02043",
+    "region": "UK",
+    "title": "Exclusive PlayStation Racing Demos",
+    "games": [
+      {
+        "title": "Gran Turismo",
+        "category": "playable"
+      },
+      {
+        "title": "Porsche Challenge",
+        "category": "playable"
+      },
+      {
+        "title": "Rage Racer",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Revolution",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo",
+        "category": "trailer"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/redlineracing-1.jpg"
+    ],
+    "notes": "Included with an issue of Redline Magazine."
+  },
+  {
+    "id": 64,
+    "productCode": "SLED-02097",
+    "region": "Spain",
+    "title": "Play Power 4",
+    "games": [
+      {
+        "title": "Colin McRae Rally",
+        "category": "playable"
+      },
+      {
+        "title": "Micro Machines V3",
+        "category": "playable"
+      },
+      {
+        "title": "Music",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA Touring Car Championship",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA 2",
+        "category": "playable"
+      },
+      {
+        "title": "Brian Lara Cricket",
+        "category": "trailer"
+      },
+      {
+        "title": "No Fear Downhill Mountain Biking",
+        "category": "trailer"
+      },
+      {
+        "title": "TOCA 2",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/power04-1.jpg"
+    ],
+    "notes": "Included with an issue of the Spanish version of PlayStation Power."
+  },
+  {
+    "id": 65,
+    "productCode": "SCED-02121",
+    "region": "France",
+    "title": "M6-PlayStation: Best of '99 Vol.1",
+    "games": [
+      {
+        "title": "A Bug's Life",
+        "category": "playable"
+      },
+      {
+        "title": "Ape Escape",
+        "category": "playable"
+      },
+      {
+        "title": "Driver",
+        "category": "playable"
+      },
+      {
+        "title": "Judge Jules Music Tunes",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Rollcage",
+        "category": "playable"
+      },
+      {
+        "title": "Syphon Filter",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA 2",
+        "category": "playable"
+      },
+      {
+        "title": "UEFA Champions League",
+        "category": "playable"
+      },
+      {
+        "title": "Final Fantasy VIII",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/m6bestof99vol1-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/m6bestof99vol1-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/m6bestof99vol1-1.jpg"
+    ]
+  },
+  {
+    "id": 66,
+    "productCode": "SLED-02126",
+    "region": "France",
+    "title": "Total Play",
+    "games": [
+      {
+        "title": "Akuji The Heartless",
+        "category": "playable"
+      },
+      {
+        "title": "Gex 3 Deep Cover Gecko",
+        "category": "playable"
+      },
+      {
+        "title": "Ninja",
+        "category": "playable"
+      },
+      {
+        "title": "The Unholy War",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider II",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider III",
+        "category": "playable"
+      },
+      {
+        "title": "Warzone 2100",
+        "category": "playable"
+      },
+      {
+        "title": "Legacy of Kain: Soul Reaver",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/totalplay-ver2-1.jpg"
+    ],
+    "notes": "Included with an issue of Total Play."
+  },
+  {
+    "id": 67,
+    "productCode": "SLED-02138",
+    "region": "Spain",
+    "title": "Play Power 5",
+    "games": [
+      {
+        "title": "Akuji The Heartless",
+        "category": "playable"
+      },
+      {
+        "title": "Gex 3 Deep Cover Gecko",
+        "category": "playable"
+      },
+      {
+        "title": "Legacy of Kain: Soul Reaver",
+        "category": "playable"
+      },
+      {
+        "title": "Ninja Shadow Of Darkness",
+        "category": "playable"
+      },
+      {
+        "title": "The Unholy War",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider II",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider III",
+        "category": "playable"
+      },
+      {
+        "title": "UEFA Champions League",
+        "category": "playable"
+      },
+      {
+        "title": "Warzone 2100",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/power05-1.jpg"
+    ],
+    "notes": "Included with an issue of the Spanish version of PlayStation Power."
+  },
+  {
+    "id": 68,
+    "productCode": "SCED-02204",
+    "region": "Europe",
+    "title": "Sony Double Impact · Games",
+    "games": [
+      {
+        "title": "A Bug's Life",
+        "category": "playable"
+      },
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "playable"
+      },
+      {
+        "title": "Destrega",
+        "category": "playable"
+      },
+      {
+        "title": "Kula World",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      },
+      {
+        "title": "Um Jammer Lammy",
+        "category": "playable"
+      },
+      {
+        "title": "Manic Street Preachers \"If You Tolerate This Your Children Will Be Next\"",
+        "category": "other"
+      },
+      {
+        "title": "The Presidents Of The USA \"Lump\"",
+        "category": "other"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/sonydoubleimpact1-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/sonydoubleimpact1-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/sonydoubleimpact1-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/sonydoubleimpact1-4.jpg"
+    ],
+    "notes": "Gatefold sleeve."
+  },
+  {
+    "id": 69,
+    "productCode": "SLED-02246",
+    "region": "France",
+    "title": "Démo Codemasters",
+    "games": [
+      {
+        "title": "Colin MacRae Rally",
+        "category": "playable"
+      },
+      {
+        "title": "Micro Machines V3",
+        "category": "playable"
+      },
+      {
+        "title": "Music",
+        "category": "playable"
+      },
+      {
+        "title": "No Fear Downhill Mountain Biking",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA 2 Touring Cars",
+        "category": "playable"
+      },
+      {
+        "title": "Prince Naseem Boxing",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/democodemasters-1.jpg"
+    ],
+    "notes": "Included with an issue of Total Play."
+  },
+  {
+    "id": 70,
+    "productCode": "SLED-02251",
+    "region": "Europe",
+    "title": "Atari Demo Disk",
+    "games": [
+      {
+        "title": "Centipede",
+        "category": "playable"
+      },
+      {
+        "title": "Pong",
+        "category": "playable"
+      },
+      {
+        "title": "Glover",
+        "category": "trailer"
+      },
+      {
+        "title": "Missile Command",
+        "category": "trailer"
+      },
+      {
+        "title": "Q*bert",
+        "category": "trailer"
+      },
+      {
+        "title": "The Next Tetris",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/ataridemodisk-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/ataridemodisk-1.jpg"
+    ]
+  },
+  {
+    "id": 71,
+    "productCode": "SCED-02256",
+    "region": "UK",
+    "title": "ECTS '99 Demo Disc",
+    "games": [
+      {
+        "title": "40 Winks",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Mission Impossible",
+        "category": "playable"
+      },
+      {
+        "title": "Tarzan",
+        "category": "playable"
+      },
+      {
+        "title": "Tony Hawk's Pro Skateboarding",
+        "category": "playable"
+      },
+      {
+        "title": "Toy Story 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      },
+      {
+        "title": "Formula 1 '99",
+        "category": "trailer"
+      },
+      {
+        "title": "Spyro The Dragon 2",
+        "category": "trailer"
+      },
+      {
+        "title": "This Is Football",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/ects99-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/ects99-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/ects99-3.jpg"
+    ]
+  },
+  {
+    "id": 72,
+    "productCode": "COL",
+    "region": "Finland",
+    "title": "Games",
+    "games": [
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "playable"
+      },
+      {
+        "title": "Ape Escape",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Omega Boost",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      },
+      {
+        "title": "Um Jammer Lammy",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/double-fin-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-fin-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-fin-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-ger-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-fin-4.jpg"
+    ],
+    "notes": "Some releases came with two music discs, some with only one. All came with the same demo disc. There was a purple sticker on the front of the British release not shown here. The two Finnish variants have different barcodes and catalog numbers, and came in different types of cases.",
+    "coupledGame": "Double Life"
+  },
+  {
+    "id": 73,
+    "productCode": "COL",
+    "region": "Finland",
+    "title": "Games",
+    "games": [
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "playable"
+      },
+      {
+        "title": "Ape Escape",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Omega Boost",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      },
+      {
+        "title": "Um Jammer Lammy",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/double-fin2-6.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-fin2-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-fin2-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-fin2-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-fin2-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-ger-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-fin2-5.jpg"
+    ],
+    "notes": "Some releases came with two music discs, some with only one. All came with the same demo disc. There was a purple sticker on the front of the British release not shown here. The two Finnish variants have different barcodes and catalog numbers, and came in different types of cases.",
+    "coupledGame": "Double Life"
+  },
+  {
+    "id": 74,
+    "productCode": "VER",
+    "region": "France",
+    "title": "Games",
+    "games": [
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "playable"
+      },
+      {
+        "title": "Ape Escape",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Omega Boost",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      },
+      {
+        "title": "Um Jammer Lammy",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/double-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-fra-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-ger-4.jpg"
+    ],
+    "notes": "Some releases came with two music discs, some with only one. All came with the same demo disc. There was a purple sticker on the front of the British release not shown here. The two Finnish variants have different barcodes and catalog numbers, and came in different types of cases.",
+    "coupledGame": "Double Life"
+  },
+  {
+    "id": 75,
+    "productCode": "494088",
+    "region": "Germany",
+    "title": "Games",
+    "games": [
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "playable"
+      },
+      {
+        "title": "Ape Escape",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Omega Boost",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      },
+      {
+        "title": "Um Jammer Lammy",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/double-ger-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-ger-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-ger-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-ger-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-ger-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-ger-6.jpg"
+    ],
+    "notes": "Some releases came with two music discs, some with only one. All came with the same demo disc. There was a purple sticker on the front of the British release not shown here. The two Finnish variants have different barcodes and catalog numbers, and came in different types of cases.",
+    "coupledGame": "Double Impact"
+  },
+  {
+    "id": 76,
+    "productCode": "EPC",
+    "region": "Italy",
+    "title": "Games",
+    "games": [
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "playable"
+      },
+      {
+        "title": "Ape Escape",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Omega Boost",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      },
+      {
+        "title": "Um Jammer Lammy",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/double-it-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-it-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-ger-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-it-3.jpg"
+    ],
+    "notes": "Some releases came with two music discs, some with only one. All came with the same demo disc. There was a purple sticker on the front of the British release not shown here. The two Finnish variants have different barcodes and catalog numbers, and came in different types of cases.",
+    "coupledGame": "Double Impact"
+  },
+  {
+    "id": 77,
+    "productCode": "COL4967512",
+    "region": "Portugal",
+    "title": "Games",
+    "games": [
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "playable"
+      },
+      {
+        "title": "Ape Escape",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Omega Boost",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      },
+      {
+        "title": "Um Jammer Lammy",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/double-por-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-por-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-ger-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-por-3.jpg"
+    ],
+    "notes": "Some releases came with two music discs, some with only one. All came with the same demo disc. There was a purple sticker on the front of the British release not shown here. The two Finnish variants have different barcodes and catalog numbers, and came in different types of cases.",
+    "coupledGame": "Double Impact"
+  },
+  {
+    "id": 78,
+    "productCode": "DAN",
+    "region": "Spain",
+    "title": "Games",
+    "games": [
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "playable"
+      },
+      {
+        "title": "Ape Escape",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Omega Boost",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      },
+      {
+        "title": "Um Jammer Lammy",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/double-spa-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-spa-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-spa-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-ger-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-spa-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-spa-5.jpg"
+    ],
+    "notes": "Some releases came with two music discs, some with only one. All came with the same demo disc. There was a purple sticker on the front of the British release not shown here. The two Finnish variants have different barcodes and catalog numbers, and came in different types of cases.",
+    "coupledGame": "PlayStation El Álbum 2"
+  },
+  {
+    "id": 79,
+    "productCode": "COL",
+    "region": "Sweden",
+    "title": "Games",
+    "games": [
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "playable"
+      },
+      {
+        "title": "Ape Escape",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Omega Boost",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      },
+      {
+        "title": "Um Jammer Lammy",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/double-swe-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-swe-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-ger-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-swe-3.jpg"
+    ],
+    "notes": "Some releases came with two music discs, some with only one. All came with the same demo disc. There was a purple sticker on the front of the British release not shown here. The two Finnish variants have different barcodes and catalog numbers, and came in different types of cases.",
+    "coupledGame": "Double Life"
+  },
+  {
+    "id": 80,
+    "productCode": "SONYTV65CD",
+    "region": "UK",
+    "title": "Games",
+    "games": [
+      {
+        "title": "Anna Kournikova's Smash Court Tennis",
+        "category": "playable"
+      },
+      {
+        "title": "Ape Escape",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Omega Boost",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      },
+      {
+        "title": "Um Jammer Lammy",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/double-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-uk-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-ger-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/double-uk-3.jpg"
+    ],
+    "notes": "Some releases came with two music discs, some with only one. All came with the same demo disc. There was a purple sticker on the front of the British release not shown here. The two Finnish variants have different barcodes and catalog numbers, and came in different types of cases.",
+    "coupledGame": "Double Life"
+  },
+  {
+    "id": 81,
+    "productCode": "9853220",
+    "region": "Europe",
+    "title": "Winter Releases",
+    "games": [
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tarzan",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      },
+      {
+        "title": "Final Fantasy VIII",
+        "category": "trailer"
+      },
+      {
+        "title": "Formula 1 99",
+        "category": "trailer"
+      },
+      {
+        "title": "Medievil 2",
+        "category": "trailer"
+      },
+      {
+        "title": "This Is Football",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-uk-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-uk-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-uk-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-uk-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-it-9.jpg"
+    ],
+    "notes": "The demo was included with Formula One 99 (1999.12.01). With some editions it came inside a black sleeve, in others in an extra tray inside the game case.",
+    "coupledGame": "Formula One 99"
+  },
+  {
+    "id": 82,
+    "productCode": "9853220",
+    "region": "Italy",
+    "title": "Winter Releases",
+    "games": [
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tarzan",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      },
+      {
+        "title": "Final Fantasy VIII",
+        "category": "trailer"
+      },
+      {
+        "title": "Formula 1 99",
+        "category": "trailer"
+      },
+      {
+        "title": "Medievil 2",
+        "category": "trailer"
+      },
+      {
+        "title": "This Is Football",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-it-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-it-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-it-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-it-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-it-5.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-it-6.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-it-7.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-it-8.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-it-9.jpg"
+    ],
+    "notes": "The demo was included with Formula One 99 (1999.12.01). With some editions it came inside a black sleeve, in others in an extra tray inside the game case.",
+    "coupledGame": "Formula One 99"
+  },
+  {
+    "id": 83,
+    "productCode": "9883326",
+    "region": "Australia",
+    "title": "Winter Releases",
+    "games": [
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tarzan",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      },
+      {
+        "title": "Final Fantasy VIII",
+        "category": "trailer"
+      },
+      {
+        "title": "Formula 1 99",
+        "category": "trailer"
+      },
+      {
+        "title": "Medievil 2",
+        "category": "trailer"
+      },
+      {
+        "title": "This Is Football",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-aus-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-aus-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-aus-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-aus-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/winter99-f199-aus-5.jpg"
+    ],
+    "notes": "The demo was included with Formula One 99 (1999.12.01). With some editions it came inside a black sleeve, in others in an extra tray inside the game case.",
+    "coupledGame": "Formula One 99"
+  },
+  {
+    "id": 84,
+    "productCode": "SLED-02310",
+    "region": "Australia",
+    "title": "Compilation 01",
+    "games": [
+      {
+        "title": "Gex: Deep Cover Gecko",
+        "category": "playable"
+      },
+      {
+        "title": "Legacy of Kain: Soul Reaver",
+        "category": "playable"
+      },
+      {
+        "title": "Music",
+        "category": "playable"
+      },
+      {
+        "title": "Tony Hawk's Skatebording",
+        "category": "playable"
+      },
+      {
+        "title": "Warzone 2100",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/comp01-aus-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/comp01-aus-1.jpg"
+    ],
+    "notes": "Include with Australian PlayStation October Issue 06."
+  },
+  {
+    "id": 85,
+    "productCode": "SLED-02411",
+    "region": "France",
+    "title": "Eidos",
+    "games": [
+      {
+        "title": "Fighting Force",
+        "category": "playable"
+      },
+      {
+        "title": "Fighting Force 2",
+        "category": "playable"
+      },
+      {
+        "title": "Gex Deep Cover Gecko",
+        "category": "playable"
+      },
+      {
+        "title": "Legace of Kain: Soul Reaver",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider The Last Revelation",
+        "category": "playable"
+      },
+      {
+        "title": "UEFA Champions League",
+        "category": "playable"
+      },
+      {
+        "title": "Warzone 2100",
+        "category": "playable"
+      },
+      {
+        "title": "Fighting Force 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Legace of Kain: Soul Reaver",
+        "category": "trailer"
+      },
+      {
+        "title": "Interview with Core Design",
+        "category": "other"
+      },
+      {
+        "title": "Tomb Raider TLR Photo Album",
+        "category": "other"
+      },
+      {
+        "title": "Tomb Raider Videos (TR1-3 retroperspective)",
+        "category": "other"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/m6eidos-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/m6eidos-2.jpg"
+    ],
+    "notes": "The packaging title is M6 Tomb Raider."
+  },
+  {
+    "id": 86,
+    "productCode": "SLED-02415",
+    "region": "Australia",
+    "title": "Compilation 02",
+    "games": [
+      {
+        "title": "Croc",
+        "category": "playable"
+      },
+      {
+        "title": "Croc 2",
+        "category": "playable"
+      },
+      {
+        "title": "Mission Impossible",
+        "category": "playable"
+      },
+      {
+        "title": "Pong",
+        "category": "playable"
+      },
+      {
+        "title": "V-Rally 2",
+        "category": "playable"
+      },
+      {
+        "title": "Glover",
+        "category": "trailer"
+      },
+      {
+        "title": "Missile Command",
+        "category": "trailer"
+      },
+      {
+        "title": "Q*bert",
+        "category": "trailer"
+      },
+      {
+        "title": "The Next Tetris",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/comp02-aus-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/comp02-aus-2.jpg"
+    ],
+    "notes": "Include with an issue of Australian PlayStation."
+  },
+  {
+    "id": 87,
+    "productCode": "SCED-02417",
+    "region": "Europe",
+    "title": "Demo Disc",
+    "games": [
+      {
+        "title": "Bugs Bunny",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Croc 2",
+        "category": "playable"
+      },
+      {
+        "title": "Destrega",
+        "category": "playable"
+      },
+      {
+        "title": "Devil Dice",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "playable"
+      },
+      {
+        "title": "Ridge Racer Type 4",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tony Hawk's Skateboarding",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      },
+      {
+        "title": "This Is Football",
+        "category": "trailer"
+      },
+      {
+        "title": "Hotline+Powerline",
+        "category": "other"
+      },
+      {
+        "title": "shadow.exe (hidden demo)",
+        "category": "other"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/psone01-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone01-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/demodisc-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/demodisc-1.jpg"
+    ],
+    "notes": "The disc came in the same sleeve as SCED-03175 and SCED-02676, with a large fold-out poster. The scan shows the front when folded. At least English, Italian, and Spanish variants of the poster exist. If you don't touch the controller, a PlayStation video featuring Ape Escape, Final Fantasy VIII, Medievil, Tarzan, and others, is shown."
+  },
+  {
+    "id": 88,
+    "productCode": "SCED-02419",
+    "region": "France",
+    "title": "M6 PlayStation Best Of 99",
+    "games": [
+      {
+        "title": "Championship Moto-Cross",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Dino Crisis",
+        "category": "playable"
+      },
+      {
+        "title": "FIFA 2000",
+        "category": "playable"
+      },
+      {
+        "title": "Mission: Impossible",
+        "category": "playable"
+      },
+      {
+        "title": "Sled Storm",
+        "category": "playable"
+      },
+      {
+        "title": "This Is Football",
+        "category": "playable"
+      },
+      {
+        "title": "Tony Hawk Skateboarding",
+        "category": "playable"
+      },
+      {
+        "title": "V-Rally 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/m6bestof99vol2-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/m6bestof99vol2-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/m6bestof99vol2-3.jpg"
+    ]
+  },
+  {
+    "id": 89,
+    "productCode": "SLED-02439",
+    "region": "Australia",
+    "title": "Compilation 03",
+    "games": [
+      {
+        "title": "Bugs Bunny: Lost in Time",
+        "category": "playable"
+      },
+      {
+        "title": "No Fear Downhill Mountain Biking",
+        "category": "playable"
+      },
+      {
+        "title": "Sled Storm",
+        "category": "playable"
+      },
+      {
+        "title": "Prince Naseem Boxing",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/comp03-aus-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/comp03-aus-2.jpg"
+    ],
+    "notes": "Included with an issue of Australian PlayStation."
+  },
+  {
+    "id": 90,
+    "productCode": "SLED-02440",
+    "region": "Australia",
+    "title": "Compilation 04",
+    "games": [
+      {
+        "title": "Evil Zone",
+        "category": "playable"
+      },
+      {
+        "title": "Lego Racers",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid Special Missions",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/comp04-aus-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/comp04-aus-2.jpg"
+    ],
+    "notes": "Included with Australian Station issue 10, presumably the same magazine as Australian PlayStation."
+  },
+  {
+    "id": 91,
+    "productCode": "SCED-02520",
+    "region": "UK",
+    "title": "Pizza Hut Demo 01",
+    "games": [
+      {
+        "title": "Destrega",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon 2",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      },
+      {
+        "title": "Final Fantasy VIII",
+        "category": "trailer"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Spyro The Dragon 2",
+        "category": "trailer"
+      },
+      {
+        "title": "Wip3out",
+        "category": "trailer"
+      },
+      {
+        "title": "Mental Wealth",
+        "category": "other"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/pizzahut01-uk-1.jpg"
+    ],
+    "notes": "Final Fantasy VIII is available from the menu while the other videos, including Mental Wealth, are only played if the controller is not touched for a while. They are played one by one, not as a reel."
+  },
+  {
+    "id": 92,
+    "productCode": "SCED-02521",
+    "region": "UK",
+    "title": "Pizza Hut Demo 02",
+    "games": [
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Speed Freaks",
+        "category": "playable"
+      },
+      {
+        "title": "Tarzan",
+        "category": "playable"
+      },
+      {
+        "title": "This Is Football",
+        "category": "playable"
+      },
+      {
+        "title": "Formula 1 '99",
+        "category": "trailer"
+      },
+      {
+        "title": "Medievil 2",
+        "category": "trailer"
+      },
+      {
+        "title": "This Is Football",
+        "category": "trailer"
+      },
+      {
+        "title": "Playstation advert",
+        "category": "other"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/pizzahut02-uk-1.jpg"
+    ],
+    "notes": "Formula 1 '99 is available from the menu while the other videos, including the advert, are only played if the controller is not touched for a while. They are played one by one, not as a reel."
+  },
+  {
+    "id": 93,
+    "productCode": "SCED-02540",
+    "region": "Europe",
+    "title": "Two Product Psygnosis Demo",
+    "games": [
+      {
+        "title": "Colony Wars: Red Sun",
+        "category": "playable"
+      },
+      {
+        "title": "Rollcage Stage 2",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/twoproductpsygnosis-1.jpg"
+    ]
+  },
+  {
+    "id": 94,
+    "productCode": "SCED-02570",
+    "region": "France",
+    "title": "M6 PlayStation - Best Of Kids Demo",
+    "games": [
+      {
+        "title": "Action Man Mission Extreme",
+        "category": "playable"
+      },
+      {
+        "title": "Ape Escape",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Bandicoot 3: Warped",
+        "category": "playable"
+      },
+      {
+        "title": "Crash Team Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Kingsley's Adventure",
+        "category": "playable"
+      },
+      {
+        "title": "Pac Man World",
+        "category": "playable"
+      },
+      {
+        "title": "Speed Freaks",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tarzan",
+        "category": "playable"
+      },
+      {
+        "title": "Toy Story 2",
+        "category": "playable"
+      },
+      {
+        "title": "Team Buddies",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/m6bestofkids-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/m6bestofkids-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/m6bestofkids-3.jpg"
+    ]
+  },
+  {
+    "id": 95,
+    "productCode": "SLED-02809",
+    "region": "Europe",
+    "title": "Codemasters Demo Disk",
+    "games": [
+      {
+        "title": "Micro Maniacs",
+        "category": "playable"
+      },
+      {
+        "title": "Colin McRae Rally 2.0",
+        "category": "trailer"
+      },
+      {
+        "title": "WTC World Touring Cars",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/codemasters-1.jpg"
+    ]
+  },
+  {
+    "id": 96,
+    "productCode": "SCED-02833",
+    "region": "France",
+    "title": "Pizza Hut Demo 01 (france)",
+    "games": [
+      {
+        "title": "Cool Boarders 4",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil 2",
+        "category": "playable"
+      },
+      {
+        "title": "Rollcage Stage 2",
+        "category": "playable"
+      },
+      {
+        "title": "Spyro The Dragon 2",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/pizzahut01-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/pizzahut01-fra-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/pizzahut01-fra-3.jpg"
+    ]
+  },
+  {
+    "id": 97,
+    "productCode": "SLED-03094",
+    "region": "Europe",
+    "title": "Codemasters Q3 2000 Demo",
+    "games": [
+      {
+        "title": "Colin McRae Rally 2.0",
+        "category": "playable"
+      },
+      {
+        "title": "Micro Maniacs",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA World Touring Cars",
+        "category": "playable"
+      },
+      {
+        "title": "LMA Manager 2001",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/codemasters2000q3-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/codemasters2000q3-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/codemasters2000q3-3.jpg"
+    ]
+  },
+  {
+    "id": 98,
+    "productCode": "SCED-03103",
+    "region": "Italy",
+    "title": "PlayStation Speziale Italia",
+    "games": [
+      {
+        "title": "Crash Bandicoot 3",
+        "category": "playable"
+      },
+      {
+        "title": "Formula 1 '99",
+        "category": "playable"
+      },
+      {
+        "title": "Medievil 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "This Is Football",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider The Last Revelation",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      },
+      {
+        "title": "Final Fantasy VIII",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/psspeziale-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psspeziale-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psspeziale-1.jpg"
+    ],
+    "notes": "The demo came with the book Il Grande Libro Della PlayStation, published by Adn Kronos."
+  },
+  {
+    "id": 99,
+    "productCode": "9254423",
+    "region": "Europe",
+    "title": "PS One Special Demo 01",
+    "games": [
+      {
+        "title": "Crash Bash",
+        "category": "playable"
+      },
+      {
+        "title": "Grind Session",
+        "category": "playable"
+      },
+      {
+        "title": "Spider-Man",
+        "category": "playable"
+      },
+      {
+        "title": "Terracon",
+        "category": "playable"
+      },
+      {
+        "title": "Vib Ribbon",
+        "category": "playable"
+      },
+      {
+        "title": "Legend of Dragoon",
+        "category": "trailer"
+      },
+      {
+        "title": "Rescue Shot",
+        "category": "trailer"
+      },
+      {
+        "title": "Spyro Year Of The Dragon",
+        "category": "trailer"
+      },
+      {
+        "title": "The World Is Not Enough",
+        "category": "trailer"
+      },
+      {
+        "title": "This Is Football 2",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/psone01-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone01-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone01-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone01-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone01-5.jpg"
+    ],
+    "notes": "The European edition came with a grey poster. The scans show the front and back when folded. There are language variants of the poster, at least English, Italian, and Spanish. The Australian edition came with a booklet."
+  },
+  {
+    "id": 100,
+    "productCode": "9254423",
+    "region": "Italy",
+    "title": "PS One Special Demo 01",
+    "games": [
+      {
+        "title": "Crash Bash",
+        "category": "playable"
+      },
+      {
+        "title": "Grind Session",
+        "category": "playable"
+      },
+      {
+        "title": "Spider-Man",
+        "category": "playable"
+      },
+      {
+        "title": "Terracon",
+        "category": "playable"
+      },
+      {
+        "title": "Vib Ribbon",
+        "category": "playable"
+      },
+      {
+        "title": "Legend of Dragoon",
+        "category": "trailer"
+      },
+      {
+        "title": "Rescue Shot",
+        "category": "trailer"
+      },
+      {
+        "title": "Spyro Year Of The Dragon",
+        "category": "trailer"
+      },
+      {
+        "title": "The World Is Not Enough",
+        "category": "trailer"
+      },
+      {
+        "title": "This Is Football 2",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/psone01-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone01-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone01-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone01-it-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone01-it-2.jpg"
+    ],
+    "notes": "The European edition came with a grey poster. The scans show the front and back when folded. There are language variants of the poster, at least English, Italian, and Spanish. The Australian edition came with a booklet."
+  },
+  {
+    "id": 101,
+    "productCode": "9254522",
+    "region": "Australia",
+    "title": "PS One Special Demo 01",
+    "games": [
+      {
+        "title": "Crash Bash",
+        "category": "playable"
+      },
+      {
+        "title": "Grind Session",
+        "category": "playable"
+      },
+      {
+        "title": "Spider-Man",
+        "category": "playable"
+      },
+      {
+        "title": "Terracon",
+        "category": "playable"
+      },
+      {
+        "title": "Vib Ribbon",
+        "category": "playable"
+      },
+      {
+        "title": "Legend of Dragoon",
+        "category": "trailer"
+      },
+      {
+        "title": "Rescue Shot",
+        "category": "trailer"
+      },
+      {
+        "title": "Spyro Year Of The Dragon",
+        "category": "trailer"
+      },
+      {
+        "title": "The World Is Not Enough",
+        "category": "trailer"
+      },
+      {
+        "title": "This Is Football 2",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/psone01-aus-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone01-aus-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone01-aus-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone01-aus-4.jpg"
+    ],
+    "notes": "The European edition came with a grey poster. The scans show the front and back when folded. There are language variants of the poster, at least English, Italian, and Spanish. The Australian edition came with a booklet."
+  },
+  {
+    "id": 102,
+    "productCode": "SCED-03675",
+    "region": "Europe",
+    "title": "PS One Demo Disc 02",
+    "games": [
+      {
+        "title": "Alone in the Dark The New Nightmare",
+        "category": "playable"
+      },
+      {
+        "title": "Formula 1 2001",
+        "category": "playable"
+      },
+      {
+        "title": "ISS Pro Evolution",
+        "category": "playable"
+      },
+      {
+        "title": "Pipemania 3D",
+        "category": "playable"
+      },
+      {
+        "title": "Sheep Dog 'N' Wolf",
+        "category": "playable"
+      },
+      {
+        "title": "Final Fantasy IX",
+        "category": "trailer"
+      },
+      {
+        "title": "Freestyle Scooter",
+        "category": "trailer"
+      },
+      {
+        "title": "Mort The Chicken",
+        "category": "trailer"
+      },
+      {
+        "title": "Simpson's Wrestling",
+        "category": "trailer"
+      },
+      {
+        "title": "The Italian Job",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/psone02ver2-1.jpg"
+    ],
+    "notes": "The silver disc came in a gatefold sleeve with a blue PSone poster. The white disc seems to have come in the same sleeve with a slightly different poster."
+  },
+  {
+    "id": 103,
+    "productCode": "SCED-03675#",
+    "region": "Europe",
+    "title": "PS One Demo Disc 02",
+    "games": [
+      {
+        "title": "Alone in the Dark The New Nightmare",
+        "category": "playable"
+      },
+      {
+        "title": "Formula 1 2001",
+        "category": "playable"
+      },
+      {
+        "title": "ISS Pro Evolution",
+        "category": "playable"
+      },
+      {
+        "title": "Pipemania 3D",
+        "category": "playable"
+      },
+      {
+        "title": "Sheep Dog 'N' Wolf",
+        "category": "playable"
+      },
+      {
+        "title": "Final Fantasy IX",
+        "category": "trailer"
+      },
+      {
+        "title": "Freestyle Scooter",
+        "category": "trailer"
+      },
+      {
+        "title": "Mort The Chicken",
+        "category": "trailer"
+      },
+      {
+        "title": "Simpson's Wrestling",
+        "category": "trailer"
+      },
+      {
+        "title": "The Italian Job",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/psone02-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone02-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone02-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone02-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone02-5.jpg"
+    ],
+    "notes": "The silver disc came in a gatefold sleeve with a blue PSone poster. The white disc seems to have come in the same sleeve with a slightly different poster."
+  },
+  {
+    "id": 104,
+    "productCode": "SCED-03909",
+    "region": "Europe",
+    "title": "McDonald's: Demo 01",
+    "games": [
+      {
+        "title": "Alfred Chicken",
+        "category": "playable"
+      },
+      {
+        "title": "Gran Turismo 2",
+        "category": "playable"
+      },
+      {
+        "title": "Vib Ribbon",
+        "category": "playable"
+      },
+      {
+        "title": "Wip3out",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds01-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds01-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds01-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds01-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds01-5.jpg"
+    ],
+    "notes": "Included with Big Bag purchases at McDonald's. Came with an insert for a competition."
+  },
+  {
+    "id": 105,
+    "productCode": "SCED-03910",
+    "region": "Europe",
+    "title": "McDonald's: Demo 02",
+    "games": [
+      {
+        "title": "Ace Combat 3",
+        "category": "playable"
+      },
+      {
+        "title": "Ape Escape",
+        "category": "playable"
+      },
+      {
+        "title": "Cool Boarders 4",
+        "category": "playable"
+      },
+      {
+        "title": "FIFA 2002",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds02-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds02-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds02-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds01-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds01-5.jpg"
+    ],
+    "notes": "Included with Big Bag purchases at McDonald's. Came with an insert for a competition."
+  },
+  {
+    "id": 106,
+    "productCode": "SCED-03911",
+    "region": "Europe",
+    "title": "McDonald's: Demo 03",
+    "games": [
+      {
+        "title": "Destruction Derby Raw",
+        "category": "playable"
+      },
+      {
+        "title": "Pink Panther",
+        "category": "playable"
+      },
+      {
+        "title": "Rayman Rush",
+        "category": "playable"
+      },
+      {
+        "title": "World Rally Championship Arcade",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds03-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds03-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds03-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds01-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds01-5.jpg"
+    ],
+    "notes": "Included with Big Bag purchases at McDonald's. Came with an insert for a competition."
+  },
+  {
+    "id": 107,
+    "productCode": "SCED-03912",
+    "region": "Europe",
+    "title": "McDonald's: Demo 04",
+    "games": [
+      {
+        "title": "Firebugs",
+        "category": "playable"
+      },
+      {
+        "title": "Formula One Arcade",
+        "category": "playable"
+      },
+      {
+        "title": "Jinx",
+        "category": "playable"
+      },
+      {
+        "title": "Stuart Little 2",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds04-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds04-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds04-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds01-4.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/mcdonalds01-5.jpg"
+    ],
+    "notes": "Included with Big Bag purchases at McDonald's. Came with an insert for a competition."
+  },
+  {
+    "id": 108,
+    "productCode": "SCED-03920",
+    "region": "Spain",
+    "title": "PS One Demo Disc 2002",
+    "games": [
+      {
+        "title": "Alfred Chicken",
+        "category": "playable"
+      },
+      {
+        "title": "Monsters, Inc.",
+        "category": "playable"
+      },
+      {
+        "title": "Peter Pan",
+        "category": "playable"
+      },
+      {
+        "title": "The Hoobs",
+        "category": "playable"
+      },
+      {
+        "title": "The Pink Panther",
+        "category": "playable"
+      },
+      {
+        "title": "Delta Force Urban Warfare",
+        "category": "trailer"
+      },
+      {
+        "title": "Formula One Arcade",
+        "category": "trailer"
+      },
+      {
+        "title": "MIB II Crashdown",
+        "category": "trailer"
+      },
+      {
+        "title": "Stuart Little 2",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/psone02-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone02-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone2002-spa-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/psone2002-spa-2.jpg"
+    ],
+    "notes": "A video plays during the startup of the demo, showing several games. Both known variants came in gatefold sleeves with a booklet."
+  },
+  {
+    "id": 109,
+    "productCode": "SCED-03923",
+    "region": "Europe",
+    "title": "Disney Interactive/ PlayStation Demo Disc",
+    "games": [
+      {
+        "title": "Lilo & Stitch: Trouble in Paradise",
+        "category": "playable"
+      },
+      {
+        "title": "Monsters Inc. Scare Island",
+        "category": "playable"
+      },
+      {
+        "title": "Peter Pan: Adventures in Never Land",
+        "category": "playable"
+      },
+      {
+        "title": "Treasure Planet",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/disneydemo-eur-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/disneydemo-eur-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/disneydemo-eur-3.jpg"
+    ],
+    "notes": "The packaging title is Experience The Magic Of Disney On PlayStation. The demos are in English."
+  },
+  {
+    "id": 110,
+    "productCode": "SCED-03924",
+    "region": "France",
+    "title": "Disney Interactive/ PlayStation Demo Disc",
+    "games": [
+      {
+        "title": "Lilo & Stitch: Trouble in Paradise",
+        "category": "playable"
+      },
+      {
+        "title": "Monsters Inc. Scare Island",
+        "category": "playable"
+      },
+      {
+        "title": "Peter Pan: Adventures in Never Land",
+        "category": "playable"
+      },
+      {
+        "title": "Treasure Planet",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/disneydemo-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/disneydemo-fra-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/disneydemo-fra-3.jpg"
+    ],
+    "notes": "The packaging title is Retrouve la Magie Disney sur PlayStation. The demos are in French."
+  },
+  {
+    "id": 111,
+    "productCode": "SCED-03925",
+    "region": "Italy",
+    "title": "Disney Interactive/ PlayStation Demo Disc",
+    "games": [
+      {
+        "title": "Lilo & Stitch: Trouble in Paradise",
+        "category": "playable"
+      },
+      {
+        "title": "Monsters Inc. Scare Island",
+        "category": "playable"
+      },
+      {
+        "title": "Peter Pan: Adventures in Never Land",
+        "category": "playable"
+      },
+      {
+        "title": "Treasure Planet",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/disneydemo-it-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/disneydemo-it-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/disneydemo-it-3.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/disneydemo-it-4.jpg"
+    ],
+    "notes": "The packaging title is Viva la Magia di Disney su PlayStation, with an additional catalog number, 9208907. All the demos are in Italian."
+  },
+  {
+    "id": 112,
+    "productCode": "SCED-03993",
+    "region": "UK",
+    "title": "Disney Sun Demo",
+    "games": [
+      {
+        "title": "Aladdin in Nasira's Revenge",
+        "category": "playable"
+      },
+      {
+        "title": "Atlantis: The Lost Empire",
+        "category": "playable"
+      },
+      {
+        "title": "Lilo & Stitch: Trouble in Paradise",
+        "category": "playable"
+      },
+      {
+        "title": "Monsters Inc. Scare Island",
+        "category": "playable"
+      },
+      {
+        "title": "Peter Pan: Adventures in Never Land",
+        "category": "playable"
+      },
+      {
+        "title": "Tarzan",
+        "category": "playable"
+      },
+      {
+        "title": "The Jungle Book Groove Party",
+        "category": "playable"
+      },
+      {
+        "title": "Lilo & Stitch official movie trailer",
+        "category": "other"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/disneysun-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/disneysun-2.jpg"
+    ],
+    "notes": "The packaging title is The Magical World of Disney on PlayStation. Included with an issue of The Sun newspaper."
+  },
+  {
+    "id": 113,
+    "productCode": "SCED-04009",
+    "region": "Europe",
+    "title": "Free Spin Demo Disc!",
+    "games": [
+      {
+        "title": "Disney's Treasure Planet",
+        "category": "playable"
+      },
+      {
+        "title": "Firebugs",
+        "category": "playable"
+      },
+      {
+        "title": "Formula One Arcade",
+        "category": "playable"
+      },
+      {
+        "title": "Stuart Little 2",
+        "category": "playable"
+      },
+      {
+        "title": "WRC Arcade",
+        "category": "playable"
+      },
+      {
+        "title": "Klonoa Beach Volleyball",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/freespin-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/freespin-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/freespin-3.jpg"
+    ]
+  },
+  {
+    "id": 114,
+    "productCode": "SCED-04012",
+    "region": "Germany",
+    "title": "Völlig Gratis Demo Disc!",
+    "games": [
+      {
+        "title": "Disney's Treasure Planet",
+        "category": "playable"
+      },
+      {
+        "title": "Firebugs",
+        "category": "playable"
+      },
+      {
+        "title": "Formula One Arcade",
+        "category": "playable"
+      },
+      {
+        "title": "Stuart Little 2",
+        "category": "playable"
+      },
+      {
+        "title": "WRC Arcade",
+        "category": "playable"
+      },
+      {
+        "title": "Klonoa Beach Volleyball",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/volliggratis-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/volliggratis-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/volliggratis-3.jpg"
+    ],
+    "notes": "The spined gatefold sleeve was sealed with a sticker."
+  },
+  {
+    "id": 115,
+    "productCode": "SCED-04013",
+    "region": "Spain",
+    "title": "¡Gratis! Demo Disc!",
+    "games": [
+      {
+        "title": "Disney's Treasure Planet (El Planeta Del Tesoro De Disney)",
+        "category": "playable"
+      },
+      {
+        "title": "Firebugs",
+        "category": "playable"
+      },
+      {
+        "title": "Formula One Arcade",
+        "category": "playable"
+      },
+      {
+        "title": "Stuart Little 2",
+        "category": "playable"
+      },
+      {
+        "title": "WRC Arcade",
+        "category": "playable"
+      },
+      {
+        "title": "Klonoa Beach Volleyball",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/samplers/gratis-spa-1.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/gratis-spa-2.jpg",
+      "https://crimson-ceremony.net/demopals/samplers/gratis-spa-3.jpg"
+    ],
+    "notes": "The spined gatefold sleeve was sealed with a sticker."
+  }
+]

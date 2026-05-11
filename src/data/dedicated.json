@@ -1,0 +1,2380 @@
+[
+  {
+    "id": 1,
+    "productCode": "SLED-00038",
+    "region": "Europe",
+    "title": "Croc",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/croc-1.jpg"
+    ],
+    "notes": "The demo came in a white paper sleeve. In France it was included with Consoles issue 70 (11/1997)."
+  },
+  {
+    "id": 2,
+    "productCode": "SLES-00066",
+    "region": "UK",
+    "title": "Adidas Power Soccer",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/adidaspowersoccer-1.jpg"
+    ],
+    "notes": "It contains a playable demo, and if no buttons are touched it shows a demonstration of the various menus and a rolling demo."
+  },
+  {
+    "id": 3,
+    "productCode": "SLED-00091",
+    "region": "Europe",
+    "title": "Colony Wars",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/colonywars-1.jpg"
+    ],
+    "notes": "The demo is in French and German."
+  },
+  {
+    "id": 4,
+    "productCode": "SLED-00108",
+    "region": "Europe",
+    "title": "Bloody Roar",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/bloodyroar-1.jpg"
+    ],
+    "notes": "The disc contains a playable demo."
+  },
+  {
+    "id": 5,
+    "productCode": "SLES-00157",
+    "region": "UK",
+    "title": "Doom",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/doom-1.jpg"
+    ],
+    "notes": "The disc came in a clear plastic sleeve with issue 3 of PlayStation Plus."
+  },
+  {
+    "id": 6,
+    "productCode": "SCES",
+    "region": "Europe",
+    "title": "Point Blank Demo",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-tekken2-eur-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-tekken2-eur-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-tekken2-eur-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-tekken2-eur-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-timecrisis-eur-6.jpg"
+    ],
+    "notes": "The demo was included with Tekken 2 (Platinum) (1998.04.09), Time Crisis (first released 1997.11.30, but the demo came with a 1998 repressing), Klonoa (1998.06.05), and Treasures of the Deep (1998.07.01). Point Blank itself was released 1998.07.24.",
+    "coupledGame": "Tekken 2 (Platinum)"
+  },
+  {
+    "id": 7,
+    "productCode": "SCES",
+    "region": "Europe",
+    "title": "Point Blank Demo",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-timecrisis-eur-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-timecrisis-eur-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-timecrisis-eur-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-timecrisis-eur-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-timecrisis-eur-5.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-timecrisis-eur-6.jpg"
+    ],
+    "notes": "The demo was included with Tekken 2 (Platinum) (1998.04.09), Time Crisis (first released 1997.11.30, but the demo came with a 1998 repressing), Klonoa (1998.06.05), and Treasures of the Deep (1998.07.01). Point Blank itself was released 1998.07.24.",
+    "coupledGame": "Time Crisis"
+  },
+  {
+    "id": 8,
+    "productCode": "SCES",
+    "region": "Germany",
+    "title": "Point Blank Demo",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-klonoa-ger-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-klonoa-ger-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-timecrisis-eur-6.jpg"
+    ],
+    "notes": "The demo was included with Tekken 2 (Platinum) (1998.04.09), Time Crisis (first released 1997.11.30, but the demo came with a 1998 repressing), Klonoa (1998.06.05), and Treasures of the Deep (1998.07.01). Point Blank itself was released 1998.07.24.",
+    "coupledGame": "Klonoa"
+  },
+  {
+    "id": 9,
+    "productCode": "SCES",
+    "region": "Italy",
+    "title": "Point Blank Demo",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-klonoa-it-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-klonoa-it-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-klonoa-it-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-klonoa-it-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-klonoa-it-5.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-klonoa-it-6.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-klonoa-it-7.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-timecrisis-eur-6.jpg"
+    ],
+    "notes": "The demo was included with Tekken 2 (Platinum) (1998.04.09), Time Crisis (first released 1997.11.30, but the demo came with a 1998 repressing), Klonoa (1998.06.05), and Treasures of the Deep (1998.07.01). Point Blank itself was released 1998.07.24.",
+    "coupledGame": "Klonoa"
+  },
+  {
+    "id": 10,
+    "productCode": "SCES",
+    "region": "UK",
+    "title": "Point Blank Demo",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-klonoa-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-klonoa-uk-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-klonoa-uk-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-timecrisis-eur-6.jpg"
+    ],
+    "notes": "The demo was included with Tekken 2 (Platinum) (1998.04.09), Time Crisis (first released 1997.11.30, but the demo came with a 1998 repressing), Klonoa (1998.06.05), and Treasures of the Deep (1998.07.01). Point Blank itself was released 1998.07.24.",
+    "coupledGame": "Klonoa"
+  },
+  {
+    "id": 11,
+    "productCode": "SCES",
+    "region": "UK",
+    "title": "Point Blank Demo",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-totd-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-totd-uk-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-totd-uk-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-totd-uk-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-totd-uk-5.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pointblank-timecrisis-eur-6.jpg"
+    ],
+    "notes": "The demo was included with Tekken 2 (Platinum) (1998.04.09), Time Crisis (first released 1997.11.30, but the demo came with a 1998 repressing), Klonoa (1998.06.05), and Treasures of the Deep (1998.07.01). Point Blank itself was released 1998.07.24.",
+    "coupledGame": "Treasures Of The Deep"
+  },
+  {
+    "id": 12,
+    "productCode": "SLES-00288",
+    "region": "France",
+    "title": "Alien Trilogy",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/alientrilogy-1.jpg"
+    ],
+    "notes": "The demo came with PlayMag issue 3 (05/1996). It came in a white paper sleeve."
+  },
+  {
+    "id": 13,
+    "productCode": "SLES",
+    "region": "UK",
+    "title": "Resident Evil",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil-uk-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil-uk-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil-uk-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil-uk-5.jpg"
+    ],
+    "notes": "The discs contain the censored rolling demo. The British edition came with Street Fighter Alpha Warriors' Dreams (1996.05.10) sold at HMV, and the demo disc could be traded in for a discount on the finished game.",
+    "coupledGame": "Street Fighter Alpha Warriors' Dreams"
+  },
+  {
+    "id": 14,
+    "productCode": "SLES-00335",
+    "region": "Australia",
+    "title": "Resident Evil",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil-aus-1.jpg"
+    ],
+    "notes": "The discs contain the censored rolling demo. The British edition came with Street Fighter Alpha Warriors' Dreams (1996.05.10) sold at HMV, and the demo disc could be traded in for a discount on the finished game."
+  },
+  {
+    "id": 15,
+    "productCode": "SLES-00355",
+    "region": "Germany",
+    "title": "Resident Evil",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil-ger-1.jpg"
+    ],
+    "notes": "The disc contains the uncensored version of the European trailer. It was played on screens at IFA Berlin, a large consumer electronics fair. It may also have been played in shops in Germany."
+  },
+  {
+    "id": 16,
+    "productCode": "SLED-00406",
+    "region": "France",
+    "title": "Resident Evil",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil-fra-1.jpg"
+    ],
+    "notes": "The disc contains the uncensored version of the European trailer, with some added text in French in the beginning."
+  },
+  {
+    "id": 17,
+    "productCode": "SLED-00447",
+    "region": "Europe",
+    "title": "Formula Karts Special Edition",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/formulakarts-1.jpg"
+    ],
+    "notes": "It probably came in a slimline case."
+  },
+  {
+    "id": 18,
+    "productCode": "SLED-00473",
+    "region": "Europe",
+    "title": "Street Fighter EX+Alpha",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/sfexa-1.jpg"
+    ],
+    "notes": "Clear plastic sleeve."
+  },
+  {
+    "id": 19,
+    "productCode": "SLED-00491",
+    "region": "Europe",
+    "title": "Formula One",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/formulaone-1.jpg"
+    ],
+    "notes": "The demo is playable in multiple languages."
+  },
+  {
+    "id": 20,
+    "productCode": "SLED-00498",
+    "region": "Europe",
+    "title": "Wipeout 2097",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/wipeout2097-1.jpg"
+    ],
+    "notes": "The disc contains a video and a playable demo."
+  },
+  {
+    "id": 21,
+    "productCode": "SLED-00499",
+    "region": "Europe",
+    "title": "Marvel Super Heroes",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/marvelsuperheroes-1.jpg"
+    ],
+    "notes": "The demo was probably for use in shops. The Hulk and Spider-Man are playable."
+  },
+  {
+    "id": 22,
+    "productCode": "SLED-00513",
+    "region": "France",
+    "title": "Tomb Raider & Blam!Machinehead",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/trblam-1.jpg"
+    ],
+    "notes": "Included with an issue of Consoles +. It came in a plain, white paper sleeve. The demos are in French."
+  },
+  {
+    "id": 23,
+    "productCode": "SLED-00515",
+    "region": "Europe",
+    "title": "Robotron X",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/robotronx-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/robotronx-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/robotronx-1.jpg"
+    ],
+    "notes": "The disc contains four playable levels. In France, it came with PlayMag issue 15 (06/1997). The two variants have different languages on the sleeve."
+  },
+  {
+    "id": 24,
+    "productCode": "SLED-00516",
+    "region": "Europe",
+    "title": "Lomax",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/lomax-1.jpg"
+    ],
+    "notes": "The disc contains a playable demo in English, German, Italian, and Spanish."
+  },
+  {
+    "id": 25,
+    "productCode": "SLED-00553",
+    "region": "Europe",
+    "title": "Star Gladiator",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/stargladiator-1.jpg"
+    ],
+    "notes": "The disc contains a playable demo."
+  },
+  {
+    "id": 26,
+    "productCode": "SLED-00570",
+    "region": "Europe",
+    "title": "Pandemonium",
+    "games": [
+      {
+        "title": "Pandemonium",
+        "category": "playable"
+      },
+      {
+        "title": "Blazing Dragons",
+        "category": "trailer"
+      },
+      {
+        "title": "Legacy of Kain: Blood Omen",
+        "category": "trailer"
+      },
+      {
+        "title": "Pandemonium",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/pandemonium-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pandemonium-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pandemonium-3.jpg"
+    ],
+    "notes": "The short trailers play when the disc starts up."
+  },
+  {
+    "id": 27,
+    "productCode": "SLED-00571",
+    "region": "Europe",
+    "title": "Tomb Raider",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/tombraider-1.jpg"
+    ],
+    "notes": "The first part of City of Vilcabamba is playable. A rolling demo of the same level plays if you do not touch the controller."
+  },
+  {
+    "id": 28,
+    "productCode": "SLED-00594",
+    "region": "UK",
+    "title": "Disruptor",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/disruptor-1.jpg"
+    ],
+    "notes": "The disc contains a playable demo and five rolling demos."
+  },
+  {
+    "id": 29,
+    "productCode": "SLED-00639",
+    "region": "Europe",
+    "title": "Riot",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/riot-1.jpg"
+    ],
+    "notes": "No sleeve."
+  },
+  {
+    "id": 30,
+    "productCode": "SLED-00665",
+    "region": "Europe",
+    "title": "Swagman",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/swagman-1.jpg"
+    ],
+    "notes": "The demo is in English, French, and German."
+  },
+  {
+    "id": 31,
+    "productCode": "SLED-00690",
+    "region": "Europe",
+    "title": "Lifeforce Tenka",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/lifeforcetenka-1.jpg"
+    ],
+    "notes": "The disc contains a playable demo."
+  },
+  {
+    "id": 32,
+    "productCode": "SLED-00725",
+    "region": "France",
+    "title": "Oddworld: Abe's Oddysee",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/abesoddysee-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/abesoddysee-fra-2.jpg"
+    ],
+    "notes": "The French edition came with PlayMag issue 16 (07/1997)."
+  },
+  {
+    "id": 33,
+    "productCode": "SLED-00725",
+    "region": "Germany",
+    "title": "Oddworld: Abe's Oddysee",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/abesoddysee-ger-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/abesoddysee-ger-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/abesoddysee-fra-2.jpg"
+    ],
+    "notes": "The French edition came with PlayMag issue 16 (07/1997)."
+  },
+  {
+    "id": 34,
+    "productCode": "SLED-00725",
+    "region": "Spain",
+    "title": "Oddworld: Abe's Oddysee",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/abesoddysee-spa-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/abesoddysee-spa-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/abesoddysee-fra-2.jpg"
+    ],
+    "notes": "The French edition came with PlayMag issue 16 (07/1997)."
+  },
+  {
+    "id": 35,
+    "productCode": "SLED-00725",
+    "region": "UK",
+    "title": "Oddworld: Abe's Oddysee",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/abesoddysee-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/abesoddysee-fra-2.jpg"
+    ],
+    "notes": "The French edition came with PlayMag issue 16 (07/1997)."
+  },
+  {
+    "id": 36,
+    "productCode": "SLED-00734",
+    "region": "France",
+    "title": "La Cité des Enfants Perdus",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/lacitedesenfantsperdus-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/lacitedesenfantsperdus-2.jpg"
+    ],
+    "notes": "Included with CD Consoles issue 28 (05/1997). The English title of the game is The City of Lost Children."
+  },
+  {
+    "id": 37,
+    "productCode": "SLED-00796",
+    "region": "Europe",
+    "title": "International Superstar Soccer Pro",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/isspro97-1.jpg"
+    ],
+    "notes": "It contains a playable demo."
+  },
+  {
+    "id": 38,
+    "productCode": "SLED-00797",
+    "region": "Europe",
+    "title": "Excalibur 2555AD",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/excalibur-1.jpg"
+    ],
+    "notes": "It contains a video and a playable demo."
+  },
+  {
+    "id": 39,
+    "productCode": "SLES-00024",
+    "region": "Europe",
+    "title": "Fighting Force",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/fightingforce-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/fightingforce-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/fightingforce-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/fightingforce-5.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/fightingforce-6.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/fightingforce-1.jpg"
+    ],
+    "notes": "The demo came with a 1997 reprint of Tomb Raider, and with the French magazine PlayMag issue 18 (10/1997). The demo is playable in English, French, and German.",
+    "coupledGame": "Tomb Raider"
+  },
+  {
+    "id": 40,
+    "productCode": "2000798",
+    "region": "Europe",
+    "title": "VR Sports Powerboat Racing",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/vrsportspowerboat-1.jpg"
+    ],
+    "notes": "There are black label and color label variants of the demo."
+  },
+  {
+    "id": 41,
+    "productCode": "2000484",
+    "region": "Europe",
+    "title": "VR Sports Powerboat Racing",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/vrsportspowerboat-ver2-1.jpg"
+    ],
+    "notes": "There are black label and color label variants of the demo."
+  },
+  {
+    "id": 42,
+    "productCode": "SLED-00912",
+    "region": "Europe",
+    "title": "MDK",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/mdk-1.jpg"
+    ],
+    "notes": "Plastic sleeve or paper sleeve."
+  },
+  {
+    "id": 43,
+    "productCode": "SLED-00956",
+    "region": "France",
+    "title": "Explosive Racing",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/expracing-1.jpg"
+    ],
+    "notes": "The demo came with PlayMag issue 17 (09/1997)."
+  },
+  {
+    "id": 44,
+    "productCode": "SLED-00968",
+    "region": "Europe",
+    "title": "Shadow Master",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/shadowmaster-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/discworldnoir-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/discworldnoir-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/discworldnoir-3.jpg"
+    ],
+    "notes": "The disc came in a paper sleeve. It has two playable levels."
+  },
+  {
+    "id": 45,
+    "productCode": "7081880",
+    "region": "France",
+    "title": "Resident Evil 2",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil2-cdconsoles-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil2-cdconsoles-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil2-cdconsoles-3.jpg"
+    ],
+    "notes": "The demo was included with Resident Evil Director's Cut (1997.12.10) in Europe. The German release of the game did not come with a demo. It also came with issue 38 (04/1998) of the French magazine CD Consoles.",
+    "coupledGame": "CD Consoles 38 04/98"
+  },
+  {
+    "id": 46,
+    "productCode": "7081682",
+    "region": "Europe",
+    "title": "Resident Evil 2",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil2-re1dc-eur-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil2-re1dc-eur-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil2-re1dc-eur-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil2-re1dc-eur-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil2-re1dc-eur-5.jpg"
+    ],
+    "notes": "The demo was included with Resident Evil Director's Cut (1997.12.10) in Europe. The German release of the game did not come with a demo. It also came with issue 38 (04/1998) of the French magazine CD Consoles.",
+    "coupledGame": "Resident Evil Director's Cut"
+  },
+  {
+    "id": 47,
+    "productCode": "7081880",
+    "region": "France",
+    "title": "Resident Evil 2",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil2-re1dc-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil2-cdconsoles-3.jpg"
+    ],
+    "notes": "The demo was included with Resident Evil Director's Cut (1997.12.10) in Europe. The German release of the game did not come with a demo. It also came with issue 38 (04/1998) of the French magazine CD Consoles.",
+    "coupledGame": "Resident Evil Director's Cut"
+  },
+  {
+    "id": 48,
+    "productCode": "7081682",
+    "region": "Italy",
+    "title": "Resident Evil 2",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil2-re1dc-itaspa-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil2-re1dc-eur-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil2-re1dc-eur-5.jpg"
+    ],
+    "notes": "The demo was included with Resident Evil Director's Cut (1997.12.10) in Europe. The German release of the game did not come with a demo. It also came with issue 38 (04/1998) of the French magazine CD Consoles.",
+    "coupledGame": "Resident Evil Director's Cut"
+  },
+  {
+    "id": 49,
+    "productCode": "SLED-01005",
+    "region": "France",
+    "title": "Moto Racer",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/motoracer-1.jpg"
+    ],
+    "notes": "Included with special issue 1 of PlayMag. Came in a clear plastic sleeve."
+  },
+  {
+    "id": 50,
+    "productCode": "SLED-01015",
+    "region": "France",
+    "title": "Pandemonium 2",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/pandemonium2-1.jpg"
+    ],
+    "notes": "Included with PlayMag issue 19. Came in a white paper sleeve."
+  },
+  {
+    "id": 51,
+    "productCode": "SLED-01027",
+    "region": "France",
+    "title": "Duke Nukem",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/dukenukem-1.jpg"
+    ],
+    "notes": "Included with PlayMag issue 22. Came in a clear plastic sleeve."
+  },
+  {
+    "id": 52,
+    "productCode": "SLED-01036",
+    "region": "France",
+    "title": "Tomb Raider II",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/tombraider2-playmag-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/tombraider2-playmag-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/tombraider2-playmag-3.jpg"
+    ],
+    "notes": "Included with PlayMag issue 20."
+  },
+  {
+    "id": 53,
+    "productCode": "SLED-01065",
+    "region": "France",
+    "title": "Rascal",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/rascal-1.jpg"
+    ],
+    "notes": "The demo came with PlayMag issue 24 (04/1998), but may also have been distributed outside of France."
+  },
+  {
+    "id": 54,
+    "productCode": "SLED-01067",
+    "region": "France",
+    "title": "Command & Conquer Alerte Rouge FRANCAIS",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/alerterouge-1.jpg"
+    ],
+    "notes": "The disc features at least two playable levels, and a short rolling demo if you do not touch the controller."
+  },
+  {
+    "id": 55,
+    "productCode": "SLED-01085",
+    "region": "Europe",
+    "title": "Crime Killer",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/crimekiller-eur-1.jpg"
+    ],
+    "notes": "The disc only contains a playable demo, and not the extra contents featured on the German edition, SLED-01305."
+  },
+  {
+    "id": 56,
+    "productCode": "SLED-01098",
+    "region": "Europe",
+    "title": "Fighting Force/Tomb Raider II",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/fftr2-1.jpg"
+    ],
+    "notes": "The demo came with PlayStation Games 2/98 in Germany."
+  },
+  {
+    "id": 57,
+    "productCode": "SLED-01109",
+    "region": "France",
+    "title": "Discworld II",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/discworld2-1.jpg"
+    ],
+    "notes": "Included with Total Play issue 2 (1/98), in a clear plastic sleeve. The demo is in French."
+  },
+  {
+    "id": 58,
+    "productCode": "SLED-01112",
+    "region": "Europe",
+    "title": "Gex 3D: Enter The Gecko",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/gex3d-1.jpg"
+    ],
+    "notes": "Plain paper or plastic sleeve."
+  },
+  {
+    "id": 59,
+    "productCode": "9744122",
+    "region": "Europe",
+    "title": "Euro Demo 36",
+    "games": [
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/tekken3demo-1.jpg"
+    ],
+    "notes": "The game-titled demo did not come with OPM. The British version came in a black jewelcase with a sticker on the front, and with a booklet. The Australian discs were manufactured domestically, and have some cosmetic differences as a result.",
+    "coupledGame": "Tekken 3 Demo"
+  },
+  {
+    "id": 60,
+    "productCode": "9719724",
+    "region": "Benelux",
+    "title": "Euro Demo 36",
+    "games": [
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/eurodemo/bnl036-1.jpg",
+      "https://crimson-ceremony.net/demopals/eurodemo/ed036.jpg"
+    ],
+    "notes": "The game-titled demo did not come with OPM. The British version came in a black jewelcase with a sticker on the front, and with a booklet. The Australian discs were manufactured domestically, and have some cosmetic differences as a result.",
+    "coupledGame": "Official Benelux PlayStation Magazine 14"
+  },
+  {
+    "id": 61,
+    "productCode": "9719724",
+    "region": "Italy",
+    "title": "Euro Demo 36",
+    "games": [
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/eurodemo/it036-1.jpg",
+      "https://crimson-ceremony.net/demopals/eurodemo/ed036.jpg"
+    ],
+    "notes": "The game-titled demo did not come with OPM. The British version came in a black jewelcase with a sticker on the front, and with a booklet. The Australian discs were manufactured domestically, and have some cosmetic differences as a result.",
+    "coupledGame": "Ufficiale PlayStation Magazine 25"
+  },
+  {
+    "id": 62,
+    "productCode": "9719724",
+    "region": "Spain",
+    "title": "Euro Demo 36",
+    "games": [
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/eurodemo/spa036-1.jpg",
+      "https://crimson-ceremony.net/demopals/eurodemo/ed036.jpg"
+    ],
+    "notes": "The game-titled demo did not come with OPM. The British version came in a black jewelcase with a sticker on the front, and with a booklet. The Australian discs were manufactured domestically, and have some cosmetic differences as a result.",
+    "coupledGame": "Edición Oficial Española PlayStation Magazine Disco 22"
+  },
+  {
+    "id": 63,
+    "productCode": "711719713920",
+    "region": "UK",
+    "title": "Euro Demo 36",
+    "games": [
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/eurodemo/uk036-1.jpg",
+      "https://crimson-ceremony.net/demopals/eurodemo/uk036-2.jpg",
+      "https://crimson-ceremony.net/demopals/eurodemo/uk036-3.jpg",
+      "https://crimson-ceremony.net/demopals/eurodemo/uk036-4.jpg"
+    ],
+    "notes": "The game-titled demo did not come with OPM. The British version came in a black jewelcase with a sticker on the front, and with a booklet. The Australian discs were manufactured domestically, and have some cosmetic differences as a result.",
+    "coupledGame": "Tekken 3 Collector's Edition"
+  },
+  {
+    "id": 64,
+    "productCode": "9719724",
+    "region": "Australia",
+    "title": "Euro Demo 36",
+    "games": [
+      {
+        "title": "Tekken 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tekken 3",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/eurodemo/aus036-1.jpg",
+      "https://crimson-ceremony.net/demopals/eurodemo/aus036-2.jpg"
+    ],
+    "notes": "The game-titled demo did not come with OPM. The British version came in a black jewelcase with a sticker on the front, and with a booklet. The Australian discs were manufactured domestically, and have some cosmetic differences as a result.",
+    "coupledGame": "Official Australian PlayStation Magazine 15"
+  },
+  {
+    "id": 65,
+    "productCode": "SLED-01170",
+    "region": "France",
+    "title": "One",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/one-cdconsoles-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/one-cdconsoles-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/one-cdconsoles-3.jpg"
+    ],
+    "notes": "Included with a (special?) issue of CD Consoles in April 1998."
+  },
+  {
+    "id": 66,
+    "productCode": "SLED-01193",
+    "region": "Europe",
+    "title": "Extreme Snow Break",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/extremesnowbreak-1.jpg"
+    ],
+    "notes": "Clear plastic sleeve."
+  },
+  {
+    "id": 67,
+    "productCode": "SLED-01196",
+    "region": "Europe",
+    "title": "Newman Haas Racing",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/newmanhaas-1.jpg"
+    ],
+    "notes": "The demo came with Joypad issue 74 (04/1998) in France."
+  },
+  {
+    "id": 68,
+    "productCode": "SLED-01243",
+    "region": "France",
+    "title": "Pitfall 3D: Beyond The Jungle",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/pitfall3d-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pitfall3d-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/pitfall3d-3.jpg"
+    ],
+    "notes": "Included with CD Consoles issue 40 (06/98)."
+  },
+  {
+    "id": 69,
+    "productCode": "SLED-01250",
+    "region": "Europe",
+    "title": "Vigilante 8",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/vigilante8-1.jpg"
+    ],
+    "notes": "The demo came with Joypad issue 77 (07-08/1998) in France."
+  },
+  {
+    "id": 70,
+    "productCode": "SLED-01255",
+    "region": "Europe",
+    "title": "Command & Conquer Red Alert/Bloody Roar",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/ccbloody-eur-1.jpg"
+    ],
+    "notes": "Unknown sleeve."
+  },
+  {
+    "id": 71,
+    "productCode": "SLED-01263",
+    "region": "Europe",
+    "title": "Forsaken",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/forsaken-1.jpg"
+    ],
+    "notes": "The demo was distributed all over Europe. In France it came with Joypad issue 75 (05/1998). In Germany it came with PlayStation Games 5/98, and again with PlayStation Games Collection special issue 1/98 together with SLED-01305 and SLED-01311. In the UK it came in a clamshell case with an insert and an orange demo sticker."
+  },
+  {
+    "id": 72,
+    "productCode": "SLED-01270",
+    "region": "Germany",
+    "title": "C&C Alarmstufe Rot/Bloody Roar",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/ccbloody-ger-1.jpg"
+    ],
+    "notes": "The disc contains a German demo version of Command & Conquer Red Alert. There are at least two playable levels."
+  },
+  {
+    "id": 73,
+    "productCode": "SLED-01272",
+    "region": "Europe",
+    "title": "Blast Radius",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/blastradius-1.jpg"
+    ],
+    "notes": "White paper sleeve."
+  },
+  {
+    "id": 74,
+    "productCode": "SCED-01279",
+    "region": "France",
+    "title": "Gran Turismo Demo",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/gtdemo-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/gtdemo-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/gtdemo-3.jpg"
+    ],
+    "notes": "Included with an issue of PlayerStation."
+  },
+  {
+    "id": 75,
+    "productCode": "SLED-01305",
+    "region": "Germany",
+    "title": "Crime Killer",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/crimekiller-1.jpg"
+    ],
+    "notes": "Contains a playable demo, the intro video, and a gameplay video. Included with PlayStation Games 7/98 in Germany, and again with PlayStation Games Collection 1/98 (special issue) together with SLED-01263 and SLED-01311.\tIt may also have been distributed by other means in Europe."
+  },
+  {
+    "id": 76,
+    "productCode": "SLED-01308",
+    "region": "Europe",
+    "title": "The Adventures Of Alundra",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/alundra-1.jpg"
+    ],
+    "notes": "The disc contains a rolling demo."
+  },
+  {
+    "id": 77,
+    "productCode": "SLED-01310",
+    "region": "France",
+    "title": "Adidas Power Soccer 98",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/aps98-fra-1.jpg"
+    ],
+    "notes": "The demo is in French."
+  },
+  {
+    "id": 78,
+    "productCode": "SLED-01311",
+    "region": "Germany",
+    "title": "Adidas Power Soccer 98",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/aps98-1.jpg"
+    ],
+    "notes": "Included with PlayStation Games 6/98 in Germany, and again with PlayStation Games Collection 1/98 (special issue) together with SLED-01263 and SLED-01305. It may also have been distributed elsewhere in Europe."
+  },
+  {
+    "id": 79,
+    "productCode": "SLED-01329",
+    "region": "Europe",
+    "title": "Tommi Mäkinen Rally",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/tommimakinen-1.jpg"
+    ],
+    "notes": "The disc contains a playable demo and three rolling demos. It is in English, Finnish, French, and German."
+  },
+  {
+    "id": 80,
+    "productCode": "SLED-01339",
+    "region": "Europe",
+    "title": "Beast Wars",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/beastwars-1.jpg"
+    ],
+    "notes": "Plain paper or plastic sleeve."
+  },
+  {
+    "id": 81,
+    "productCode": "SLED-01351",
+    "region": "France",
+    "title": "Heart Of Darkness",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/heartofdarkness-fra-1.jpg"
+    ],
+    "notes": "The demo is in French. It came with Joypad issue 78 (09/1998)."
+  },
+  {
+    "id": 82,
+    "productCode": "SLED-01365",
+    "region": "Europe",
+    "title": "The Last Report",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/thelastreport-1.jpg"
+    ],
+    "notes": "The disc plays two videos on repeat, available in German and English."
+  },
+  {
+    "id": 83,
+    "productCode": "SLED-01367",
+    "region": "France",
+    "title": "World League Soccer '98",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/wls98-1.jpg"
+    ],
+    "notes": "The demo came with PlayMag issue 26 (06/1998), but may also have been distributed outside of France."
+  },
+  {
+    "id": 84,
+    "productCode": "SLED-01381",
+    "region": "Germany",
+    "title": "Colin McRae Rally",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/colinmcrae-ger-1.jpg"
+    ],
+    "notes": "Contains two playable tracks and two videos. Included with PlayStation Games 8/98."
+  },
+  {
+    "id": 85,
+    "productCode": "SCED-01384",
+    "region": "France",
+    "title": "Tekken 3",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/tekken3-playmag-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/tekken3-playmag-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/tekken3-playmag-3.jpg"
+    ],
+    "notes": "The demo came with PlayMag issue 27 (07/1998)."
+  },
+  {
+    "id": 86,
+    "productCode": "SLED-01388",
+    "region": "Italy",
+    "title": "Colin McRae Rally Italiano",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/colinmcrae-it-1.jpg"
+    ],
+    "notes": "Contains two playable tracks and two videos. It is in Italian."
+  },
+  {
+    "id": 87,
+    "productCode": "SLES",
+    "region": "France",
+    "title": "Metal Gear Solid",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-fra-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-fra-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-fra-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-fra-5.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-fra-6.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-fra-7.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-fra-8.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-fra-9.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-uk-9.jpg"
+    ],
+    "notes": "Included with ISS Pro 98 together with a demo manual. All the game text is in English, but the dialogue is in Japanese.",
+    "coupledGame": "ISS Pro 98"
+  },
+  {
+    "id": 88,
+    "productCode": "SLES",
+    "region": "UK",
+    "title": "Metal Gear Solid",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-uk-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-uk-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-uk-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-uk-5.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-uk-6.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-uk-7.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-uk-8.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/metal-gear-solid-uk-9.jpg"
+    ],
+    "notes": "Included with ISS Pro 98 together with a demo manual. All the game text is in English, but the dialogue is in Japanese.",
+    "coupledGame": "ISS Pro 98"
+  },
+  {
+    "id": 89,
+    "productCode": "SLED-01401",
+    "region": "Germany",
+    "title": "ISS Pro 98",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/isspro98-1.jpg"
+    ],
+    "notes": "Included with PlayStation Games 9/98 in Germany, but it may also have been distributed elsewhere in Europe."
+  },
+  {
+    "id": 90,
+    "productCode": "SLED-01403",
+    "region": "Europe",
+    "title": "Circuit Breakers Demo/Add-On Disc",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/circuitbreakers-1.jpg"
+    ],
+    "notes": "The demo is in multiple languages. It came in a slimline case with a barcode sticker."
+  },
+  {
+    "id": 91,
+    "productCode": "SLED-01415",
+    "region": "Europe",
+    "title": "S.C.A.R.S.",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/scars-1.jpg"
+    ],
+    "notes": "The disc contains a timed demo."
+  },
+  {
+    "id": 92,
+    "productCode": "SLED-01439",
+    "region": "Europe",
+    "title": "G.Darius",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/gdarius-1.jpg"
+    ],
+    "notes": "The demo contains a playable level."
+  },
+  {
+    "id": 93,
+    "productCode": "SLED-01467",
+    "region": "Europe",
+    "title": "Tenchu: Stealth Assassins",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/tenchu-1.jpg"
+    ],
+    "notes": "May have come in a slimline case."
+  },
+  {
+    "id": 94,
+    "productCode": "SLED-01471",
+    "region": "Europe",
+    "title": "Colony Wars: Vengeance",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/cwvengeance-1.jpg"
+    ],
+    "notes": "The demo came in a slimline case."
+  },
+  {
+    "id": 95,
+    "productCode": "SLED-01488",
+    "region": "Europe",
+    "title": "Psybadek",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/psybadek-1.jpg"
+    ],
+    "notes": "The disc is multi-language. Generic case or sleeve."
+  },
+  {
+    "id": 96,
+    "productCode": "SCED-01491",
+    "region": "Europe",
+    "title": "Liberogrande",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/liberogrande-1.jpg"
+    ],
+    "notes": "Playable demo."
+  },
+  {
+    "id": 97,
+    "productCode": "SLED-01509",
+    "region": "Europe",
+    "title": "Future Cop L.A.P.D",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/futurecop-1.jpg"
+    ],
+    "notes": "The demo contains two playable levels, playable in English and French. It came with Joypad issue 79 (10/1998) in France."
+  },
+  {
+    "id": 98,
+    "productCode": "SLED-01513",
+    "region": "France",
+    "title": "ISS Pro 98",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/isspro98-ver2-1.jpg"
+    ],
+    "notes": "Included with CD Consoles issue 43 (9/98)."
+  },
+  {
+    "id": 99,
+    "productCode": "SCED-01527",
+    "region": "UK",
+    "title": "Medievil Collector's Edition",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/medievil-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/medievil-uk-2.jpg"
+    ],
+    "notes": "The disc contains a playable demo and a making of video."
+  },
+  {
+    "id": 100,
+    "productCode": "SLED-01529",
+    "region": "UK",
+    "title": "Victory Boxing 2",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/victoryboxing2-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/victoryboxing2-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/victoryboxing2-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/victoryboxing2-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/victoryboxing2-5.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/victoryboxing2-6.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/victoryboxing2-7.jpg"
+    ],
+    "notes": "The demo was part of a launch kit. It came in a plastic box formed as a boxing glove. It was opened by a sliding yellow sheet of cardboard on the back. The disc itself came in a white paper sleeve. Other items included were a large catalog and a mouthguard with a small slip with instructions, stored in a small plastic box."
+  },
+  {
+    "id": 101,
+    "productCode": "SLED-01552",
+    "region": "France",
+    "title": "Moto Racer 2",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/motoracer2-1.jpg"
+    ],
+    "notes": "The demo came with PlayMag issue 29 (10/1998), but may also have been distributed outside of France."
+  },
+  {
+    "id": 102,
+    "productCode": "SLED-01557",
+    "region": "Europe",
+    "title": "The Unholy War",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/unholywar-1.jpg"
+    ],
+    "notes": "Clear plastic sleeve."
+  },
+  {
+    "id": 103,
+    "productCode": "SLED-01560",
+    "region": "Europe",
+    "title": "All Star Tennis '99",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/allstartennis99-1.jpg"
+    ],
+    "notes": "No sleeve."
+  },
+  {
+    "id": 104,
+    "productCode": "SLED-01561",
+    "region": "Europe",
+    "title": "Live Wire!",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/livewire-1.jpg"
+    ],
+    "notes": "The demo contains several levels."
+  },
+  {
+    "id": 105,
+    "productCode": "SCED-01571",
+    "region": "France",
+    "title": "Medievil Special français",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/medievil-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/medievil-fra-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/medievil-fra-3.jpg"
+    ],
+    "notes": "The disc contains a playable demo in French, and a making of video with French subtitles."
+  },
+  {
+    "id": 106,
+    "productCode": "SLED-01574",
+    "region": "France",
+    "title": "O.D.T.",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/odt-fra-1.jpg"
+    ],
+    "notes": "The demo is in French. It came with Joypad issue 80."
+  },
+  {
+    "id": 107,
+    "productCode": "SLED-01575",
+    "region": "Germany",
+    "title": "O.D.T.",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/odt-ger-1.jpg"
+    ],
+    "notes": "The demo is in German. It came in a generic paper sleeve."
+  },
+  {
+    "id": 108,
+    "productCode": "SLED-01609",
+    "region": "Europe",
+    "title": "T'ai Fu: Wrath Of The Tiger",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/taifu-1.jpg"
+    ],
+    "notes": "No sleeve."
+  },
+  {
+    "id": 109,
+    "productCode": "SLED-01610",
+    "region": "Europe",
+    "title": "Apocalypse",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/apocalypse-1.jpg"
+    ],
+    "notes": "At least in Italy, the demo came in a slimline case with an SIAE sticker, most likely included with a magazine."
+  },
+  {
+    "id": 110,
+    "productCode": "SLED-01623",
+    "region": "Europe",
+    "title": "Tomb Raider Trilogy - Demo Disc",
+    "games": [
+      {
+        "title": "Tomb Raider",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 2",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "trailer"
+      },
+      {
+        "title": "Virtual Lara",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/trtrilogy-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/trtrilogy-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/trtrilogy-3.jpg"
+    ]
+  },
+  {
+    "id": 111,
+    "productCode": "SCED-01637",
+    "region": "France",
+    "title": "Spyro The Dragon Speciale FRA",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/spyrospeciale-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/spyrospeciale-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/spyrospeciale-3.jpg"
+    ],
+    "notes": "Included with an issue of PlayerStation."
+  },
+  {
+    "id": 112,
+    "productCode": "SLED-01709",
+    "region": "France",
+    "title": "Tomb Raider III - Les Aventures De Lara Croft",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/tombraider3-fra-1.jpg"
+    ],
+    "notes": "Contains the demo and a video. Unknown sleeve."
+  },
+  {
+    "id": 113,
+    "productCode": "SLED-01732",
+    "region": "Europe",
+    "title": "Rollcage",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/rollcage-1.jpg"
+    ],
+    "notes": "The disc has one playable level."
+  },
+  {
+    "id": 114,
+    "productCode": "SLES-01370",
+    "region": "Europe",
+    "title": "Silent Hill",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-eur-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-eur-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-eur-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-eur-5.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-eur-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-eur-6.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-eur-7.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-eur-8.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-eur-9.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-eur-10.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-eur-11.jpg"
+    ],
+    "notes": "Included with the European editions of Metal Gear Solid, together with a poster.",
+    "coupledGame": "Metal Gear Solid"
+  },
+  {
+    "id": 115,
+    "productCode": "SLES-01508",
+    "region": "Italy",
+    "title": "Silent Hill",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-it-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-it-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-it-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-it-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-it-5.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-it-6.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-it-7.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-it-8.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-eur-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-it-9.jpg"
+    ],
+    "notes": "Included with the European editions of Metal Gear Solid, together with a poster.",
+    "coupledGame": "Metal Gear Solid"
+  },
+  {
+    "id": 116,
+    "productCode": "SLED-01755",
+    "region": "Europe",
+    "title": "Rugrats",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/rugrats-1.jpg"
+    ],
+    "notes": "Generic paper sleeve."
+  },
+  {
+    "id": 117,
+    "productCode": "SLES-01507",
+    "region": "Germany",
+    "title": "Silent Hill",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-ger-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-ger-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-ger-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-ger-5.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-ger-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-ger-6.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-ger-7.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-ger-8.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-ger-9.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-eur-10.jpg"
+    ],
+    "notes": "Included with the German edition of Metal Gear Solid, together with a poster. Unlike the European demo, the German demo is not playable. It only features the opening video.",
+    "coupledGame": "Metal Gear Solid"
+  },
+  {
+    "id": 118,
+    "productCode": "SLED-01775",
+    "region": "Europe",
+    "title": "Metalgear Solid",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/metalgear-solid-1.jpg"
+    ],
+    "notes": "The second PAL demo release of the game now has dialogue in English."
+  },
+  {
+    "id": 119,
+    "productCode": "SLED-01787",
+    "region": "UK",
+    "title": "Warzone 2100",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/warzone2100-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/warzone2100-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/warzone2100-3.jpg"
+    ],
+    "notes": "The demo came in a cardsleeve."
+  },
+  {
+    "id": 120,
+    "productCode": "SLED-01817",
+    "region": "Europe",
+    "title": "Driver",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/driver-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/driver-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/driver-3.jpg"
+    ],
+    "notes": "The demo came in a cardboard sleeve."
+  },
+  {
+    "id": 121,
+    "productCode": "SLED-01817",
+    "region": "France",
+    "title": "Driver",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/driver-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/driver-fra-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/driver-3.jpg"
+    ],
+    "notes": "The demo came in a cardboard sleeve."
+  },
+  {
+    "id": 122,
+    "productCode": "SLED-01901",
+    "region": "France",
+    "title": "Monaco GP2",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/monacogp2-1.jpg"
+    ],
+    "notes": "Included with PlayMag issue 36."
+  },
+  {
+    "id": 123,
+    "productCode": "SLED-01928",
+    "region": "France",
+    "title": "Bloody Roar 2",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/bloodyroar2-1.jpg"
+    ],
+    "notes": "The demo came with Total Play issue 17 (05/99) in a white paper sleeve."
+  },
+  {
+    "id": 124,
+    "productCode": "SLED-01931",
+    "region": "UK",
+    "title": "Viva Football",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/vivafootball-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/vivafootball-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/vivafootball-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/vivafootball-4.jpg"
+    ],
+    "notes": "The demo came with a competition form."
+  },
+  {
+    "id": 125,
+    "productCode": "SLED-01942",
+    "region": "Europe",
+    "title": "Tank Racer",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/tankracer-1.jpg"
+    ],
+    "notes": "Contains a video and a playable demo."
+  },
+  {
+    "id": 126,
+    "productCode": "SLED-01954",
+    "region": "Europe",
+    "title": "Gex: Deep Cover Gecko",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/gexdeepcovergecko-1.jpg"
+    ],
+    "notes": "It came in a generic case or sleeve."
+  },
+  {
+    "id": 127,
+    "productCode": "9782629",
+    "region": "Europe",
+    "title": "Ridge Racer Type 4 Collectors Demo",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/rrt4collectors-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/rrt4collectors-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/rrt4collectors-1.jpg"
+    ],
+    "notes": "The demo came with Point Blank 2. In Europe the demo came in a sleeve with the same design as Winter Releases '98, including the catalog number, but it is a new printing with slightly different colors. The Australian edition of the game came with a double tray, so no sleeve for the demo. The Australian edition was pressed domestically."
+  },
+  {
+    "id": 128,
+    "productCode": "SLED-02044",
+    "region": "Australia",
+    "title": "Star Wars: Episode I The Phantom Menace",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/phantommenace-aus-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/phantommenace-aus-2.jpg"
+    ],
+    "notes": "Included with an issue of Australian PlayStation."
+  },
+  {
+    "id": 129,
+    "productCode": "SLED-02045",
+    "region": "France",
+    "title": "Star Wars: Episode I La Menace Fantôme",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/phantommenace-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/phantommenace-fra-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/phantommenace-fra-3.jpg"
+    ],
+    "notes": "The demo was given out by La Vache Qui Rit, a brand of processed cheese products made by Fromageries Bel."
+  },
+  {
+    "id": 130,
+    "productCode": "SLED-02048",
+    "region": "Spain",
+    "title": "Star Wars: Episodio I La Amenaza Fantasma",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/phantommenace-spa-1.jpg"
+    ],
+    "notes": "It is not known whether the demo came in a sleeve or not."
+  },
+  {
+    "id": 131,
+    "productCode": "SLED-02054",
+    "region": "Europe",
+    "title": "Tony Hawk's Skateboarding",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/tonyhawksskateboarding-1.jpg"
+    ],
+    "notes": "The disc contains a playable demo."
+  },
+  {
+    "id": 132,
+    "productCode": "SCES-00867",
+    "region": "Europe",
+    "title": "Final Fantasy VIII",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-video-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-video-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-video-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-video-5.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-video-6.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-video-7.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-video-1.jpg"
+    ],
+    "notes": "The disc was included with Final Fantasy VII (Platinum) (1998). It contains two videos (Opening and Dancing Scene).",
+    "coupledGame": "Final Fantasy VII (Platinum)"
+  },
+  {
+    "id": 133,
+    "productCode": "SCES-00868",
+    "region": "France",
+    "title": "Final Fantasy VIII",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-video-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-video-fra-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-video-fra-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-video-1.jpg"
+    ],
+    "notes": "The disc was included with Final Fantasy VII (Platinum) (1998). It contains two videos (Opening and Dancing Scene).",
+    "coupledGame": "Final Fantasy VII (Platinum)"
+  },
+  {
+    "id": 134,
+    "productCode": "SCES-00869",
+    "region": "Germany",
+    "title": "Final Fantasy VIII",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-video-ger1-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-video-ger1-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-video-ger1-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-video-ger1-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-video-ger1-5.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-video-1.jpg"
+    ],
+    "notes": "The disc was included with Final Fantasy VII (Platinum) (1998). It contains two videos (Opening and Dancing Scene).",
+    "coupledGame": "Final Fantasy VII (Platinum)"
+  },
+  {
+    "id": 135,
+    "productCode": "SLED-02119",
+    "region": "Europe",
+    "title": "Croc 2",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/croc2-1.jpg"
+    ],
+    "notes": "It probably came in a generic white paper sleeve."
+  },
+  {
+    "id": 136,
+    "productCode": "SLED-02124",
+    "region": "Europe",
+    "title": "V-Rally 2",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/vrally2-1.jpg"
+    ],
+    "notes": "The disc loops a two minutes long English trailer."
+  },
+  {
+    "id": 137,
+    "productCode": "SLED-02125",
+    "region": "Europe",
+    "title": "Bugs Bunny Lost In Time",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/bugsbunnylostintime-1.jpg"
+    ],
+    "notes": "The disc contains a multilanguage demo and a rolling demo."
+  },
+  {
+    "id": 138,
+    "productCode": "SLED-02186",
+    "region": "Australia",
+    "title": "Silent Hill",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-aus-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-aus-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-aus-3.jpg"
+    ],
+    "notes": "The demo is a later build than the one included with Metal Gear Solid. It was included with Australian PlayStation issue 5 (09/1999), and with Joypad issue 88 (07-08/1999) in France in a thin, clear jewelcase without insert. It may also have been given out by PlayStation Plus in the UK as part of a phone-in campaign advertised in the magazine."
+  },
+  {
+    "id": 139,
+    "productCode": "SLED-02186",
+    "region": "France",
+    "title": "Silent Hill",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/silenthill-aus-3.jpg"
+    ],
+    "notes": "The demo is a later build than the one included with Metal Gear Solid. It was included with Australian PlayStation issue 5 (09/1999), and with Joypad issue 88 (07-08/1999) in France in a thin, clear jewelcase without insert. It may also have been given out by PlayStation Plus in the UK as part of a phone-in campaign advertised in the magazine."
+  },
+  {
+    "id": 140,
+    "productCode": "SLED-02252",
+    "region": "Europe",
+    "title": "Legacy Of Kain Soul Reaver",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/soulreaver-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/soulreaver-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/soulreaver-3.jpg"
+    ],
+    "notes": "The demo is the same as released on multiple sampler discs."
+  },
+  {
+    "id": 141,
+    "productCode": "9857921",
+    "region": "Europe",
+    "title": "Final Fantasy VIII",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-english-1.jpg"
+    ],
+    "notes": "The European/ British disc-only edition was probably distributed by Squaresoft outside of the official magazines. The Australian edition came with issue 28 together with the regular numbered demo, Official Australian PlayStation Magazine 28.",
+    "coupledGame": "Final Fantasy VIII ENGLISH"
+  },
+  {
+    "id": 142,
+    "productCode": "9857921",
+    "region": "UK",
+    "title": "Final Fantasy VIII",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-opmuk-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-opmuk-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-opmuk-3.jpg"
+    ],
+    "notes": "The European/ British disc-only edition was probably distributed by Squaresoft outside of the official magazines. The Australian edition came with issue 28 together with the regular numbered demo, Official Australian PlayStation Magazine 28.",
+    "coupledGame": "Official UK PlayStation Magazine Final Fantasy VIII Disc"
+  },
+  {
+    "id": 143,
+    "productCode": "711719857921",
+    "region": "Australia",
+    "title": "Final Fantasy VIII",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-opmaus-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-opmaus-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-opmaus-3.jpg"
+    ],
+    "notes": "The European/ British disc-only edition was probably distributed by Squaresoft outside of the official magazines. The Australian edition came with issue 28 together with the regular numbered demo, Official Australian PlayStation Magazine 28.",
+    "coupledGame": "Official Australian PlayStation Magazine Final Fantasy VIII"
+  },
+  {
+    "id": 144,
+    "productCode": "SLED-02259",
+    "region": "France",
+    "title": "Final Fantasy VIII Français",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-opmfra-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-opmfra-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-opmfra-3.jpg"
+    ],
+    "notes": "Included with a special issue of or as a second disc with a regular issue of the official French PlayStation magazine. The demo is in French."
+  },
+  {
+    "id": 145,
+    "productCode": "SLED-02262",
+    "region": "Spain",
+    "title": "Final Fantasy VIII",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-opmspa-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-opmspa-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/ffviii-opmspa-3.jpg"
+    ],
+    "notes": "Included with a special issue of or as a second disc with a regular issue of the official Spanish PlayStation magazine. The demo is in Spanish."
+  },
+  {
+    "id": 146,
+    "productCode": "SLED-02300",
+    "region": "Europe",
+    "title": "Sled Storm",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/sledstorm-1.jpg"
+    ],
+    "notes": "No sleeve."
+  },
+  {
+    "id": 147,
+    "productCode": "SLED-02314",
+    "region": "Europe",
+    "title": "Fighting Force 2",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/fightingforce2-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/fightingforce2-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/fightingforce2-3.jpg"
+    ],
+    "notes": "The disc contains a rolling demo and a playable demo."
+  },
+  {
+    "id": 148,
+    "productCode": "SLED-02416",
+    "region": "Europe",
+    "title": "Disney/Pixar's Toy Story 2: Buzz Lightyear To The Rescue",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/toystory2-1.jpg"
+    ],
+    "notes": "The disc contains a playable demo."
+  },
+  {
+    "id": 149,
+    "productCode": "XTOM4XFR14",
+    "region": "France",
+    "title": "Tomb Raider: The Last Revelation",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/trtlr-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/trtlr-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/trtlr-1.jpg"
+    ],
+    "notes": "The demo is similar to the demo included with Euro Demo 52 and many other samplers, but with some small differences such as sounds. The disc may have been distributed in other contries without a sleeve.",
+    "coupledGame": "Tomb Raider La Revelation Finale"
+  },
+  {
+    "id": 150,
+    "productCode": "XTOM4XEN14",
+    "region": "UK",
+    "title": "Tomb Raider: The Last Revelation",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/trtlr-uk-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/trtlr-uk-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/trtlr-1.jpg"
+    ],
+    "notes": "The demo is similar to the demo included with Euro Demo 52 and many other samplers, but with some small differences such as sounds. The disc may have been distributed in other contries without a sleeve.",
+    "coupledGame": "Tomb Raider The Last Revelation"
+  },
+  {
+    "id": 151,
+    "productCode": "SLED-02435",
+    "region": "Europe",
+    "title": "40 Winks",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/40winks-1.jpg"
+    ],
+    "notes": "The disc contains a playable demo. It came with a sleeve not pictured here."
+  },
+  {
+    "id": 152,
+    "productCode": "SLED-02450",
+    "region": "Europe",
+    "title": "No Fear Downhill Mountain Biking Demo",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/nofear-1.jpg"
+    ],
+    "notes": "It probably came in a slimline case."
+  },
+  {
+    "id": 153,
+    "productCode": "SLED-02539",
+    "region": "Europe",
+    "title": "Music 2000 Demo",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/music2000-1.jpg"
+    ],
+    "notes": "No sleeve."
+  },
+  {
+    "id": 154,
+    "productCode": "SLED-02541",
+    "region": "Europe",
+    "title": "Resident Evil 3 Nemesis",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/residentevil3-1.jpg"
+    ],
+    "notes": "It came in a clear slimline case. It was sent to shops."
+  },
+  {
+    "id": 155,
+    "productCode": "SLED-02576",
+    "region": "UK",
+    "title": "Southpark Luv Shack",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/spcls-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/spcls-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/spcls-3.jpg"
+    ],
+    "notes": "The full title of the game is South Park Chef's Luv Shack. It contains two playable mini-games."
+  },
+  {
+    "id": 156,
+    "productCode": "SLED-02604",
+    "region": "Europe",
+    "title": "Discworld Noir",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/shadowmaster-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/discworldnoir-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/discworldnoir-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/discworldnoir-3.jpg"
+    ],
+    "notes": "The playable demo disc came in a cardsleeve."
+  },
+  {
+    "id": 157,
+    "productCode": "SLES",
+    "region": "France",
+    "title": "Suikoden II",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/suikodenii-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/suikodenii-fra-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/suikodenii-fra-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/suikodenii-fra-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/suikodenii-fra-5.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/suikodenii-fra-6.jpg"
+    ],
+    "notes": "Included with Vandal Hearts II. Other than the scanned items, the French edition also came with a game manual and a registration card.",
+    "coupledGame": "Vandal Hearts II"
+  },
+  {
+    "id": 158,
+    "productCode": "SLES",
+    "region": "Italy",
+    "title": "Suikoden II",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/suikodenii-it-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/suikodenii-it-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/suikodenii-it-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/suikodenii-it-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/suikodenii-it-5.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/suikodenii-it-6.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/suikodenii-it-7.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/suikodenii-fra-6.jpg"
+    ],
+    "notes": "Included with Vandal Hearts II. Other than the scanned items, the French edition also came with a game manual and a registration card.",
+    "coupledGame": "Vandal Hearts II"
+  },
+  {
+    "id": 159,
+    "productCode": "SCED-02818",
+    "region": "Spain",
+    "title": "Medievil 2 ITALIANO, ESPAÑOL, PORTUGUÊS",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/medievil2-spa-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/medievil2-spa-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/medievil2-spa-3.jpg"
+    ],
+    "notes": "Included with a special issue of or as an extra disc with the official Spanish magazine."
+  },
+  {
+    "id": 160,
+    "productCode": "SLED-02869",
+    "region": "UK",
+    "title": "Galerians",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/galerians-1.jpg"
+    ],
+    "notes": "The disc came with a £5 off voucher for purchasing the game at EB or Game."
+  },
+  {
+    "id": 161,
+    "productCode": "SLED-02879/ANZ",
+    "region": "Australia",
+    "title": "Tony Hawk's Pro Skater 2",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/tonyhawks2-aus-1.jpg"
+    ],
+    "notes": "Australian pressing. No picture sleeve."
+  },
+  {
+    "id": 162,
+    "productCode": "SCES-02380",
+    "region": "France",
+    "title": "Gran Turismo 2 Un CD Bonus",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/gt2bonus-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/gt2bonus-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/gt2bonus-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/gt2bonus-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/gt2bonus-5.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/gt2bonus-6.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/gt2bonus-7.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/gt2bonus-8.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/gt2bonus-9.jpg"
+    ],
+    "notes": "The disc was included with the game in France. It contains save data. The game also came with a manual and a driving guide.",
+    "coupledGame": "Gran Turismo 2"
+  },
+  {
+    "id": 163,
+    "productCode": "SLED-03048",
+    "region": "Europe",
+    "title": "Tony Hawk's Pro Skater 2",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/tonyhawks2-1.jpg"
+    ],
+    "notes": "No sleeve."
+  },
+  {
+    "id": 164,
+    "productCode": "SLED-03054",
+    "region": "Europe",
+    "title": "Hogs Of War",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/hogsofwar-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/hogsofwar-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/hogsofwar-3.jpg"
+    ],
+    "notes": "Contains singleplayer and multiplayer demos."
+  },
+  {
+    "id": 165,
+    "productCode": "SCED-03077",
+    "region": "Europe",
+    "title": "In Cold Blood",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/incoldblood-1.jpg"
+    ],
+    "notes": "The disc contains a playable demo."
+  },
+  {
+    "id": 166,
+    "productCode": "SLED-03100",
+    "region": "Europe",
+    "title": "RC Revenge",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/rcrevenge-1.jpg"
+    ],
+    "notes": "The disc has one playable level."
+  },
+  {
+    "id": 167,
+    "productCode": "SLED-03110",
+    "region": "UK",
+    "title": "Driver 2",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/driver2-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/driver2-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/driver2-3.jpg"
+    ],
+    "notes": "It contains a video and a playable demo."
+  },
+  {
+    "id": 168,
+    "productCode": "SLED-03115",
+    "region": "Europe",
+    "title": "Dave Mirra Free Style BMX",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/davemirra-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/davemirra-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/davemirra-3.jpg"
+    ],
+    "notes": "Came in a slimline case."
+  },
+  {
+    "id": 169,
+    "productCode": "SCED-03199",
+    "region": "UK",
+    "title": "This Is Football 2 ENG",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/tif2-eng-1.jpg"
+    ],
+    "notes": "The disc came in a sleeve labeled SCES 03199."
+  },
+  {
+    "id": 170,
+    "productCode": "SCED-03202",
+    "region": "France",
+    "title": "Le Monde Des Bleus 2 FRE",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/tif2-fra-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/tif2-fra-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/tif2-fra-3.jpg"
+    ],
+    "notes": "French version of This Is Football 2."
+  },
+  {
+    "id": 171,
+    "productCode": "SCED-03204",
+    "region": "Italy",
+    "title": "This Is Football 2 ITA",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/tif2-it-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/tif2-it-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/tif2-it-3.jpg"
+    ],
+    "notes": "Italian edition."
+  },
+  {
+    "id": 172,
+    "productCode": "SCED-03205",
+    "region": "Spain",
+    "title": "Esto Es Futbol 2 SPA",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/tif2-spa-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/tif2-spa-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/tif2-spa-3.jpg"
+    ],
+    "notes": "Spanish version of This Is Football 2."
+  },
+  {
+    "id": 173,
+    "productCode": "SLED-03212",
+    "region": "Europe",
+    "title": "Incredible Crisis",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/incrediblecrisis-1.jpg"
+    ],
+    "notes": "The disc contains a trailer and a multi-language demo. It came in a slimline case."
+  },
+  {
+    "id": 174,
+    "productCode": "SLED-03277",
+    "region": "UK",
+    "title": "MTV Sports: Pure Ride",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/mtvpureride-1.jpg"
+    ],
+    "notes": "Playable demo."
+  },
+  {
+    "id": 175,
+    "productCode": "SCED-03358",
+    "region": "Germany",
+    "title": "Das Dschungelbuch - Groove Party",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/dschungelbuch-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/dschungelbuch-2.jpg"
+    ],
+    "notes": "The demo is two-player only. My copy came with a German manual, whether it originally came with it is not certain."
+  },
+  {
+    "id": 176,
+    "productCode": "SCED-03516",
+    "region": "Europe",
+    "title": "C-12: Final Resistance",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/c12-ver1-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/c12-ver1-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/c12-ver1-3.jpg"
+    ],
+    "notes": "The disc contains a playable and a rolling demo. In Italy it came with a CD-ROM magazine. There were two SIAE stickers on the gatefold sleeve."
+  },
+  {
+    "id": 177,
+    "productCode": "SCED-03516",
+    "region": "Italy",
+    "title": "C-12: Final Resistance",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/c12-ver1-shot-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/c12-ver1-shot-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/c12-ver1-shot-3.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/c12-ver1-shot-4.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/c12-ver1-shot-5.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/c12-ver1-3.jpg"
+    ],
+    "notes": "The disc contains a playable and a rolling demo. In Italy it came with a CD-ROM magazine. There were two SIAE stickers on the gatefold sleeve.",
+    "coupledGame": "Shot! Magazine Numero 11 Anno IV Giugno 2001"
+  },
+  {
+    "id": 178,
+    "productCode": "SCED-03636",
+    "region": "Sweden",
+    "title": "Disney's Atlantis, The Lost Empire",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/atlantis-swe-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/atlantis-swe-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/atlantis-swe-3.jpg"
+    ],
+    "notes": "The demo came in a cardsleeve."
+  },
+  {
+    "id": 179,
+    "productCode": "SCED-03637",
+    "region": "France",
+    "title": "Disney Atlantide l'Empire Perdu FRA",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/atlantide-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/atlantide-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/atlantide-3.jpg"
+    ],
+    "notes": "Contains a playable demo and a movie trailer."
+  },
+  {
+    "id": 180,
+    "productCode": "SLED-03679",
+    "region": "Europe",
+    "title": "The Italian Job",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/italianjob-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/italianjob-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/italianjob-3.jpg"
+    ],
+    "notes": "Came in a slimline case."
+  },
+  {
+    "id": 181,
+    "productCode": "SCED-03780",
+    "region": "Spain",
+    "title": "Syphon Filter 3 Sentencia Final SPA",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/sf3spa-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/sf3spa-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/sf3spa-3.jpg"
+    ],
+    "notes": "The demo came a cardboard sleeve."
+  },
+  {
+    "id": 182,
+    "productCode": "SCED-03811",
+    "region": "Europe",
+    "title": "Disney · Pixar Monsters, Inc. Scare Island",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/monstersinc-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/monstersinc-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/monstersinc-3.jpg"
+    ],
+    "notes": "The disc also contains a trailer for the film. The copy scanned has a sticker in Finnish stating that the demo is in English, but the final game will be available in Finnish."
+  },
+  {
+    "id": 183,
+    "productCode": "SCED-03883",
+    "region": "Europe",
+    "title": "Disney's Peter Pan - Adventures In Never Land",
+    "games": [],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/dedicated/peterpan-1.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/peterpan-2.jpg",
+      "https://crimson-ceremony.net/demopals/dedicated/peterpan-3.jpg"
+    ],
+    "notes": "The demo came in a cardsleeve."
+  }
+]

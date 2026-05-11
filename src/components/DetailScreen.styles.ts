@@ -63,6 +63,46 @@ export const styles = StyleSheet.create({
 imagePlaceholder: {
     opacity: 0.4,
   },
+  coupledBlock: {
+    marginBottom: 12,
+    padding: 12,
+    backgroundColor: colors.surface,
+    borderRadius: 8,
+    borderLeftWidth: 3,
+    borderLeftColor: '#c0392b',
+  },
+  coupledLabel: {
+    fontSize: 11,
+    fontWeight: '700',
+    color: '#e07070',
+    letterSpacing: 2,
+    marginBottom: 6,
+  },
+  coupledGame: {
+    fontSize: 14,
+    color: colors.text,
+    lineHeight: 21,
+  },
+  notesBlock: {
+    marginBottom: 24,
+    padding: 12,
+    backgroundColor: colors.surface,
+    borderRadius: 8,
+    borderLeftWidth: 3,
+    borderLeftColor: colors.accent,
+  },
+  notesLabel: {
+    fontSize: 11,
+    fontWeight: '700',
+    color: colors.textMuted,
+    letterSpacing: 2,
+    marginBottom: 6,
+  },
+  notesText: {
+    fontSize: 14,
+    color: colors.text,
+    lineHeight: 21,
+  },
   games: {
     gap: 20,
   },

@@ -1,0 +1,595 @@
+[
+  {
+    "id": 1,
+    "productCode": "SLED-01553",
+    "region": "UK",
+    "title": "Station Demo Disc One",
+    "games": [
+      {
+        "title": "ISS Pro '98",
+        "category": "playable"
+      },
+      {
+        "title": "Ninja",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider II",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider III",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/station/uk01-1.jpg",
+      "https://crimson-ceremony.net/demopals/station/uk01-2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "productCode": "SLED-01553",
+    "region": "UK",
+    "title": "Total PlayStation",
+    "games": [
+      {
+        "title": "ISS Pro '98",
+        "category": "playable"
+      },
+      {
+        "title": "Ninja",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider II",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider III",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/station/uk01-totalps-1.jpg",
+      "https://crimson-ceremony.net/demopals/station/uk01-2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "productCode": "SLED-01634",
+    "region": "UK",
+    "title": "Oddworld: Abe's Exoddus/ Oddworld: Abe's Oddysee/ B-Movie/ Dead Ball Zone",
+    "games": [
+      {
+        "title": "B-Movie",
+        "category": "playable"
+      },
+      {
+        "title": "Dead Ball Zone",
+        "category": "playable"
+      },
+      {
+        "title": "Oddworld: Abe's Exoddus",
+        "category": "playable"
+      },
+      {
+        "title": "Oddworld: Abe's Oddysee",
+        "category": "playable"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/station/uk02-1.jpg",
+      "https://crimson-ceremony.net/demopals/station/uk02-2.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "productCode": "SLED-01696",
+    "region": "UK",
+    "title": "Station Demo Disc Three",
+    "games": [
+      {
+        "title": "Actua Golf 3",
+        "category": "playable"
+      },
+      {
+        "title": "Actua Soccer 3",
+        "category": "playable"
+      },
+      {
+        "title": "Actua Tennis",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "trailer"
+      },
+      {
+        "title": "Virtual Lara",
+        "category": "other"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/station/uk03-1.jpg",
+      "https://crimson-ceremony.net/demopals/station/uk03-2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "productCode": "SLED-01696",
+    "region": "UK",
+    "title": "Total PlayStation",
+    "games": [
+      {
+        "title": "Actua Golf 3",
+        "category": "playable"
+      },
+      {
+        "title": "Actua Soccer 3",
+        "category": "playable"
+      },
+      {
+        "title": "Actua Tennis",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "trailer"
+      },
+      {
+        "title": "Virtual Lara",
+        "category": "other"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/station/uk03-totalps-1.jpg",
+      "https://crimson-ceremony.net/demopals/station/uk03-2.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "productCode": "SLED-01696",
+    "region": "Australia",
+    "title": "Australian PlayStation May Issue 01",
+    "games": [
+      {
+        "title": "Actua Golf 3",
+        "category": "playable"
+      },
+      {
+        "title": "Actua Soccer 3",
+        "category": "playable"
+      },
+      {
+        "title": "Actua Tennis",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider 3",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "trailer"
+      },
+      {
+        "title": "Virtual Lara",
+        "category": "other"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/station/aus03-1.jpg",
+      "https://crimson-ceremony.net/demopals/station/uk03-2.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "productCode": "SLED-01731",
+    "region": "UK",
+    "title": "Station Demo Disc Four",
+    "games": [
+      {
+        "title": "Akuji The Heartless",
+        "category": "playable"
+      },
+      {
+        "title": "F1 '98",
+        "category": "playable"
+      },
+      {
+        "title": "Music",
+        "category": "playable"
+      },
+      {
+        "title": "The Unholy War",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA 2",
+        "category": "playable"
+      },
+      {
+        "title": "Brian Lara Cricket",
+        "category": "trailer"
+      },
+      {
+        "title": "TOCA 2",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/station/uk04-1.jpg",
+      "https://crimson-ceremony.net/demopals/station/uk04-2.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "productCode": "SLED-01731",
+    "region": "Australia",
+    "title": "Australian PlayStation July Issue 03",
+    "games": [
+      {
+        "title": "Akuji The Heartless",
+        "category": "playable"
+      },
+      {
+        "title": "F1 '98",
+        "category": "playable"
+      },
+      {
+        "title": "Music",
+        "category": "playable"
+      },
+      {
+        "title": "The Unholy War",
+        "category": "playable"
+      },
+      {
+        "title": "TOCA 2",
+        "category": "playable"
+      },
+      {
+        "title": "Brian Lara Cricket",
+        "category": "trailer"
+      },
+      {
+        "title": "TOCA 2",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/station/aus04-1.jpg",
+      "https://crimson-ceremony.net/demopals/station/uk04-2.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "productCode": "SLED-01782",
+    "region": "UK",
+    "title": "Station Demo Disc Five",
+    "games": [
+      {
+        "title": "Max Power Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Michael Owen's World League Soccer 99",
+        "category": "playable"
+      },
+      {
+        "title": "Player Manager Season 98-99",
+        "category": "playable"
+      },
+      {
+        "title": "S.C.A.R.S.",
+        "category": "playable"
+      },
+      {
+        "title": "Shadow Gunner",
+        "category": "playable"
+      },
+      {
+        "title": "Gex 3: Deep Cover Gecko",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/station/uk05-1.jpg",
+      "https://crimson-ceremony.net/demopals/station/uk05-2.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "productCode": "SLED-01782",
+    "region": "Australia",
+    "title": "Australian PlayStation August Issue 04",
+    "games": [
+      {
+        "title": "Max Power Racing",
+        "category": "playable"
+      },
+      {
+        "title": "Michael Owen's World League Soccer 99",
+        "category": "playable"
+      },
+      {
+        "title": "Player Manager Season 98-99",
+        "category": "playable"
+      },
+      {
+        "title": "S.C.A.R.S.",
+        "category": "playable"
+      },
+      {
+        "title": "Shadow Gunner",
+        "category": "playable"
+      },
+      {
+        "title": "Gex 3: Deep Cover Gecko",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/station/aus05-1.jpg",
+      "https://crimson-ceremony.net/demopals/station/uk05-2.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "productCode": "SLED-01895",
+    "region": "UK",
+    "title": "Station 6",
+    "games": [
+      {
+        "title": "Motorhead",
+        "category": "playable"
+      },
+      {
+        "title": "Premium Manager '99",
+        "category": "playable"
+      },
+      {
+        "title": "Rival Schools",
+        "category": "playable"
+      },
+      {
+        "title": "Viva Football",
+        "category": "playable"
+      },
+      {
+        "title": "Warzone 2100",
+        "category": "playable"
+      },
+      {
+        "title": "Legacy of Kain: Soul Reaver",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/station/uk06-1.jpg",
+      "https://crimson-ceremony.net/demopals/station/uk06-2.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "productCode": "SLED-01969",
+    "region": "UK",
+    "title": "Station Demo Disc 7",
+    "games": [
+      {
+        "title": "Apocalypse",
+        "category": "playable"
+      },
+      {
+        "title": "G-Darius",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "playable"
+      },
+      {
+        "title": "Rugrats",
+        "category": "playable"
+      },
+      {
+        "title": "Vigilante 8",
+        "category": "playable"
+      },
+      {
+        "title": "Diver's Dream",
+        "category": "trailer"
+      },
+      {
+        "title": "Kensei",
+        "category": "trailer"
+      },
+      {
+        "title": "Shao Lin",
+        "category": "trailer"
+      },
+      {
+        "title": "Silent Hill",
+        "category": "trailer"
+      },
+      {
+        "title": "Trap Runner",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/station/uk07-1.jpg",
+      "https://crimson-ceremony.net/demopals/station/uk07-3.jpg",
+      "https://crimson-ceremony.net/demopals/station/uk07-2.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "productCode": "SLED-01969",
+    "region": "Australia",
+    "title": "Australian PlayStation June Issue 02",
+    "games": [
+      {
+        "title": "Apocalypse",
+        "category": "playable"
+      },
+      {
+        "title": "G-Darius",
+        "category": "playable"
+      },
+      {
+        "title": "Metal Gear Solid",
+        "category": "playable"
+      },
+      {
+        "title": "Rugrats",
+        "category": "playable"
+      },
+      {
+        "title": "Vigilante 8",
+        "category": "playable"
+      },
+      {
+        "title": "Diver's Dream",
+        "category": "trailer"
+      },
+      {
+        "title": "Kensei",
+        "category": "trailer"
+      },
+      {
+        "title": "Shao Lin",
+        "category": "trailer"
+      },
+      {
+        "title": "Silent Hill",
+        "category": "trailer"
+      },
+      {
+        "title": "Trap Runner",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/station/aus07-1.jpg",
+      "https://crimson-ceremony.net/demopals/station/aus07-2.jpg",
+      "https://crimson-ceremony.net/demopals/station/uk07-2.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "productCode": "SLED-02033",
+    "region": "UK",
+    "title": "Station 8",
+    "games": [
+      {
+        "title": "Eliminator",
+        "category": "playable"
+      },
+      {
+        "title": "Gex 3: Deep Cover Gecko",
+        "category": "playable"
+      },
+      {
+        "title": "Retro Force",
+        "category": "playable"
+      },
+      {
+        "title": "Tomb Raider II",
+        "category": "playable"
+      },
+      {
+        "title": "UEFA Champions League",
+        "category": "playable"
+      },
+      {
+        "title": "Bomberman Fantasy Race",
+        "category": "trailer"
+      },
+      {
+        "title": "Marvel Super Heroes Vs Street Fighter",
+        "category": "trailer"
+      },
+      {
+        "title": "Megaman Legends",
+        "category": "trailer"
+      },
+      {
+        "title": "Megaman X4",
+        "category": "trailer"
+      },
+      {
+        "title": "R-Types",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/station/uk08-1.jpg",
+      "https://crimson-ceremony.net/demopals/station/uk08-2.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "productCode": "SLED-02077",
+    "region": "UK",
+    "title": "Station 9",
+    "games": [
+      {
+        "title": "Forsaken",
+        "category": "playable"
+      },
+      {
+        "title": "Future Cop: LAPD",
+        "category": "playable"
+      },
+      {
+        "title": "KKND",
+        "category": "playable"
+      },
+      {
+        "title": "Puma Street Soccer",
+        "category": "playable"
+      },
+      {
+        "title": "Total Drivin'",
+        "category": "playable"
+      },
+      {
+        "title": "Big Air",
+        "category": "trailer"
+      },
+      {
+        "title": "Need For Speed",
+        "category": "trailer"
+      },
+      {
+        "title": "Shadow Man",
+        "category": "trailer"
+      },
+      {
+        "title": "Street Sk8er",
+        "category": "trailer"
+      }
+    ],
+    "imageUrls": [
+      "https://crimson-ceremony.net/demopals/station/uk09-1.jpg"
+    ]
+  }
+]

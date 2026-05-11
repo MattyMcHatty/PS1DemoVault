@@ -75,17 +75,19 @@ export function MenuDrawer({ visible, activeCollection, onSelect, onClose }: Pro
             {DISC_COLLECTIONS.map(collection => {
               const isActive = collection.id === activeCollection;
               return (
-                <TouchableOpacity
-                  key={collection.id}
-                  style={[styles.item, isActive && styles.itemActive]}
-                  onPress={() => { onSelect(collection); onClose(); }}
-                  activeOpacity={0.7}
-                >
-                  <Text style={styles.itemIcon}>📀</Text>
-                  <Text style={[styles.itemLabel, isActive && styles.itemLabelActive]}>
-                    {collection.label}
-                  </Text>
-                </TouchableOpacity>
+                <View key={collection.id}>
+                  {collection.id === 'master' && <View style={styles.divider} />}
+                  <TouchableOpacity
+                    style={[styles.item, isActive && styles.itemActive]}
+                    onPress={() => { onSelect(collection); onClose(); }}
+                    activeOpacity={0.7}
+                  >
+                    <Text style={styles.itemIcon}>📀</Text>
+                    <Text style={[styles.itemLabel, isActive && styles.itemLabelActive]}>
+                      {collection.label}
+                    </Text>
+                  </TouchableOpacity>
+                </View>
               );
             })}
           </Animated.View>

@@ -56,4 +56,118 @@ export const styles = StyleSheet.create({
     height: 1,
     backgroundColor: colors.border,
   },
+  gridIcon: {
+    gap: 4,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  gridIconRow: {
+    flexDirection: 'row',
+    gap: 4,
+  },
+  gridDot: {
+    width: 8,
+    height: 8,
+    borderRadius: 2,
+    backgroundColor: colors.textMuted,
+  },
+  gridRow: {
+    paddingHorizontal: 12,
+  },
+  contentArea: {
+    flex: 1,
+  },
+  searchOverlay: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    bottom: 0,
+    backgroundColor: colors.background,
+  },
+  searchPrompt: {
+    marginTop: 48,
+    textAlign: 'center',
+    fontSize: 14,
+    color: colors.textMuted,
+  },
+  searchResultItem: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+    paddingHorizontal: 16,
+    paddingVertical: 10,
+  },
+  searchResultImage: {
+    width: 80,
+    height: 63,
+    borderRadius: 6,
+    backgroundColor: colors.border,
+  },
+  searchResultImageEmpty: {
+    opacity: 0.3,
+  },
+  searchResultText: {
+    flex: 1,
+    gap: 4,
+  },
+  searchResultTitle: {
+    fontSize: 14,
+    fontWeight: '600',
+    color: colors.text,
+    lineHeight: 20,
+  },
+  searchResultMeta: {
+    fontSize: 12,
+    color: colors.textMuted,
+  },
+  headerRight: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 2,
+  },
+  iconButton: {
+    width: 36,
+    height: 40,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  searchIconText: {
+    fontSize: 22,
+    color: colors.textMuted,
+    lineHeight: 26,
+  },
+  searchIconActive: {
+    color: colors.accent,
+  },
+  searchBar: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 16,
+    paddingVertical: 8,
+    borderBottomWidth: 1,
+    borderBottomColor: colors.border,
+    gap: 8,
+  },
+  searchInput: {
+    flex: 1,
+    height: 40,
+    backgroundColor: colors.surface,
+    borderRadius: 8,
+    borderWidth: 1,
+    borderColor: colors.border,
+    paddingHorizontal: 12,
+    fontSize: 15,
+    color: colors.text,
+  },
+  searchClose: {
+    width: 32,
+    height: 32,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  searchCloseText: {
+    fontSize: 16,
+    color: colors.textMuted,
+  },
 });

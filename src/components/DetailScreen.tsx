@@ -63,6 +63,20 @@ export function DetailScreen({ disc, onBack }: Props) {
           )}
         </View>
 
+        {disc.coupledGame ? (
+          <View style={styles.coupledBlock}>
+            <Text style={styles.coupledLabel}>COUPLED WITH</Text>
+            <Text style={styles.coupledGame}>{disc.coupledGame}</Text>
+          </View>
+        ) : null}
+
+        {disc.notes ? (
+          <View style={styles.notesBlock}>
+            <Text style={styles.notesLabel}>NOTES</Text>
+            <Text style={styles.notesText}>{disc.notes}</Text>
+          </View>
+        ) : null}
+
         <View style={styles.games}>
           {[...grouped.entries()].map(([category, titles]) => (
             <View key={category} style={styles.categoryBlock}>

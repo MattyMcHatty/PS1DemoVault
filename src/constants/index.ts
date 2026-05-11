@@ -6,19 +6,23 @@ export const NULL_REGION = '__no_region__';
 export const STORAGE_KEY = 'collected_discs';
 
 export const REGION_FLAGS: Record<string, string> = {
-  All:       '🌍',
-  Australia: '🇦🇺',
-  Benelux:   '🇧🇪',
-  Denmark:   '🇩🇰',
-  Europe:    '🇪🇺',
-  Finland:   '🇫🇮',
-  France:    '🇫🇷',
-  Germany:   '🇩🇪',
-  Ireland:   '🇮🇪',
-  Italy:     '🇮🇹',
-  Poland:    '🇵🇱',
-  Spain:     '🇪🇸',
-  UK:        '🇬🇧',
+  All:         '🌍',
+  Australia:   '🇦🇺',
+  Benelux:     '🇧🇪',
+  Denmark:     '🇩🇰',
+  Europe:      '🇪🇺',
+  Finland:     '🇫🇮',
+  France:      '🇫🇷',
+  Germany:     '🇩🇪',
+  Holland:     '🇳🇱',
+  Ireland:     '🇮🇪',
+  Italy:       '🇮🇹',
+  Poland:      '🇵🇱',
+  Portugal:    '🇵🇹',
+  Scandinavia: '🇸🇪',
+  Spain:       '🇪🇸',
+  Sweden:      '🇸🇪',
+  UK:          '🇬🇧',
 };
 
 export const REGIONS: string[] = [
@@ -45,6 +49,11 @@ export const DISC_COLLECTIONS: DiscCollection[] = [
   { id: 'opm-specials', label: 'OPM Specials' },
   { id: 'essential',    label: 'Essential PlayStation' },
   { id: 'demo1',        label: 'Demo One' },
+  { id: 'registered',   label: 'Registered Users Demo' },
+  { id: 'station',      label: 'Station Magazine' },
+  { id: 'samplers',     label: 'Other Samplers' },
+  { id: 'dedicated',    label: 'Dedicated Demos' },
+  { id: 'master',       label: 'Master List' },
 ];
 
 export const CATEGORY_LABELS: Record<string, string> = {

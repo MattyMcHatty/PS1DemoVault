@@ -7,6 +7,8 @@ export type Disc = {
   title: string;
   imageUrls: string[];
   games: Game[];
+  notes?: string;
+  coupledGame?: string;
 };
 
 export type CollectionFilter = 'all' | 'collected' | 'not-collected';

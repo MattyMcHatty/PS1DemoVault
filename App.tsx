@@ -4,19 +4,26 @@ import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { DetailScreen } from './src/components/DetailScreen';
 import { DiscList } from './src/components/DiscList';
 import { SplashScreen } from './src/components/SplashScreen';
+import { StatsScreen } from './src/components/StatsScreen';
 import { Disc } from './src/types';
 
 function Root({ onReady }: { onReady: () => void }) {
   const [selectedDisc, setSelectedDisc] = useState<Disc | null>(null);
+  const [showStats, setShowStats] = useState(false);
+  const [selectedRegion, setSelectedRegion] = useState('UK');
+
+  const overlay = selectedDisc
+    ? <DetailScreen disc={selectedDisc} onBack={() => setSelectedDisc(null)} />
+    : showStats
+    ? <StatsScreen onBack={() => setShowStats(false)} selectedRegion={selectedRegion} onRegionChange={setSelectedRegion} />
+    : null;
 
   return (
     <View style={{ flex: 1 }}>
-      <View style={{ flex: 1, display: selectedDisc ? 'none' : 'flex' }}>
-        <DiscList onSelect={setSelectedDisc} onReady={onReady} />
+      <View style={{ flex: 1, display: overlay ? 'none' : 'flex' }}>
+        <DiscList onSelect={setSelectedDisc} onReady={onReady} onShowStats={() => setShowStats(true)} selectedRegion={selectedRegion} onRegionChange={setSelectedRegion} />
       </View>
-      {selectedDisc && (
-        <DetailScreen disc={selectedDisc} onBack={() => setSelectedDisc(null)} />
-      )}
+      {overlay}
     </View>
   );
 }

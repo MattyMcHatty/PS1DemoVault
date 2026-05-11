@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Modal, Pressable, Text, TouchableOpacity, View } from 'react-native';
+import { Modal, Pressable, ScrollView, Text, TouchableOpacity, View } from 'react-native';
 import { DropdownOption } from '../types';
 import { styles } from './Dropdown.styles';
 
@@ -30,26 +30,28 @@ export function Dropdown({ options, selected, onSelect, modalTitle }: Props) {
         onRequestClose={() => setOpen(false)}
       >
         <Pressable style={styles.modalOverlay} onPress={() => setOpen(false)}>
-          <View style={styles.modalSheet}>
+          <Pressable style={styles.modalSheet} onPress={() => {}}>
             <Text style={styles.modalTitle}>{modalTitle}</Text>
-            {options.map(opt => {
-              const active = opt.value === selected;
-              return (
-                <TouchableOpacity
-                  key={opt.value}
-                  style={[styles.option, active && styles.optionActive]}
-                  onPress={() => { onSelect(opt.value); setOpen(false); }}
-                  activeOpacity={0.7}
-                >
-                  <Text style={styles.optionIcon}>{opt.icon}</Text>
-                  <Text style={[styles.optionText, active && styles.optionTextActive]}>
-                    {opt.label}
-                  </Text>
-                  {active && <Text style={styles.optionTick}>✓</Text>}
-                </TouchableOpacity>
-              );
-            })}
-          </View>
+            <ScrollView bounces={false} keyboardShouldPersistTaps="handled">
+              {options.map(opt => {
+                const active = opt.value === selected;
+                return (
+                  <TouchableOpacity
+                    key={opt.value}
+                    style={[styles.option, active && styles.optionActive]}
+                    onPress={() => { onSelect(opt.value); setOpen(false); }}
+                    activeOpacity={0.7}
+                  >
+                    <Text style={styles.optionIcon}>{opt.icon}</Text>
+                    <Text style={[styles.optionText, active && styles.optionTextActive]}>
+                      {opt.label}
+                    </Text>
+                    {active && <Text style={styles.optionTick}>✓</Text>}
+                  </TouchableOpacity>
+                );
+              })}
+            </ScrollView>
+          </Pressable>
         </Pressable>
       </Modal>
     </View>

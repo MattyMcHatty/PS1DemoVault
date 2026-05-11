@@ -40,6 +40,7 @@ export const styles = StyleSheet.create({
     borderColor: colors.border,
     paddingVertical: 8,
     overflow: 'hidden',
+    maxHeight: '80%',
   },
   modalTitle: {
     fontSize: 12,

@@ -3786,25 +3786,6 @@
     ]
   },
   {
-    "id": 102,
-    "productCode": "SCED-01146",
-    "region": "Europe",
-    "title": "Tekken 3 Demo",
-    "games": [
-      {
-        "title": "Tekken 3",
-        "category": "playable"
-      },
-      {
-        "title": "Tekken 3",
-        "category": "trailer"
-      }
-    ],
-    "imageUrls": [
-      "https://crimson-ceremony.net/demopals/dedicated/tekken3demo-1.jpg"
-    ]
-  },
-  {
     "id": 103,
     "productCode": "SCED-01146",
     "region": "Benelux",

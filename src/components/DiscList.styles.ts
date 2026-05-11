@@ -100,7 +100,7 @@ export const styles = StyleSheet.create({
   },
   searchResultImage: {
     width: 80,
-    height: 63,
+    height: 80,
     borderRadius: 6,
     backgroundColor: colors.border,
   },
@@ -169,5 +169,50 @@ export const styles = StyleSheet.create({
   searchCloseText: {
     fontSize: 16,
     color: colors.textMuted,
+  },
+  reverseButton: {
+    width: 40,
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundColor: colors.surface,
+    borderWidth: 1,
+    borderColor: colors.borderLight,
+    borderRadius: 10,
+  },
+  reverseButtonActive: {
+    borderColor: colors.accent,
+    backgroundColor: 'rgba(0,67,156,0.15)',
+  },
+  reverseButtonText: {
+    fontSize: 18,
+    fontWeight: '900',
+    color: colors.textMuted,
+  },
+  reverseButtonTextActive: {
+    color: colors.accent,
+  },
+  statsBar: {
+    paddingHorizontal: 16,
+    paddingBottom: 8,
+    gap: 6,
+  },
+  statsText: {
+    fontSize: 12,
+    fontWeight: '600',
+    color: colors.textMuted,
+  },
+  progressTrack: {
+    height: 3,
+    backgroundColor: colors.border,
+    borderRadius: 2,
+    overflow: 'hidden',
+  },
+  progressFill: {
+    height: 3,
+    backgroundColor: colors.green,
+    borderRadius: 2,
+  },
+  progressFillGold: {
+    backgroundColor: colors.gold,
   },
 });

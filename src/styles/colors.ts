@@ -9,5 +9,6 @@ export const colors = {
   accent:      '#00439c',
   green:       '#22c55e',
   greenDark:   '#052e16',
+  gold:        '#FFD700',
   white:       '#ffffff',
 };

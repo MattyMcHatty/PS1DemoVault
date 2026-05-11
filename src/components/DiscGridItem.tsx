@@ -15,7 +15,7 @@ export function DiscGridItem({ item, collected, onToggle, onPress }: Props) {
   return (
     <TouchableOpacity style={styles.cell} onPress={onPress} activeOpacity={0.85}>
       {item.imageUrls.length > 0 ? (
-        <Image source={{ uri: item.imageUrls[0] }} style={styles.image} resizeMode="cover" />
+        <Image source={{ uri: item.imageUrls[0] }} style={styles.image} resizeMode="contain" />
       ) : (
         <View style={[styles.image, styles.imagePlaceholder]} />
       )}
@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
   },
   image: {
     width: '100%',
-    aspectRatio: 1.27,
+    aspectRatio: 1,
   },
   imagePlaceholder: {
     opacity: 0.4,

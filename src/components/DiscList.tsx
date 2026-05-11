@@ -52,17 +52,20 @@ const SEARCH_DATA: SearchDisc[] = Object.entries(COLLECTION_DATA).flatMap(
 type Props = {
   onSelect: (disc: Disc) => void;
   onReady: () => void;
+  onShowStats: () => void;
+  selectedRegion: string;
+  onRegionChange: (region: string) => void;
 };
 
-export function DiscList({ onSelect, onReady }: Props) {
+export function DiscList({ onSelect, onReady, onShowStats, selectedRegion, onRegionChange }: Props) {
   const insets = useSafeAreaInsets();
   const [activeCollection, setActiveCollection] = useState<DiscCollection>(DISC_COLLECTIONS[0]);
-  const [selectedRegion, setSelectedRegion] = useState('UK');
   const [collectionFilter, setCollectionFilter] = useState<CollectionFilter>('all');
   const [menuOpen, setMenuOpen] = useState(false);
   const [viewMode, setViewMode] = useState<'list' | 'grid'>('list');
   const [searchOpen, setSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
+  const [reversed, setReversed] = useState(false);
   const { collected, toggle, ready } = useCollected();
 
   useEffect(() => {
@@ -102,8 +105,20 @@ export function DiscList({ onSelect, onReady }: Props) {
     } else if (collectionFilter === 'not-collected') {
       result = result.filter(d => !collected.has(d.id));
     }
-    return result;
-  }, [activeData, selectedRegion, collectionFilter, collected]);
+    return reversed ? [...result].reverse() : result;
+  }, [activeData, selectedRegion, collectionFilter, collected, reversed]);
+
+  const stats = useMemo(() => {
+    let base = activeData;
+    if (selectedRegion === NULL_REGION) {
+      base = base.filter(d => d.region === null);
+    } else if (selectedRegion !== ALL_REGIONS) {
+      base = EUROPEAN_REGIONS.has(selectedRegion)
+        ? base.filter(d => d.region === selectedRegion || d.region === 'Europe')
+        : base.filter(d => d.region === selectedRegion);
+    }
+    return { total: base.length, collectedCount: base.filter(d => collected.has(d.id)).length };
+  }, [activeData, selectedRegion, collected]);
 
   const searchResults = useMemo((): SearchDisc[] => {
     const q = searchQuery.trim().toLowerCase();
@@ -117,7 +132,7 @@ export function DiscList({ onSelect, onReady }: Props) {
       : COLLECTION_DATA[collection.id] ?? (demos as Disc[]);
     const regionExists = selectedRegion === ALL_REGIONS ||
       newData.some(d => d.region === selectedRegion);
-    if (!regionExists) setSelectedRegion(ALL_REGIONS);
+    if (!regionExists) onRegionChange(ALL_REGIONS);
     setActiveCollection(collection);
     scrollToTop();
   };
@@ -189,6 +204,7 @@ export function DiscList({ onSelect, onReady }: Props) {
         visible={menuOpen}
         activeCollection={activeCollection.id}
         onSelect={handleCollectionSelect}
+        onShowStats={() => { onShowStats(); setMenuOpen(false); }}
         onClose={() => setMenuOpen(false)}
       />
       <View style={styles.contentArea}>
@@ -196,7 +212,7 @@ export function DiscList({ onSelect, onReady }: Props) {
           <Dropdown
             options={regionOptions}
             selected={selectedRegion}
-            onSelect={setSelectedRegion}
+            onSelect={onRegionChange}
             modalTitle="Filter by Region"
           />
           <Dropdown
@@ -205,6 +221,30 @@ export function DiscList({ onSelect, onReady }: Props) {
             onSelect={v => setCollectionFilter(v as CollectionFilter)}
             modalTitle="Filter by Collection"
           />
+          <TouchableOpacity
+            style={[styles.reverseButton, reversed && styles.reverseButtonActive]}
+            onPress={() => setReversed(r => !r)}
+            activeOpacity={0.7}
+          >
+            <Text style={[styles.reverseButtonText, reversed && styles.reverseButtonTextActive]}>
+              {reversed ? '↓' : '↑'}
+            </Text>
+          </TouchableOpacity>
+        </View>
+        <View style={styles.statsBar}>
+          <Text style={styles.statsText}>
+            {stats.collectedCount} / {stats.total} collected
+            {stats.total > 0 && stats.collectedCount === stats.total ? '  🥇' : ''}
+          </Text>
+          <View style={styles.progressTrack}>
+            <View
+              style={[
+                styles.progressFill,
+                stats.total > 0 && stats.collectedCount === stats.total && styles.progressFillGold,
+                { width: `${stats.total ? (stats.collectedCount / stats.total) * 100 : 0}%` },
+              ]}
+            />
+          </View>
         </View>
         <FlatList
           key={viewMode}
@@ -247,7 +287,7 @@ export function DiscList({ onSelect, onReady }: Props) {
                     activeOpacity={0.7}
                   >
                     {item.imageUrls.length > 0 ? (
-                      <Image source={{ uri: item.imageUrls[0] }} style={styles.searchResultImage} resizeMode="cover" />
+                      <Image source={{ uri: item.imageUrls[0] }} style={styles.searchResultImage} resizeMode="contain" />
                     ) : (
                       <View style={[styles.searchResultImage, styles.searchResultImageEmpty]} />
                     )}

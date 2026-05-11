@@ -1,15 +1,7 @@
 import React, { useRef, useMemo, useState, useEffect } from 'react';
 import { FlatList, Image, ListRenderItemInfo, StatusBar, Text, TextInput, TouchableOpacity, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
-import { ALL_REGIONS, COLLECTION_OPTIONS, DISC_COLLECTIONS, NULL_REGION, REGION_FLAGS } from '../constants';
-import demos from '../data/demos.json';
-import opmSpecials from '../data/opm-specials.json';
-import essential from '../data/essential.json';
-import demo1 from '../data/demo1.json';
-import registered from '../data/registered.json';
-import station from '../data/station.json';
-import samplers from '../data/samplers.json';
-import dedicated from '../data/dedicated.json';
+import { ALL_REGIONS, COLLECTION_DATA, COLLECTION_OPTIONS, DISC_COLLECTIONS, MASTER_DATA, NULL_REGION, REGION_FLAGS } from '../constants';
 import { useCollected } from '../hooks/useCollected';
 import { CollectionFilter, Disc, DiscCollection } from '../types';
 import { DiscGridItem } from './DiscGridItem';
@@ -23,23 +15,6 @@ const EUROPEAN_REGIONS = new Set([
   'Benelux', 'Denmark', 'Finland', 'France', 'Germany',
   'Ireland', 'Italy', 'Poland', 'Spain', 'UK',
 ]);
-
-const COLLECTION_DATA: Record<string, Disc[]> = {
-  'opm':          demos as Disc[],
-  'opm-specials': opmSpecials as Disc[],
-  'essential':    essential as Disc[],
-  'demo1':        demo1 as Disc[],
-  'registered':   registered as Disc[],
-  'station':      station as Disc[],
-  'samplers':     samplers as Disc[],
-  'dedicated':    dedicated as Disc[],
-};
-
-// Master list: all collections merged with offset IDs to avoid collisions.
-// Each collection gets a block of 100 000 IDs (colIndex * 100000 + original id).
-const MASTER_DATA: Disc[] = Object.values(COLLECTION_DATA).flatMap(
-  (discs, i) => discs.map(d => ({ ...d, id: (i + 1) * 100000 + d.id }))
-);
 
 type SearchDisc = Disc & { collectionLabel: string };
 const SEARCH_DATA: SearchDisc[] = Object.entries(COLLECTION_DATA).flatMap(
@@ -77,7 +52,7 @@ export function DiscList({ onSelect, onReady, onShowStats, selectedRegion, onReg
 
   const activeData = activeCollection.id === 'master'
     ? MASTER_DATA
-    : COLLECTION_DATA[activeCollection.id] ?? (demos as Disc[]);
+    : COLLECTION_DATA[activeCollection.id] ?? COLLECTION_DATA['opm'];
 
   const regionOptions = useMemo(() => {
     const hasNullRegion = activeData.some(d => d.region === null);
@@ -129,7 +104,7 @@ export function DiscList({ onSelect, onReady, onShowStats, selectedRegion, onReg
   const handleCollectionSelect = (collection: DiscCollection) => {
     const newData = collection.id === 'master'
       ? MASTER_DATA
-      : COLLECTION_DATA[collection.id] ?? (demos as Disc[]);
+      : COLLECTION_DATA[collection.id] ?? COLLECTION_DATA['opm'];
     const regionExists = selectedRegion === ALL_REGIONS ||
       newData.some(d => d.region === selectedRegion);
     if (!regionExists) onRegionChange(ALL_REGIONS);

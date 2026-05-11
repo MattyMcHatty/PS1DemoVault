@@ -8,31 +8,12 @@ import {
   View,
 } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
-import { ALL_REGIONS, DISC_COLLECTIONS, REGION_FLAGS } from '../constants';
-import dedicated from '../data/dedicated.json';
-import demo1 from '../data/demo1.json';
-import demos from '../data/demos.json';
-import essential from '../data/essential.json';
-import opmSpecials from '../data/opm-specials.json';
-import registered from '../data/registered.json';
-import samplers from '../data/samplers.json';
-import station from '../data/station.json';
+import { ALL_REGIONS, COLLECTION_DATA, DISC_COLLECTIONS, REGION_FLAGS } from '../constants';
 import { useCollected } from '../hooks/useCollected';
 import { colors } from '../styles/colors';
-import { Disc, DropdownOption } from '../types';
+import { DropdownOption } from '../types';
 import { Dropdown } from './Dropdown';
 import { styles } from './StatsScreen.styles';
-
-const COLLECTION_DATA: Record<string, Disc[]> = {
-  'opm':          demos as Disc[],
-  'opm-specials': opmSpecials as Disc[],
-  'essential':    essential as Disc[],
-  'demo1':        demo1 as Disc[],
-  'registered':   registered as Disc[],
-  'station':      station as Disc[],
-  'samplers':     samplers as Disc[],
-  'dedicated':    dedicated as Disc[],
-};
 
 // All unique regions across every collection, computed once at module level.
 const ALL_REGION_OPTIONS: DropdownOption[] = [

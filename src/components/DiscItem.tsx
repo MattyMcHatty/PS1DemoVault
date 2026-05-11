@@ -16,9 +16,11 @@ export function DiscItem({ item, collected, onToggle, onImagePress }: Props) {
   return (
     <View style={styles.row}>
       <Checkbox checked={collected} onPress={onToggle} />
-      <Text style={[styles.title, collected && styles.titleCollected]} numberOfLines={3}>
-        {item.title}
-      </Text>
+      <TouchableOpacity style={styles.titleWrap} onPress={onToggle} activeOpacity={0.6}>
+        <Text style={[styles.title, collected && styles.titleCollected]} numberOfLines={3}>
+          {item.title}
+        </Text>
+      </TouchableOpacity>
       <TouchableOpacity onPress={onImagePress} activeOpacity={0.8}>
         {item.imageUrls.length > 0 ? (
           <Image source={{ uri: item.imageUrls[0] }} style={styles.image} resizeMode="contain" />

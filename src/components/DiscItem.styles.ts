@@ -8,8 +8,11 @@ export const styles = StyleSheet.create({
     gap: 14,
     paddingVertical: 8,
   },
-  title: {
+  titleWrap: {
     flex: 1,
+    justifyContent: 'center',
+  },
+  title: {
     fontSize: 15,
     fontWeight: '600',
     color: colors.text,

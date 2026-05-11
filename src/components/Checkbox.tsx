@@ -1,5 +1,5 @@
 import React from 'react';
-import { Text, TouchableOpacity } from 'react-native';
+import { Pressable, Text } from 'react-native';
 import { styles } from './Checkbox.styles';
 
 type Props = {
@@ -9,12 +9,11 @@ type Props = {
 
 export function Checkbox({ checked, onPress }: Props) {
   return (
-    <TouchableOpacity
-      onPress={onPress}
+    <Pressable
+      onPressIn={onPress}
       style={[styles.checkbox, checked && styles.checkboxChecked]}
-      activeOpacity={0.7}
     >
       {checked && <Text style={styles.checkmark}>✓</Text>}
-    </TouchableOpacity>
+    </Pressable>
   );
 }

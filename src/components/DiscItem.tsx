@@ -1,5 +1,5 @@
 import React from 'react';
-import { Image, Text, TouchableOpacity, View } from 'react-native';
+import { Image, Pressable, Text, TouchableOpacity, View } from 'react-native';
 import { REGION_FLAGS } from '../constants';
 import { Disc } from '../types';
 import { Checkbox } from './Checkbox';
@@ -16,11 +16,11 @@ export function DiscItem({ item, collected, onToggle, onImagePress }: Props) {
   return (
     <View style={styles.row}>
       <Checkbox checked={collected} onPress={onToggle} />
-      <TouchableOpacity style={styles.titleWrap} onPress={onToggle} activeOpacity={0.6}>
+      <Pressable style={styles.titleWrap} onPressIn={onToggle}>
         <Text style={[styles.title, collected && styles.titleCollected]} numberOfLines={3}>
           {item.title}
         </Text>
-      </TouchableOpacity>
+      </Pressable>
       <TouchableOpacity onPress={onImagePress} activeOpacity={0.8}>
         {item.imageUrls.length > 0 ? (
           <Image source={{ uri: item.imageUrls[0] }} style={styles.image} resizeMode="contain" />

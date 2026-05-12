@@ -1,7 +1,7 @@
 import React, { useRef, useMemo, useState, useEffect } from 'react';
 import { FlatList, Image, ListRenderItemInfo, StatusBar, Text, TextInput, TouchableOpacity, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
-import { ALL_REGIONS, COLLECTION_DATA, COLLECTION_OPTIONS, DISC_COLLECTIONS, MASTER_DATA, NULL_REGION, REGION_FLAGS } from '../constants';
+import { ALL_REGIONS, COLLECTION_DATA, COLLECTION_OPTIONS, DISC_COLLECTIONS, EUROPEAN_REGIONS, MASTER_DATA, NULL_REGION, REGION_FLAGS } from '../constants';
 import { useCollected } from '../hooks/useCollected';
 import { CollectionFilter, Disc, DiscCollection } from '../types';
 import { DiscGridItem } from './DiscGridItem';
@@ -10,11 +10,6 @@ import { Dropdown } from './Dropdown';
 import { MenuDrawer } from './MenuDrawer';
 import { styles } from './DiscList.styles';
 import { colors } from '../styles/colors';
-
-const EUROPEAN_REGIONS = new Set([
-  'Benelux', 'Denmark', 'Finland', 'France', 'Germany',
-  'Ireland', 'Italy', 'Poland', 'Spain', 'UK',
-]);
 
 type SearchDisc = Disc & { collectionLabel: string };
 const SEARCH_DATA: SearchDisc[] = Object.entries(COLLECTION_DATA).flatMap(
@@ -64,13 +59,24 @@ export function DiscList({ onSelect, onReady, onShowStats, selectedRegion, onReg
     return options;
   }, [activeData]);
 
+  const regionDisplayOption = useMemo(() => {
+    if (regionOptions.some(o => o.value === selectedRegion)) return undefined;
+    if (selectedRegion === ALL_REGIONS) return undefined;
+    const label = selectedRegion === NULL_REGION ? 'No Region' : selectedRegion;
+    const icon = selectedRegion === NULL_REGION ? '🌐' : (REGION_FLAGS[selectedRegion] ?? '🏳️');
+    return { value: selectedRegion, label, icon };
+  }, [regionOptions, selectedRegion]);
+
   const filtered = useMemo(() => {
     let result = activeData;
     if (selectedRegion === NULL_REGION) {
       result = result.filter(d => d.region === null);
     } else if (selectedRegion !== ALL_REGIONS) {
       if (EUROPEAN_REGIONS.has(selectedRegion)) {
-        result = result.filter(d => d.region === selectedRegion || d.region === 'Europe');
+        result = result.filter(d =>
+          d.region === selectedRegion ||
+          (d.region === 'Europe' && !d.excludeRegions?.includes(selectedRegion))
+        );
       } else {
         result = result.filter(d => d.region === selectedRegion);
       }
@@ -89,7 +95,10 @@ export function DiscList({ onSelect, onReady, onShowStats, selectedRegion, onReg
       base = base.filter(d => d.region === null);
     } else if (selectedRegion !== ALL_REGIONS) {
       base = EUROPEAN_REGIONS.has(selectedRegion)
-        ? base.filter(d => d.region === selectedRegion || d.region === 'Europe')
+        ? base.filter(d =>
+            d.region === selectedRegion ||
+            (d.region === 'Europe' && !d.excludeRegions?.includes(selectedRegion))
+          )
         : base.filter(d => d.region === selectedRegion);
     }
     return { total: base.length, collectedCount: base.filter(d => collected.has(d.id)).length };
@@ -102,12 +111,6 @@ export function DiscList({ onSelect, onReady, onShowStats, selectedRegion, onReg
   }, [searchQuery]);
 
   const handleCollectionSelect = (collection: DiscCollection) => {
-    const newData = collection.id === 'master'
-      ? MASTER_DATA
-      : COLLECTION_DATA[collection.id] ?? COLLECTION_DATA['opm'];
-    const regionExists = selectedRegion === ALL_REGIONS ||
-      newData.some(d => d.region === selectedRegion);
-    if (!regionExists) onRegionChange(ALL_REGIONS);
     setActiveCollection(collection);
     scrollToTop();
   };
@@ -189,6 +192,7 @@ export function DiscList({ onSelect, onReady, onShowStats, selectedRegion, onReg
             selected={selectedRegion}
             onSelect={onRegionChange}
             modalTitle="Filter by Region"
+            displayOption={regionDisplayOption}
           />
           <Dropdown
             options={COLLECTION_OPTIONS}
@@ -247,6 +251,11 @@ export function DiscList({ onSelect, onReady, onShowStats, selectedRegion, onReg
           columnWrapperStyle={viewMode === 'grid' ? styles.gridRow : undefined}
           contentContainerStyle={[styles.list, { paddingBottom: insets.bottom + 16 }]}
           ItemSeparatorComponent={viewMode === 'list' ? () => <View style={styles.separator} /> : undefined}
+          ListEmptyComponent={
+            selectedRegion !== ALL_REGIONS
+              ? <Text style={styles.emptyRegionText}>No demos for this region</Text>
+              : null
+          }
         />
 
         {searchOpen && (

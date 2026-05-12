@@ -9,6 +9,7 @@ export type Disc = {
   games: Game[];
   notes?: string;
   coupledGame?: string;
+  excludeRegions?: string[];
 };
 
 export type CollectionFilter = 'all' | 'collected' | 'not-collected';

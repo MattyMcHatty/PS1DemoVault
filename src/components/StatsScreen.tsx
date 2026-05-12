@@ -8,7 +8,7 @@ import {
   View,
 } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
-import { ALL_REGIONS, COLLECTION_DATA, DISC_COLLECTIONS, REGION_FLAGS } from '../constants';
+import { ALL_REGIONS, COLLECTION_DATA, DISC_COLLECTIONS, EUROPEAN_REGIONS, REGION_FLAGS } from '../constants';
 import { useCollected } from '../hooks/useCollected';
 import { colors } from '../styles/colors';
 import { DropdownOption } from '../types';
@@ -58,7 +58,12 @@ export function StatsScreen({ onBack, selectedRegion, onRegionChange }: Props) {
       const allDiscs = COLLECTION_DATA[col.id] ?? [];
       const discs = selectedRegion === ALL_REGIONS
         ? allDiscs
-        : allDiscs.filter(d => d.region === selectedRegion);
+        : EUROPEAN_REGIONS.has(selectedRegion)
+          ? allDiscs.filter(d =>
+              d.region === selectedRegion ||
+              (d.region === 'Europe' && !d.excludeRegions?.includes(selectedRegion))
+            )
+          : allDiscs.filter(d => d.region === selectedRegion);
 
       const total = discs.length;
       const collectedCount = discs.filter(d => collected.has(d.id)).length;

@@ -85,6 +85,12 @@ export const styles = StyleSheet.create({
     bottom: 0,
     backgroundColor: colors.background,
   },
+  emptyRegionText: {
+    marginTop: 48,
+    textAlign: 'center',
+    fontSize: 15,
+    color: colors.textMuted,
+  },
   searchPrompt: {
     marginTop: 48,
     textAlign: 'center',

@@ -3,6 +3,7 @@
     "id": 1,
     "productCode": "SCES-00048",
     "region": "Europe",
+    "excludeRegions": ["UK"],
     "title": "Demo 1 EUROPE",
     "games": [
       {
@@ -70,7 +71,8 @@
       "https://crimson-ceremony.net/demopals/demo1/ver1-eur1-1.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver1-eur1-2.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver1-uk1-3.jpg"
-    ]
+    ],
+    "notes": "The first print run came in a thin gatefold cardsleeve, where one pouch held the disc and the other held a registration card. A later print run came in a digipak case with SCES-00120 printed on the front, though still with SCED-00048 disc. The front panel had a large space for a registration booklet, resulting in the digipak being quite thick."
   },
   {
     "id": 2,
@@ -144,13 +146,15 @@
       "https://crimson-ceremony.net/demopals/demo1/ver1-uk1-2.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver1-uk1-3.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver1-uk1-4.jpg"
-    ]
+    ],
+        "notes": "The first print run came in a thin gatefold cardsleeve, where one pouch held the disc and the other held a registration card. A later print run came in a digipak case with SCES-00120 printed on the front, though still with SCED-00048 disc. The front panel had a large space for a registration booklet, resulting in the digipak being quite thick."
+
   },
   {
     "id": 3,
-    "productCode": "SCES-00120",
+    "productCode": "SCES-00048",
     "region": "UK",
-    "title": "Demo 1 U.K.",
+    "title": "Demo 1 U.K. (SCES-00120 Misprint)",
     "games": [
       {
         "title": "Battle Arena Toshinden",
@@ -217,7 +221,9 @@
       "https://crimson-ceremony.net/demopals/demo1/ver1-uk2-1.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver1-uk2-2.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver1-uk1-3.jpg"
-    ]
+    ],
+        "notes": "The first print run came in a thin gatefold cardsleeve, where one pouch held the disc and the other held a registration card. A later print run came in a digipak case with SCES-00120 printed on the front, though still with SCED-00048 disc. The front panel had a large space for a registration booklet, resulting in the digipak being quite thick."
+
   },
   {
     "id": 4,
@@ -282,13 +288,14 @@
       "https://crimson-ceremony.net/demopals/demo1/ver1-ger2-1.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver1-ger2-2.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver1-ger1-3.jpg"
-    ]
+    ],
+    "notes": "German edition of SCES-00048, featuring less games. The first print run came in a thin gatefold cardsleeve, where one pouch held the disc and the other held a registration card. A later print run came in a digipak case with SCES-00121 printed on the front, though still with SCED-00064 disc. The front panel had a large space for a registration booklet, resulting in the digipak being quite thick. This was probably released between the first edition and the actual SCES-00121 further below on this page. Too many copies have surfaced like this for it to be a case of misplaced discs."
   },
   {
     "id": 5,
-    "productCode": "SCES-00121",
+    "productCode": "SCES-00064",
     "region": "Germany",
-    "title": "Demo 1 GER",
+    "title": "Demo 1 GER (SCES-00121 Misprint)",
     "games": [
       {
         "title": "Destruction Derby",
@@ -348,12 +355,15 @@
       "https://crimson-ceremony.net/demopals/demo1/ver1-ger1-2.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver1-ger1-3.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver1-ger1-4.jpg"
-    ]
+    ],
+        "notes": "German edition of SCES-00048, featuring less games. The first print run came in a thin gatefold cardsleeve, where one pouch held the disc and the other held a registration card. A later print run came in a digipak case with SCES-00121 printed on the front, though still with SCED-00064 disc. The front panel had a large space for a registration booklet, resulting in the digipak being quite thick. This was probably released between the first edition and the actual SCES-00121 further below on this page. Too many copies have surfaced like this for it to be a case of misplaced discs."
+
   },
   {
     "id": 6,
     "productCode": "SCES-00120",
     "region": "Europe",
+    "excludeRegions": ["UK"],
     "title": "Demo 1 EUROPE",
     "games": [
       {
@@ -441,7 +451,8 @@
       "https://crimson-ceremony.net/demopals/demo1/ver2-eur1-1.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver2-eur1-2.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver2-uk1-3.jpg"
-    ]
+    ],
+    "notes": "All variations came in digipaks with space for inserts or booklets in the front panels, and all may have come with one even if not shown here. The digipaks are thinner than the second print of SCED-00048 with mislabeled digipaks."
   },
   {
     "id": 7,
@@ -535,7 +546,9 @@
       "https://crimson-ceremony.net/demopals/demo1/ver2-uk1-2.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver2-uk1-3.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver2-uk1-4.jpg"
-    ]
+    ],
+        "notes": "All variations came in digipaks with space for inserts or booklets in the front panels, and all may have come with one even if not shown here. The digipaks are thinner than the second print of SCED-00048 with mislabeled digipaks."
+
   },
   {
     "id": 8,
@@ -628,7 +641,9 @@
       "https://crimson-ceremony.net/demopals/demo1/ver2-aus1-1.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver2-aus1-2.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver2-uk1-3.jpg"
-    ]
+    ],
+        "notes": "All variations came in digipaks with space for inserts or booklets in the front panels, and all may have come with one even if not shown here. The digipaks are thinner than the second print of SCED-00048 with mislabeled digipaks."
+
   },
   {
     "id": 9,
@@ -715,13 +730,15 @@
       "https://crimson-ceremony.net/demopals/demo1/ver2-ger1-3.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver2-ger1-4.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver2-ger1-5.jpg"
-    ]
+    ],
+    "notes": "The disc came in a thick digipak with a registration booklet. The digipak is the same as the one the second print of SCED-00064 was placed in. I am not sure if the advertisement sheet was originally included."
   },
   {
     "id": 10,
     "productCode": "SCES-00238 9626626/9626725/9626824",
     "region": "Europe",
     "title": "Demo 1 EUROPE",
+    "excludeRegions": ["UK"],
     "games": [
       {
         "title": "Actua Golf",
@@ -772,7 +789,8 @@
       "https://crimson-ceremony.net/demopals/demo1/ver3-eur1-1.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver3-eur1-2.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver3-aus1-3.jpg"
-    ]
+    ],
+    "notes": "The demo came with a booklet with registration cards and warranty information in multiple languages. The cards could be torn out and mailed in the included envelope."
   },
   {
     "id": 11,
@@ -829,7 +847,9 @@
       "https://crimson-ceremony.net/demopals/demo1/ver3-uk1-1.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver3-uk1-2.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver3-aus1-3.jpg"
-    ]
+    ],
+        "notes": "The demo came with a booklet with registration cards and warranty information in multiple languages. The cards could be torn out and mailed in the included envelope."
+
   },
   {
     "id": 12,
@@ -886,13 +906,16 @@
       "https://crimson-ceremony.net/demopals/demo1/ver3-aus1-1.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver3-aus1-2.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver3-aus1-3.jpg"
-    ]
+    ],
+        "notes": "The demo came with a booklet with registration cards and warranty information in multiple languages. The cards could be torn out and mailed in the included envelope."
+
   },
   {
     "id": 13,
     "productCode": "SCED-00456 9637226/9637325/9637424",
     "region": "Europe",
     "title": "Demo 1 EUROPE",
+    "excludeRegions": ["UK"],
     "games": [
       {
         "title": "Actua Golf",
@@ -964,13 +987,15 @@
       "https://crimson-ceremony.net/demopals/demo1/ver4-eur1-3.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver4-uk1-4.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver4-eur1-1.jpg"
-    ]
+    ],
+    "notes": "The European and British first editions came in standard PlayStation cases, with registration card booklets and mailing envelopes. The second European variant came in a normal jewelcase, possibly without a front insert. The Australian edition came in a black cardsleeve. The disc also seems to have been included with PS One Demo Disc 02 and Registered Users Demo 08, though that is strange as they are much later demos. Perhaps they were added by previous owners."
   },
   {
     "id": 14,
     "productCode": "SCED-00456 9637226/9637325/9637424",
     "region": "Europe",
     "title": "Demo One",
+    "excludeRegions": ["UK"],
     "games": [
       {
         "title": "Actua Golf",
@@ -1041,7 +1066,9 @@
       "https://crimson-ceremony.net/demopals/demo1/ver4-eur2-1.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver4-uk1-4.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver4-eur1-1.jpg"
-    ]
+    ],
+        "notes": "The European and British first editions came in standard PlayStation cases, with registration card booklets and mailing envelopes. The second European variant came in a normal jewelcase, possibly without a front insert. The Australian edition came in a black cardsleeve. The disc also seems to have been included with PS One Demo Disc 02 and Registered Users Demo 08, though that is strange as they are much later demos. Perhaps they were added by previous owners."
+
   },
   {
     "id": 15,
@@ -1120,7 +1147,9 @@
       "https://crimson-ceremony.net/demopals/demo1/ver4-uk1-3.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver4-uk1-4.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver4-eur1-1.jpg"
-    ]
+    ],
+        "notes": "The European and British first editions came in standard PlayStation cases, with registration card booklets and mailing envelopes. The second European variant came in a normal jewelcase, possibly without a front insert. The Australian edition came in a black cardsleeve. The disc also seems to have been included with PS One Demo Disc 02 and Registered Users Demo 08, though that is strange as they are much later demos. Perhaps they were added by previous owners."
+
   },
   {
     "id": 16,
@@ -1197,7 +1226,9 @@
       "https://crimson-ceremony.net/demopals/demo1/ver4-aus1-1.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver4-aus1-2.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver4-eur1-1.jpg"
-    ]
+    ],
+        "notes": "The European and British first editions came in standard PlayStation cases, with registration card booklets and mailing envelopes. The second European variant came in a normal jewelcase, possibly without a front insert. The Australian edition came in a black cardsleeve. The disc also seems to have been included with PS One Demo Disc 02 and Registered Users Demo 08, though that is strange as they are much later demos. Perhaps they were added by previous owners."
+
   },
   {
     "id": 17,
@@ -1268,7 +1299,8 @@
     ],
     "imageUrls": [
       "https://crimson-ceremony.net/demopals/demo1/ver4-ger1-1.jpg"
-    ]
+    ],
+    "notes": "German version of SCED-00456, missing the Die Hard Trilogy demo. Seems to have come in a black paper sleeve."
   },
   {
     "id": 18,
@@ -1333,7 +1365,8 @@
       "https://crimson-ceremony.net/demopals/demo1/ver5-eur1-1.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver5-eur1-2.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver5-eur1-3.jpg"
-    ]
+    ],
+    "notes": "The first three listed variants came with identical discs. The first came in a red sleeve with Formula 1 '97 listed as a playable demo, although it is not on the disc. On the second red sleeve the title has been removed from the list. The third variant came in a purple sleeve. These three were printed and pressed in Japan. There is an unconfirmed variant which came in a purple paper sleeve with a top flap. The fourth, differently titled disc was pressed in Austria like most PAL demos."
   },
   {
     "id": 19,
@@ -1398,7 +1431,8 @@
       "https://crimson-ceremony.net/demopals/demo1/ver5-eur2-1.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver5-eur2-2.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver5-eur1-3.jpg"
-    ]
+    ],
+    "notes": "The European and British first editions came in standard PlayStation cases, with registration card booklets and mailing envelopes. The second European variant came in a normal jewelcase, possibly without a front insert. The Australian edition came in a black cardsleeve. The disc also seems to have been included with PS One Demo Disc 02 and Registered Users Demo 08, though that is strange as they are much later demos. Perhaps they were added by previous owners."
   },
   {
     "id": 20,
@@ -1463,7 +1497,8 @@
       "https://crimson-ceremony.net/demopals/demo1/ver5-eur3-1.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver5-eur3-2.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver5-eur1-3.jpg"
-    ]
+    ],
+    "notes": "The European and British first editions came in standard PlayStation cases, with registration card booklets and mailing envelopes. The second European variant came in a normal jewelcase, possibly without a front insert. The Australian edition came in a black cardsleeve. The disc also seems to have been included with PS One Demo Disc 02 and Registered Users Demo 08, though that is strange as they are much later demos. Perhaps they were added by previous owners."
   },
   {
     "id": 21,
@@ -1526,7 +1561,9 @@
     ],
     "imageUrls": [
       "https://crimson-ceremony.net/demopals/demo1/ver5-eur4-1.jpg"
-    ]
+    ],
+        "notes": "The first three listed variants came with identical discs. The first came in a red sleeve with Formula 1 '97 listed as a playable demo, although it is not on the disc. On the second red sleeve the title has been removed from the list. The third variant came in a purple sleeve. These three were printed and pressed in Japan. There is an unconfirmed variant which came in a purple paper sleeve with a top flap. The fourth, differently titled disc was pressed in Austria like most PAL demos."
+
   },
   {
     "id": 22,
@@ -1571,52 +1608,8 @@
       "https://crimson-ceremony.net/demopals/demo1/ver6-eur1-1.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver6-eur1-2.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver6-eur1-3.jpg"
-    ]
-  },
-  {
-    "id": 23,
-    "productCode": "PBPX-95007 9744429",
-    "region": "Europe",
-    "title": "Demo One EUROPE (SCED-00816 error)",
-    "games": [
-      {
-        "title": "Gran Turismo",
-        "category": "playable"
-      },
-      {
-        "title": "Kula World",
-        "category": "playable"
-      },
-      {
-        "title": "Medievil",
-        "category": "playable"
-      },
-      {
-        "title": "Tekken 3",
-        "category": "playable"
-      },
-      {
-        "title": "Crash Bandicoot 3: Warped",
-        "category": "trailer"
-      },
-      {
-        "title": "Metal Gear Solid",
-        "category": "trailer"
-      },
-      {
-        "title": "Spice World",
-        "category": "trailer"
-      },
-      {
-        "title": "Spyro the Dragon",
-        "category": "trailer"
-      }
     ],
-    "imageUrls": [
-      "https://crimson-ceremony.net/demopals/demo1/ver6-aus1-1.jpg",
-      "https://crimson-ceremony.net/demopals/demo1/ver6-aus1-2.jpg",
-      "https://crimson-ceremony.net/demopals/demo1/ver6-aus1-3.jpg"
-    ]
+    "notes": "SCED-00816 is printed on the sleeve in error on some copies. The three variations were pressed in Austria, Australia, and Japan, respectively, but all were distributed in Europe."
   },
   {
     "id": 24,
@@ -1661,7 +1654,9 @@
       "https://crimson-ceremony.net/demopals/demo1/ver6-eur2-1.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver6-eur2-2.jpg",
       "https://crimson-ceremony.net/demopals/demo1/ver6-eur2-3.jpg"
-    ]
+    ],
+        "notes": "SCED-00816 is printed on the sleeve in error on some copies. The three variations were pressed in Austria, Australia, and Japan, respectively, but all were distributed in Europe."
+
   },
   {
     "id": 25,

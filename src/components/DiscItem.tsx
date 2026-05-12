@@ -16,7 +16,7 @@ export function DiscItem({ item, collected, onToggle, onImagePress }: Props) {
   return (
     <View style={styles.row}>
       <Checkbox checked={collected} onPress={onToggle} />
-      <Pressable style={styles.titleWrap} onPressIn={onToggle}>
+      <Pressable style={styles.titleWrap} onPress={onToggle}>
         <Text style={[styles.title, collected && styles.titleCollected]} numberOfLines={3}>
           {item.title}
         </Text>

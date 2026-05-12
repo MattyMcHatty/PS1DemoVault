@@ -12,6 +12,11 @@ export const ALL_REGIONS = 'All';
 export const NULL_REGION = '__no_region__';
 export const STORAGE_KEY = 'collected_discs';
 
+export const EUROPEAN_REGIONS = new Set([
+  'Benelux', 'Denmark', 'Finland', 'France', 'Germany',
+  'Ireland', 'Italy', 'Poland', 'Spain', 'UK',
+]);
+
 export const REGION_FLAGS: Record<string, string> = {
   All:         '🌍',
   Australia:   '🇦🇺',

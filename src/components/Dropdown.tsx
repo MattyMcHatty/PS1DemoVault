@@ -8,11 +8,12 @@ type Props = {
   selected: string;
   onSelect: (v: string) => void;
   modalTitle: string;
+  displayOption?: DropdownOption;
 };
 
-export function Dropdown({ options, selected, onSelect, modalTitle }: Props) {
+export function Dropdown({ options, selected, onSelect, modalTitle, displayOption }: Props) {
   const [open, setOpen] = useState(false);
-  const current = options.find(o => o.value === selected) ?? options[0];
+  const current = displayOption ?? options.find(o => o.value === selected) ?? options[0];
 
   return (
     <View style={styles.dropdown}>

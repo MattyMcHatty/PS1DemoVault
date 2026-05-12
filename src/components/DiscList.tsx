@@ -1,7 +1,8 @@
 import React, { useRef, useMemo, useState, useEffect } from 'react';
-import { FlatList, Image, ListRenderItemInfo, StatusBar, Text, TextInput, TouchableOpacity, View } from 'react-native';
+import { Dimensions, FlatList, Image, ListRenderItemInfo, StatusBar, Text, TextInput, TouchableOpacity, View } from 'react-native';
+import ConfettiCannon from 'react-native-confetti-cannon';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
-import { ALL_REGIONS, COLLECTION_DATA, COLLECTION_OPTIONS, DISC_COLLECTIONS, EUROPEAN_REGIONS, MASTER_DATA, NULL_REGION, REGION_FLAGS } from '../constants';
+import { ALL_REGIONS, COLLECTION_DATA, COLLECTION_OPTIONS, DISC_COLLECTIONS, EUROPEAN_REGIONS, getMedal, getMedalColor, MASTER_DATA, NULL_REGION, REGION_FLAGS } from '../constants';
 import { useCollected } from '../hooks/useCollected';
 import { CollectionFilter, Disc, DiscCollection } from '../types';
 import { DiscGridItem } from './DiscGridItem';
@@ -23,11 +24,12 @@ type Props = {
   onSelect: (disc: Disc) => void;
   onReady: () => void;
   onShowStats: () => void;
+  onShowAbout: () => void;
   selectedRegion: string;
   onRegionChange: (region: string) => void;
 };
 
-export function DiscList({ onSelect, onReady, onShowStats, selectedRegion, onRegionChange }: Props) {
+export function DiscList({ onSelect, onReady, onShowStats, onShowAbout, selectedRegion, onRegionChange }: Props) {
   const insets = useSafeAreaInsets();
   const [activeCollection, setActiveCollection] = useState<DiscCollection>(DISC_COLLECTIONS[0]);
   const [collectionFilter, setCollectionFilter] = useState<CollectionFilter>('all');
@@ -103,6 +105,20 @@ export function DiscList({ onSelect, onReady, onShowStats, selectedRegion, onReg
     }
     return { total: base.length, collectedCount: base.filter(d => collected.has(d.id)).length };
   }, [activeData, selectedRegion, collected]);
+
+  const [showConfetti, setShowConfetti] = useState(false);
+  const prevCollectedRef = useRef(0);
+  const prevViewKeyRef = useRef('');
+  useEffect(() => {
+    const { collectedCount, total } = stats;
+    const viewKey = `${activeCollection.id}-${selectedRegion}`;
+    const viewChanged = prevViewKeyRef.current !== viewKey;
+    if (!viewChanged && total > 0 && collectedCount === total && prevCollectedRef.current < total) {
+      setShowConfetti(true);
+    }
+    prevCollectedRef.current = collectedCount;
+    prevViewKeyRef.current = viewKey;
+  }, [stats, activeCollection.id, selectedRegion]);
 
   const searchResults = useMemo((): SearchDisc[] => {
     const q = searchQuery.trim().toLowerCase();
@@ -182,7 +198,8 @@ export function DiscList({ onSelect, onReady, onShowStats, selectedRegion, onReg
         visible={menuOpen}
         activeCollection={activeCollection.id}
         onSelect={handleCollectionSelect}
-        onShowStats={() => { onShowStats(); setMenuOpen(false); }}
+        onShowStats={() => { setMenuOpen(false); setTimeout(onShowStats, 250); }}
+        onShowAbout={() => { setMenuOpen(false); setTimeout(onShowAbout, 250); }}
         onClose={() => setMenuOpen(false)}
       />
       <View style={styles.contentArea}>
@@ -213,14 +230,13 @@ export function DiscList({ onSelect, onReady, onShowStats, selectedRegion, onReg
         <View style={styles.statsBar}>
           <Text style={styles.statsText}>
             {stats.collectedCount} / {stats.total} collected
-            {stats.total > 0 && stats.collectedCount === stats.total ? '  🥇' : ''}
+            {getMedal(stats.collectedCount, stats.total) ? `  ${getMedal(stats.collectedCount, stats.total)}` : ''}
           </Text>
           <View style={styles.progressTrack}>
             <View
               style={[
                 styles.progressFill,
-                stats.total > 0 && stats.collectedCount === stats.total && styles.progressFillGold,
-                { width: `${stats.total ? (stats.collectedCount / stats.total) * 100 : 0}%` },
+                { width: `${stats.total ? (stats.collectedCount / stats.total) * 100 : 0}%`, backgroundColor: getMedalColor(stats.collectedCount, stats.total) },
               ]}
             />
           </View>
@@ -293,6 +309,15 @@ export function DiscList({ onSelect, onReady, onShowStats, selectedRegion, onReg
           </View>
         )}
       </View>
+      {showConfetti && (
+        <ConfettiCannon
+          count={250}
+          origin={{ x: Dimensions.get('window').width / 2, y: -50 }}
+          autoStart
+          fadeOut
+          onAnimationEnd={() => setShowConfetti(false)}
+        />
+      )}
     </View>
   );
 }

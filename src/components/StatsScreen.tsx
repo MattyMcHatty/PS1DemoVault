@@ -8,7 +8,7 @@ import {
   View,
 } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
-import { ALL_REGIONS, COLLECTION_DATA, DISC_COLLECTIONS, EUROPEAN_REGIONS, REGION_FLAGS } from '../constants';
+import { ALL_REGIONS, COLLECTION_DATA, DISC_COLLECTIONS, EUROPEAN_REGIONS, getMedal, getMedalColor, REGION_FLAGS } from '../constants';
 import { useCollected } from '../hooks/useCollected';
 import { colors } from '../styles/colors';
 import { DropdownOption } from '../types';
@@ -122,17 +122,17 @@ export function StatsScreen({ onBack, selectedRegion, onRegionChange }: Props) {
           <Text style={styles.grandTotalLabel}>TOTAL COLLECTED</Text>
           <Text style={styles.grandTotalCount}>
             {grandCollected} / {grandTotal}
-            {grandCollected === grandTotal && grandTotal > 0 ? '  🥇' : ''}
+            {getMedal(grandCollected, grandTotal) ? `  ${getMedal(grandCollected, grandTotal)}` : ''}
           </Text>
           <View style={styles.progressTrack}>
-            <View style={[styles.progressFill, grandCollected === grandTotal && grandTotal > 0 && styles.progressFillGold, { width: `${grandPct}%` }]} />
+            <View style={[styles.progressFill, { width: `${grandPct}%`, backgroundColor: getMedalColor(grandCollected, grandTotal) }]} />
           </View>
           <Text style={styles.sectionPct}>{grandPct}%</Text>
         </View>
 
         {visibleStats.map((s, i) => {
           const pct = s.total ? Math.round((s.collectedCount / s.total) * 100) : 0;
-          const complete = s.total > 0 && s.collectedCount === s.total;
+          const medal = getMedal(s.collectedCount, s.total);
           return (
             <View key={s.id}>
               {i > 0 && <View style={styles.divider} />}
@@ -140,12 +140,12 @@ export function StatsScreen({ onBack, selectedRegion, onRegionChange }: Props) {
                 <Text style={styles.sectionTitle}>{s.label}</Text>
                 <View style={styles.sectionRow}>
                   <Text style={styles.sectionCount}>
-                    {s.collectedCount} / {s.total}{complete ? '  🥇' : ''}
+                    {s.collectedCount} / {s.total}{medal ? `  ${medal}` : ''}
                   </Text>
                   <Text style={styles.sectionPct}>{pct}%</Text>
                 </View>
                 <View style={styles.progressTrack}>
-                  <View style={[styles.progressFill, complete && styles.progressFillGold, { width: `${pct}%` }]} />
+                  <View style={[styles.progressFill, { width: `${pct}%`, backgroundColor: getMedalColor(s.collectedCount, s.total) }]} />
                 </View>
 
                 {showRegionBreakdown && (

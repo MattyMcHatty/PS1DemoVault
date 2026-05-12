@@ -12,6 +12,24 @@ export const ALL_REGIONS = 'All';
 export const NULL_REGION = '__no_region__';
 export const STORAGE_KEY = 'collected_discs';
 
+export function getMedal(collected: number, total: number): string {
+  if (total === 0) return '';
+  const pct = collected / total;
+  if (pct >= 1)    return '🥇';
+  if (pct >= 0.75) return '🥈';
+  if (pct >= 0.5)  return '🥉';
+  return '';
+}
+
+export function getMedalColor(collected: number, total: number): string {
+  if (total === 0) return '#22c55e';
+  const pct = collected / total;
+  if (pct >= 1)    return '#FFD700';
+  if (pct >= 0.75) return '#C0C0C0';
+  if (pct >= 0.5)  return '#CD7F32';
+  return '#22c55e';
+}
+
 export const EUROPEAN_REGIONS = new Set([
   'Benelux', 'Denmark', 'Finland', 'France', 'Germany',
   'Ireland', 'Italy', 'Poland', 'Spain', 'UK',

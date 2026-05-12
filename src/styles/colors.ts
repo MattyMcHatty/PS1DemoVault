@@ -10,5 +10,7 @@ export const colors = {
   green:       '#22c55e',
   greenDark:   '#052e16',
   gold:        '#FFD700',
+  silver:      '#C0C0C0',
+  bronze:      '#CD7F32',
   white:       '#ffffff',
 };

@@ -19,10 +19,11 @@ type Props = {
   activeCollection: string;
   onSelect: (collection: DiscCollection) => void;
   onShowStats: () => void;
+  onShowAbout: () => void;
   onClose: () => void;
 };
 
-export function MenuDrawer({ visible, activeCollection, onSelect, onShowStats, onClose }: Props) {
+export function MenuDrawer({ visible, activeCollection, onSelect, onShowStats, onShowAbout, onClose }: Props) {
   const [modalVisible, setModalVisible] = useState(false);
   const translateX = useRef(new Animated.Value(-DRAWER_WIDTH)).current;
   const backdropOpacity = useRef(new Animated.Value(0)).current;
@@ -100,6 +101,14 @@ export function MenuDrawer({ visible, activeCollection, onSelect, onShowStats, o
             >
               <Text style={styles.itemIcon}>📊</Text>
               <Text style={styles.itemLabel}>Statistics</Text>
+            </TouchableOpacity>
+            <TouchableOpacity
+              style={styles.item}
+              onPress={() => { onShowAbout(); onClose(); }}
+              activeOpacity={0.7}
+            >
+              <Text style={styles.itemIcon}>ℹ️</Text>
+              <Text style={styles.itemLabel}>About</Text>
             </TouchableOpacity>
           </Animated.View>
           <TouchableOpacity style={styles.closeArea} onPress={onClose} activeOpacity={1} />

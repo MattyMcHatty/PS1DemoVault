@@ -12,7 +12,7 @@ import { MenuDrawer } from './MenuDrawer';
 import { styles } from './DiscList.styles';
 import { colors } from '../styles/colors';
 
-type SearchDisc = Disc & { collectionLabel: string };
+type SearchDisc = Disc & { collectionLabel: string; matchedGame?: { title: string; category: string } };
 const SEARCH_DATA: SearchDisc[] = Object.entries(COLLECTION_DATA).flatMap(
   ([colId, discs]) => {
     const label = DISC_COLLECTIONS.find(c => c.id === colId)?.label ?? colId;
@@ -123,7 +123,12 @@ export function DiscList({ onSelect, onReady, onShowStats, onShowAbout, selected
   const searchResults = useMemo((): SearchDisc[] => {
     const q = searchQuery.trim().toLowerCase();
     if (!q) return [];
-    return SEARCH_DATA.filter(d => d.title.toLowerCase().includes(q));
+    return SEARCH_DATA.flatMap(d => {
+      const discMatch = d.title.toLowerCase().includes(q);
+      const gameMatch = d.games.find(g => g.title.toLowerCase().includes(q));
+      if (!discMatch && !gameMatch) return [];
+      return [{ ...d, matchedGame: gameMatch && !discMatch ? gameMatch : undefined }];
+    });
   }, [searchQuery]);
 
   const handleCollectionSelect = (collection: DiscCollection) => {
@@ -293,6 +298,11 @@ export function DiscList({ onSelect, onReady, onShowStats, onShowAbout, selected
                     )}
                     <View style={styles.searchResultText}>
                       <Text style={styles.searchResultTitle} numberOfLines={2}>{item.title}</Text>
+                      {item.matchedGame && (
+                        <Text style={styles.searchResultGame} numberOfLines={1}>
+                          {item.matchedGame.title}  ·  {item.matchedGame.category.charAt(0).toUpperCase() + item.matchedGame.category.slice(1)}
+                        </Text>
+                      )}
                       <Text style={styles.searchResultMeta}>
                         {item.collectionLabel}{item.region ? `  ·  ${REGION_FLAGS[item.region] ?? ''}  ${item.region}` : ''}
                       </Text>
@@ -304,7 +314,7 @@ export function DiscList({ onSelect, onReady, onShowStats, onShowAbout, selected
                 keyboardShouldPersistTaps="handled"
               />
             ) : (
-              <Text style={styles.searchPrompt}>Type a disc title to search all collections</Text>
+              <Text style={styles.searchPrompt}>Type a demo title or game title to search all collections</Text>
             )}
           </View>
         )}

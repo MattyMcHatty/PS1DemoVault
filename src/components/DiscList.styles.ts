@@ -123,6 +123,11 @@ export const styles = StyleSheet.create({
     color: colors.text,
     lineHeight: 20,
   },
+  searchResultGame: {
+    fontSize: 12,
+    color: colors.textSubdued,
+    fontStyle: 'italic',
+  },
   searchResultMeta: {
     fontSize: 12,
     color: colors.textMuted,
